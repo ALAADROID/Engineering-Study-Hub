@@ -12,6 +12,7 @@ ________________________
   حساب احتمالات التوزيع المنتظم والتوزيع الأسي
 
 ---
+https://www.youtube.com/watch?v=QxqxdQ_g2uw
 
 ## Continuous Random Variables
 A continuous random variable can take any value on a continuum.  
