@@ -160,3 +160,111 @@ P(X < 8.6) = 0.5478
 Not required:
 - Full density function formula (usually)
 
+---
+# Chapter 6 – Normal Distribution (Exam Notes)
+
+## 1. Mean (μ) and Standard Deviation (σ)
+You **never guess** μ and σ.
+
+They come from **only one of these**:
+1. Explicitly stated in the problem  
+2. Defined earlier in the example/context (e.g., *OurCampus!*)  
+3. The phrase **“standardized normal distribution”**  
+   - μ = 0  
+   - σ = 1  
+
+If none are given → the question is **incomplete**.
+
+---
+
+## 2. Continuous Distribution Rules
+- P(X = exact value) = 0
+- Valid probabilities only:
+  - P(X < a)
+  - P(X > a)
+  - P(a < X < b)
+
+---
+
+## 3. Translating Words to Probability
+
+| Phrase in Question | Mathematical Meaning |
+|-------------------|---------------------|
+| more than a | P(X > a) |
+| less than / under a | P(X < a) |
+| between a and b | P(a < X < b) |
+| fastest x% | P(X < ?) |
+| slowest x% | P(X > ?) |
+| middle x% | symmetric around μ |
+
+---
+
+## 4. Standardization Formula (MEMORIZE)
+
+Z = (X − μ) / σ
+
+Use this when the distribution is **not** standard normal.
+
+---
+
+## 5. Z-Table Rules
+- Z-table gives **P(Z ≤ value)**
+- Upper tail:
+P(Z > a) = 1 − P(Z ≤ a)
+
+
+- Lower tail: use table directly
+- Between two values: subtract
+- `<` and `≤` are the same (continuous distribution)
+
+---
+
+## 6. Finding X from a Given Probability
+Used for:
+- fastest %
+- slowest %
+- cutoff values
+
+Steps:
+1. Find Z from the table
+2. Convert back:
+X = μ + Zσ
+
+---
+
+## 7. Important Z Values to Memorize
+
+| Description | Z |
+|------------|---|
+| Middle 90% | ±1.645 |
+| Middle 95% | ±1.96 |
+| Middle 99% | ±2.576 |
+| Fastest 10% | −1.28 |
+| Slowest 10% | +1.28 |
+
+---
+
+## 8. Symmetric Questions
+If the problem says:
+> "symmetrically around the mean"
+
+Then:
+- Use ±Z
+- Convert both limits to X
+
+---
+
+## 9. Exam Solving Checklist
+1. Identify μ and σ  
+2. Translate words → probability  
+3. Convert X → Z (if needed)  
+4. Use Z-table correctly  
+5. Convert back to X (if needed)
+
+---
+
+## 10. Common Mistakes to Avoid
+- Assuming μ or σ  
+- Using P(X = value)  
+- Forgetting `1 − table` for upper tail  
+- Using the wrong Z sign
