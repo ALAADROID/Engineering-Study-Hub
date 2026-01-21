@@ -61,6 +61,7 @@ Because:
 3. Swap if needed
 4. Repeat until correct position
 
+<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/fbad5c8d-dbd4-4318-a5c1-31751ef132b5" />
 Worst case: moves from bottom to root → O(log n)
 
 ---
