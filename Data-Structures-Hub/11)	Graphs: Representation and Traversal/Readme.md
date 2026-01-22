@@ -102,6 +102,11 @@ Traversal = visiting all reachable vertices.
 
 ---
 
+## BFS & DFS:
+<img width="1001" height="501" alt="image" src="https://github.com/user-attachments/assets/030ba19a-b342-4a2d-8d57-4e2e2bd46b6e" />
+
+---
+
 ## 5. MCQ Facts (Must Memorize)
 - BFS uses → **Queue**
 - DFS uses → **Stack / Recursion**
