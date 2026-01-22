@@ -27,7 +27,7 @@ Traversal = visiting all vertices of a graph.
 - Only for **Directed Acyclic Graphs (DAG)**
 - Orders vertices based on dependencies
 - Uses:
-  - DFS OR
+  - DFS OR BFS
   - In-degree + Queue
 - If cycle exists → ❌ no topological sort
 
