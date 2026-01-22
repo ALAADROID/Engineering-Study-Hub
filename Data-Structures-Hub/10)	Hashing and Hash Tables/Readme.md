@@ -154,6 +154,17 @@ When load factor becomes too high:
 
 ---
 
+## Comparesation 
+
+| The way           | Uses List? | Problem                 |
+| ----------------- | ------------ | --------------------- |
+| Chaining          | ✔ نعم        | مساحة إضافية          |
+| Linear Probing    | ❌ لا         | Clustering            |
+| Quadratic Probing | ❌ لا         | قد لا يزور كل الخانات |
+| Double Hashing    | ❌ لا         | أعقد قليلًا           |
+
+---
+
 ## Common MCQ Traps ❗
 
 ✔ Hash tables are **not sorted**  
