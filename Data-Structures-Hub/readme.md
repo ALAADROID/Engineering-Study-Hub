@@ -156,3 +156,11 @@ Radix:
 - DFS → Stack
 - Hash table ≠ sorted
 - Dijkstra ❌ negative weights
+
+---
+
+<img width="936" height="1247" alt="1" src="https://github.com/user-attachments/assets/8dbf0ac5-336c-494e-84dc-96bf80dd0e27" />
+<img width="936" height="1247" alt="2" src="https://github.com/user-attachments/assets/60276e62-2c9b-4bd1-a629-cfb99b4cec4c" />
+<img width="936" height="1247" alt="3" src="https://github.com/user-attachments/assets/93f2590a-e905-414e-b42d-e3fda60971e5" />
+<img width="936" height="774" alt="4" src="https://github.com/user-attachments/assets/f9f4ff29-1c4b-4f46-985b-ee484949c1e5" />
+
