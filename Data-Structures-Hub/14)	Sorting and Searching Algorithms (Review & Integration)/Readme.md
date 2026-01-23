@@ -32,11 +32,6 @@ Algorithms that do not compare elements directly:
 Used when:
 - Data range is known
 - Data is numeric (digits)
----
-## Radix Sort:
-
-<img width="328" height="154" alt="image" src="https://github.com/user-attachments/assets/85eeb644-974a-4bb5-b24c-068fc22e00f7" />
-
 
 ---
 
@@ -95,6 +90,8 @@ Properties:
 - Stable ✔
 - Extra memory ❌
 
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/62c35aa3-bad1-4fe0-9f56-04071c8519a5" />
+
 ---
 
 ### Quick Sort
@@ -109,6 +106,8 @@ Properties:
 - In-place ✔
 - Not stable ❌
 
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/1d2f3913-1683-4bb5-9723-5e2af6963128" />
+
 ---
 
 ## 5. Non-Comparison Sorting
@@ -122,6 +121,8 @@ Time Complexity:
 Notes:
 - Uses Counting Sort internally
 - Works only with numbers / fixed-length keys
+
+<img width="328" height="154" alt="image" src="https://github.com/user-attachments/assets/85eeb644-974a-4bb5-b24c-068fc22e00f7" />
 
 ---
 
