@@ -32,6 +32,11 @@ Algorithms that do not compare elements directly:
 Used when:
 - Data range is known
 - Data is numeric (digits)
+---
+## Radix Sort:
+
+<img width="328" height="154" alt="image" src="https://github.com/user-attachments/assets/85eeb644-974a-4bb5-b24c-068fc22e00f7" />
+
 
 ---
 
