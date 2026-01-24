@@ -1,5 +1,8 @@
 # Statistics – Exam Review Notes
 ## Chapter 1 & Chapter 2
+[📁The files:
+[chapter1.pdf](https://github.com/user-attachments/files/24835794/chapter1.pdf),
+[chapter2.pdf](https://github.com/user-attachments/files/24835795/chapter2.pdf)]
 
 ---
 
