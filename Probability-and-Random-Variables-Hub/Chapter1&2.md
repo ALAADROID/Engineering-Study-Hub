@@ -48,7 +48,7 @@ It contains:
    Range = Maximum - Minimum
 3. **Select number of classes** (usually between 5 and 15)  
 4. **Compute class width**  
-   Class Width = Range / Number of Classes "round up if needed"
+   Class Width = Range / Number of Classes. "round up if needed"
 5. **Determine class limits and boundaries**
 6. **Count frequencies**
 7. **Compute relative frequency, percentage, and cumulative values**
@@ -70,13 +70,14 @@ Data (daily temperatures):
 
 ### Frequency Distribution Table
 
-| Class Interval | Frequency (f) | Cumulative Frequency (CF) | Relative Frequency (f/N) | Percentage | Cumulative Percentage | Class Boundaries |
-|----------------|---------------|---------------------------|--------------------------|------------|------------------------|------------------|
+| Class Interval | Frequency (f) | Cumulative Frequency (CF) | Relative Frequency (f/N) | Percentage (RF*100 %) | Cumulative Percentage | Class Boundaries |
+|----------------|---------------|---------------------------|--------------------------|-----------------------|-----------------------|------------------|
 | 10–19 | 3 | 3 | 0.15 | 15% | 15% | 9.5–19.5 |
 | 20–29 | 6 | 9 | 0.30 | 30% | 45% | 19.5–29.5 |
 | 30–39 | 5 | 14 | 0.25 | 25% | 70% | 29.5–39.5 |
 | 40–49 | 4 | 18 | 0.20 | 20% | 90% | 39.5–49.5 |
 | 50–59 | 2 | 20 | 0.10 | 10% | 100% | 49.5–59.5 |
+||⬆️-|-⬆️||⬆️-|-⬆️||
 
 ---
 
