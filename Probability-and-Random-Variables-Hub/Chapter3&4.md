@@ -5,7 +5,7 @@
 
 ---
 
-# Chapter 3 — Numerical Descriptive Measures (Final Review)
+# Chapter 3 — Numerical Descriptive Measures (Final Review) 
 
 ## 1. Measures of Central Tendency
 
