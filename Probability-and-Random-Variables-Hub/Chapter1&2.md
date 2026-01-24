@@ -82,11 +82,23 @@ Data (daily temperatures):
 ---
 
 ## Histogram
-A **histogram** is a **vertical bar chart** constructed from a frequency distribution.
-
+A **vertical bar** chart where the bars touch (used for continuous numerical data) constructed from a frequency distribution. The height represents the frequency.
 - No gaps between bars
 - X-axis: class intervals
 - Y-axis: frequency / percentage
+  
+<img width="272" height="250" alt="image" src="https://github.com/user-attachments/assets/da118683-d817-44ed-b958-524eff55fb52" />
+
+## Bar Chart
+Similar to a histogram but bars do not touch (used for categories/labels).
+
+<img width="330" height="225" alt="image" src="https://github.com/user-attachments/assets/5de26875-df26-4ed3-9f17-48de2510660b" />
+
+
+## Ogive
+A line graph that plots Cumulative Frequencies.
+
+<img width="330" height="232" alt="image" src="https://github.com/user-attachments/assets/03e0aafc-6d79-4926-aae9-ac9ac9cdb883" />
 
 ---
 
