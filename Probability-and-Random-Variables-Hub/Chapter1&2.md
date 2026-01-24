@@ -97,10 +97,6 @@ Steps:
    - Percentage
    - Cumulative frequency
    
-<img width="1071" height="193" alt="Math and Science - Understand Frequency Tables, Cumulative   Relative Frequency in Statistics -  7-7-3   Md2_E_hTvdQ - 1356x763 - 3m46s" src="https://github.com/user-attachments/assets/d3096d99-38b9-47c1-81ad-a76e9852818f" />
-
-<img width="1226" height="592" alt="Frequency Tables, Cumulative   Relative Frequency in Statistics " src="https://github.com/user-attachments/assets/4d31dafd-fa14-4d60-b1c7-262b9d218ec1" />
-
 ---
 
 ### Key Formulas
