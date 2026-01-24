@@ -1,147 +1,185 @@
-# Statistics – Exam Review Notes
-## Chapter 1 & Chapter 2
+# Exam Review – Chapter 1 & Chapter 2
+(Based ONLY on professor topics & likely exam style)
 [📁The files:
 [chapter1.pdf](https://github.com/user-attachments/files/24835794/chapter1.pdf),
 [chapter2.pdf](https://github.com/user-attachments/files/24835795/chapter2.pdf)]
 
 ---
 
-## Chapter 1: Introduction and Data Collection
+## Chapter 1 – Introduction and Data Collection
+(LOW weight – definitions only)
 
-### What is Statistics?
-Statistics is the branch of mathematics that:
-- Collects, processes, and analyzes data
-- Transforms numbers into useful information
-- Reduces uncertainty in decision making
+### Typical exam questions
+- “Define population / sample”
+- “Is this a parameter or a statistic?”
+- “Is this variable categorical or numerical?”
 
----
-
-### Types of Statistics
-**Descriptive Statistics**
-- Collecting, summarizing, and describing data
-- Tables, graphs, averages
-
-**Inferential Statistics**
-- Drawing conclusions about a population using a sample
-- Estimation and hypothesis testing
+### Example 1 – Population vs Sample
+A study wants to analyze **all students in a university**.
+- Population: all university students
+- Sample: 200 students selected for the study
+- Sample mean → statistic
+- True mean of all students → parameter
 
 ---
 
-### Basic Definitions (VERY IMPORTANT)
-- **Population**: The entire set of items or individuals of interest
-- **Sample**: A subset of the population used for analysis
-- **Variable**: A characteristic of an item or individual
-- **Data**: The values associated with a variable
-- **Parameter**: A numerical measure describing a population
-- **Statistic**: A numerical measure describing a sample
+### Example 2 – Variable & Data
+Variable: **Exam score**  
+Data: 72, 85, 90, 66, 78
 
 ---
 
-### Sources of Data
-- **Primary Data**: Collected by the analyst (surveys, experiments)
-- **Secondary Data**: Collected by others (census, journals, internet)
+### Example 3 – Type of Variable
+- Number of children → **Numerical, Discrete**
+- Weight → **Numerical, Continuous**
+- Marital status → **Categorical**
+
+⚠️ Chapter 1 stops here for the exam.
 
 ---
 
-### Types of Variables
-- **Categorical (Qualitative)**: Categories only (yes/no, eye color)
-- **Numerical (Quantitative)**:
-  - **Discrete**: Counted values (number of children)
-  - **Continuous**: Measured values (weight, time)
+## Chapter 2 – Presenting Data in Tables and Charts
+(IMPORTANT because it leads to later chapters)
 
 ---
 
-### Levels of Measurement
-- **Nominal**: Categories, no order (eye color)
-- **Ordinal**: Ordered categories (grades, rankings)
-- **Interval**: Ordered, no true zero (temperature in °C)
-- **Ratio**: Ordered, true zero (weight, height)
+## 1️⃣ Frequency Distribution (VERY IMPORTANT)
+
+### What the exam really tests
+- Can you **build** the table?
+- Can you **compare groups** using **relative frequency / percentage**?
+- Can you **interpret** the table?
 
 ---
 
-## Chapter 2: Presenting Data in Tables and Charts
+### Example 1 – Constructing a Frequency Distribution
 
-### Categorical Data
-Used tools:
-- Summary Table
-- Bar Chart
-- Pie Chart
-- Pareto Diagram (descending order + cumulative %)
+Data (daily temperatures):
+24, 35, 17, 21, 24, 37, 26, 46, 58, 30,
+32, 13, 12, 38, 41, 43, 44, 27, 53, 27
 
----
 
-### Numerical Data
-Used tools:
-- Ordered Array
-- Stem-and-Leaf Display
-- Frequency Distribution
-- Histogram
-- Frequency Polygon
-- Ogive (Cumulative %)
-- Scatter Plot
-- Time Series Plot
+#### Step 1: Sort data
+12, 13, 17, 21, 24, 24, 26, 27, 27, 30,
+32, 35, 37, 38, 41, 43, 44, 46, 53, 58
 
----
 
-### Frequency Distribution (VERY IMPORTANT)
+#### Step 2: Range
+58 − 12 = 46
 
-Steps:
-1. Sort data
-2. Find range = max − min
-3. Choose number of classes (5–15)
-4. Class width = range ÷ number of classes (round up)
-5. Define class limits
-6. Count frequencies
-7. Compute:
-   - Relative frequency
-   - Percentage
-   - Cumulative frequency
-   
----
 
-### Key Formulas
-- **Class Width** = (Highest − Lowest) ÷ Number of Classes
-- **Relative Frequency** = Class Frequency ÷ Total Frequency
-- **Percentage** = Relative Frequency × 100
+#### Step 3: Number of classes
+Choose 5 (allowed: 5–15)
+
+
+#### Step 4: Class width
+46 ÷ 5 = 9.2 → round up → 10
+
+
+#### Step 5: Classes
+| Class Interval | Frequency | Relative Freq | % |
+|---|---|---|---|
+| 10–<20 | 3 | 0.15 | 15 |
+| 20–<30 | 6 | 0.30 | 30 |
+| 30–<40 | 5 | 0.25 | 25 |
+| 40–<50 | 4 | 0.20 | 20 |
+| 50–<60 | 2 | 0.10 | 10 |
+| **Total** | 20 | **1.00** | **100** |
+
+✔ This table is **EXAM LEVEL**
 
 ---
 
-### Histogram
-- Vertical bar chart from a frequency distribution
-- No gaps between bars
-- X-axis: class boundaries or midpoints
-- Y-axis: frequency / relative frequency / percentage
+## 2️⃣ Relative Frequency & Percentage (VERY IMPORTANT)
+
+### WHY?
+Because the exam LOVES comparing **two groups with different sizes**.
 
 ---
 
-### Comparing Groups
-- If sample sizes differ → use **relative frequency or percentage**
-- Not raw frequency
+### Example 2 – Comparing Two Groups (LIKE TABLE 2.10)
+
+| Cost ($) | City (Rel.) | City (%) | Suburban (Rel.) | Suburban (%) |
+|---|---|---|---|---|
+| 20–<30 | 0.12 | 12 | 0.10 | 10 |
+| 30–<40 | 0.14 | 14 | 0.34 | 34 |
+| 40–<50 | 0.38 | 38 | 0.34 | 34 |
+| 50–<60 | 0.18 | 18 | 0.14 | 14 |
+| 60–<70 | 0.12 | 12 | 0.08 | 8 |
+| 70–<80 | 0.06 | 6 | 0.00 | 0 |
+| **Total** | **1.00** | **100** | **1.00** | **100** |
+
+### Typical exam questions
+- “Which group spends more in the 30–40 range?”
+- “Why not compare raw frequencies?”
+✅ Because **sample sizes differ**
 
 ---
 
-### Graphing Rules (Exam Traps)
-- Vertical axis starts at zero
-- No chart junk
-- Proper labels and titles
-- Do not distort scale
+## 3️⃣ Cumulative Frequency (Medium importance)
+
+### Example question
+> What percentage of days had temperatures **below 40°C**?
+
+Answer:
+15% + 30% + 25% = 70%
+
+yaml
+Copy code
 
 ---
 
-### Cross Tabulation
-- Used for two categorical variables
-- Presented as:
-  - Contingency table
-  - Side-by-side bar chart
+## 4️⃣ Histogram (Linked to Frequency Distribution)
+
+### Exam reality
+- You will **NOT** be asked to draw it
+- You WILL be asked to **interpret it**
+
+### Key idea
+- Histogram = graphical form of frequency distribution
+- NO gaps
+- X-axis = class intervals
+- Y-axis = frequency / %
 
 ---
 
-### Scatter Plot
-- Two numerical variables
-- Shows relationship (not causation)
+## ❌ Low Priority / SKIP for exam
+(Unless interpretation only)
+
+- Pie charts
+- Pareto diagrams
+- Scatter plots
+- Time series plots
+- Cross tabulations
+
+⚠️ Know **what they are**, not how to build them.
 
 ---
 
-### Time Series Plot
-- Numerical variable vs time
-- Used to detect trends
+## Final Exam Strategy for Chapters 1 & 2
+
+### MUST MASTER
+- Definitions (Chapter 1)
+- Frequency distribution steps
+- Class width formula
+- Relative frequency vs percentage
+- Comparing two groups
+
+### SAFE TO SKIM
+- Fancy graph rules
+- Software talk
+- Chart aesthetics
+
+---
+
+## Key Formula (MEMORIZE)
+Class Width = (Max − Min) ÷ Number of Classes
+
+yaml
+Copy code
+
+---
+
+## Ready to move on?
+Say **“Chapter 3”**  
+(or if you want: **“Give me exam-style questions for Ch 2”**)
