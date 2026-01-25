@@ -217,7 +217,7 @@ Where:
 
 ---
 
-## 5. Bayes’ Theorem (Multiple Events – Book Formula)
+## 5. Bayes’ Theorem (Multiple Events – *Main*)
 
 If B₁, B₂, ..., Bₖ are:
 - Mutually exclusive
@@ -257,6 +257,9 @@ P(U ∩ D) = P(U) × P(D | U) = 0.6 × 0.2 = 0.12
 ### Step 2: Total Probability of D
 P(D) = 0.24 + 0.12 = 0.36  
 
+#### Or use:
+P(D)=P(D∣S)P(S)+P(D∣U)P(U)
+
 ---
 
 ### Step 3: Revised Probability (Bayes)
@@ -274,11 +277,11 @@ P(S | D) = 0.24 / 0.36 = 0.667
 
 ## 7. Table Method (VERY IMPORTANT – EXAM FAVORITE)
 
-| Event | Prior P | Conditional P | Joint P | Revised P |
-|------|--------|---------------|---------|-----------|
-| S    | 0.4    | 0.6           | 0.24    | 0.667     |
-| U    | 0.6    | 0.2           | 0.12    | 0.333     |
-| **Sum** |      |               | **0.36** | 1.000     |
+| Event | Prior P. | Conditional P. | Joint P. | Revised P. (Target) |
+|-------|----------|----------------|----------|---------------------|
+| Success (S)  |  P(S)=0.4  |  P(D∣S)=0.6  |  P(D∩S)=0.24  |  P(S∣D)=0.667  |
+| Unsuccessful (U)  |  P(U)=0.6  |  P(D∣U)=0.2  |  P(D∩U)=0.12  |  P(U∣D)=0.333  |
+| **Sum**  | 1.0 |  |  **0.36**  |  1.000  |
 
 ---
 
@@ -318,13 +321,22 @@ P(S | D) = 0.24 / 0.36 = 0.667
   ```
   P(S | D)
   ```
+---
+### The **"Given"** Rule (Syntax)
+The key to identifying the symbols is the word "Given."
+In probability notation P(A|B), the vertical line $|$ literally means "given." 
+The Known Information: Whatever follows the word "given" is what we already know. This goes on the right side of the line.
+The Target (Unknown): Whatever the question asks "what is the probability of..." is what we are looking for. This goes on the left side of the line.
 
 ---
 
-### 3. Memory Rule (Very Important)
-> **Bayes always flips the condition**  
-> From `P(D | S)` → find `P(S | D)`
+### Conditional Probability vs. Bayes' Theorem
 
+| Feature | Conditional Probability | Bayes' Theorem |
+| :--- | :--- | :--- |
+| **Logic** | **Forward:** You know the cause; you want to know the effect. | **Backward:** You saw the effect (result); you want to know the cause. |
+| **Question Style** | "Given the well is **Success**, what is the chance of a **Test**?" | "Given a **Test** happened, what is the chance it's a **Success**?" |
+| **Data Action** | You use simple, direct numbers from a table or data set. | You **revise** an old probability (0.4) into a new one (0.667). |
+| **Goal** | Finding $P(B \vert A)$ directly. | **Flipping** the information to find $P(A \vert B)$. |
 ---
-
-### The **"Given"** Rule (Syntax)The key to identifying the symbols is the word "Given." In probability notation P(A|B), the vertical line $|$ literally means "given." The Known Information: Whatever follows the word "given" is what we already know. This goes on the right side of the line. The Target (Unknown): Whatever the question asks "what is the probability of..." is what we are looking for. This goes on the left side of the line. 
+ 
