@@ -291,3 +291,40 @@ P(S | D) = 0.24 / 0.36 = 0.667
 
 ---
 
+## How to Know Which Bayes’ Formula to Use (Exam Tip)
+
+### 1. Formula Choice (Syntax)
+- **Use the 2-Event Bayes Formula**  
+  When there are **only two possibilities**  
+  (e.g. Success vs Failure, Sick vs Healthy).
+
+- **Use the Multiple-Event Bayes Formula**  
+  When there are **three or more possibilities**  
+  (e.g. Machine A, Machine B, Machine C).
+
+---
+
+### 2. Question Syntax (Clues in the Wording)
+- Look for the phrase **“Given that …”**
+- The **Prior Probability** is what you believe *before* new information  
+  Example: `P(S)` (probability of success before the test)
+
+- The **Condition** is the new information or test result  
+  Example: `D` (Detailed test result)
+
+- The **Goal** is always to **flip the probability**:
+  
+  Find:
+  ```
+  P(S | D)
+  ```
+
+---
+
+### 3. Memory Rule (Very Important)
+> **Bayes always flips the condition**  
+> From `P(D | S)` → find `P(S | D)`
+
+---
+
+### The **"Given"** Rule (Syntax)The key to identifying the symbols is the word "Given." In probability notation P(A|B), the vertical line $|$ literally means "given." The Known Information: Whatever follows the word "given" is what we already know. This goes on the right side of the line. The Target (Unknown): Whatever the question asks "what is the probability of..." is what we are looking for. This goes on the left side of the line. 
