@@ -167,57 +167,93 @@ The value is 2 standard deviations above the mean.
 
 ---
 
-# Chapter 4 – Bayes’ Theorem 
+# Chapter 4 – Conditional Probability & Bayes’ Theorem
 
-## 1. Basic Probability (Very Quick Reminder)
-- Probability of an event A:
+---
+
+## 1. Basic Probability (Quick Reminder)
+- Probability of event A:
   
-  P(A) = Number of favorable outcomes / Total outcomes
+  P(A) = (Number of favorable outcomes) / (Total outcomes)
 
 - 0 ≤ P(A) ≤ 1
-- P(A) = 1 → event is certain
-- P(A) = 0 → event is impossible
+- P(A) = 1 → certain
+- P(A) = 0 → impossible
 
 ---
 
-## 2. Conditional Probability (IMPORTANT)
-**Definition:**  
-Probability that event A occurs **given that** event B has already occurred.
+## 2. Conditional Probability ⭐
 
-**Formula:**
+### Definition
+Probability that event **A** occurs **given that** event **B** has occurred.
+
+### Formula (Division Rule)
 P(A | B) = P(A ∩ B) / P(B)
 
-Meaning:  
-We reduce the sample space to only cases where **B happened**.
+### Meaning
+- We **restrict the sample space** to cases where **B happened**
+- Used when the **cause is known** and we want the **effect**
+
+### Multiplication Rule (Same Concept)
+P(A ∩ B) = P(A | B)P(B)
+
+> This is **still conditional probability**, not Bayes.
 
 ---
 
-## 3. Bayes’ Theorem (MAIN EXAM TOPIC)
+## 3. Independence (Related but Simple)
+Two events A and B are **independent** if:
+
+P(A | B) = P(A)
+
+Meaning:
+- Knowing B **does not affect** A
+
+---
+
+## 4. Total Probability (IMPORTANT)
+Used when:
+- The question asks for an **overall / random / total probability**
+- There are **multiple cases**
+
+### Formula
+If B₁, B₂, ..., Bₖ form all possibilities:
+
+P(A) = P(A|B₁)P(B₁) + P(A|B₂)P(B₂) + ... + P(A|Bₖ)P(Bₖ)
+
+📌 Keywords:
+- randomly
+- overall
+- considering all
+- total probability
+
+---
+
+## 5. Bayes’ Theorem ⭐⭐⭐ (MAIN EXAM TOPIC)
 
 ### What is Bayes’ Theorem?
-- Used to **revise probabilities** after getting **new information**
-- Extension of conditional probability
-- Uses:
-  - Prior probability
-  - New evidence
-  - Revised (posterior) probability
+- Used to **revise probabilities** after **new information**
+- You **flip** conditional probabilities
+
+### Logic
+- Result is known
+- Cause is unknown
+- You update a **prior probability**
 
 ---
 
-## 4. Bayes’ Theorem Formula (2-Event Case)
-
-If A and B are events:
+## 6. Bayes’ Formula (2 Events)
 
 P(A | B) = [ P(B | A) × P(A) ] / P(B)
 
 Where:
-- P(A) = Prior probability
-- P(B | A) = Conditional probability
-- P(B) = Total probability of B
+- P(A) → Prior probability
+- P(B | A) → Likelihood
+- P(B) → Total probability (from all cases)
 
 ---
 
-## 5. Bayes’ Theorem (Multiple Events – *Main*)
+## 7. Bayes’ Formula (Multiple Events – Exam Favorite)
 
 If B₁, B₂, ..., Bₖ are:
 - Mutually exclusive
@@ -225,40 +261,37 @@ If B₁, B₂, ..., Bₖ are:
 
 Then:
 
-P(Bᵢ | A) = [ P(A | Bᵢ) × P(Bᵢ) ] /
-            [ P(A | B₁)P(B₁) + P(A | B₂)P(B₂) + ... + P(A | Bₖ)P(Bₖ) ]
+P(Bᵢ | A) =
+[ P(A | Bᵢ)P(Bᵢ) ] /
+[ P(A|B₁)P(B₁) + P(A|B₂)P(B₂) + ... + P(A|Bₖ)P(Bₖ) ]
 
 ---
 
-## 6. Full Exam-Style Example (FROM THE PDF)
+## 8. Full Exam-Style Example (From Slides)
 
-### Given:
-- S = Successful well  
-- U = Unsuccessful well  
+### Given
+- S = Successful well
+- U = Unsuccessful well
+- D = Detailed test
 
-**Prior probabilities:**
+**Prior probabilities**
 P(S) = 0.4  
 P(U) = 0.6  
 
-**Conditional probabilities:**
-P(D | S) = 0.6  
-P(D | U) = 0.2  
-
-Where D = Detailed test scheduled
+**Conditional probabilities**
+P(D|S) = 0.6  
+P(D|U) = 0.2  
 
 ---
 
-### Step 1: Find Joint Probabilities
-P(S ∩ D) = P(S) × P(D | S) = 0.4 × 0.6 = 0.24  
-P(U ∩ D) = P(U) × P(D | U) = 0.6 × 0.2 = 0.12  
+### Step 1: Joint Probabilities
+P(S ∩ D) = 0.4 × 0.6 = 0.24  
+P(U ∩ D) = 0.6 × 0.2 = 0.12  
 
 ---
 
 ### Step 2: Total Probability of D
 P(D) = 0.24 + 0.12 = 0.36  
-
-#### Or use:
-P(D)=P(D∣S)P(S)+P(D∣U)P(U)
 
 ---
 
@@ -267,76 +300,48 @@ P(S | D) = 0.24 / 0.36 = 0.667
 
 ---
 
-### Final Interpretation:
-- Original probability of success = 0.4  
-- After new information (detailed test):
-  
-  **Revised probability = 0.667**
+## 9. Table Method ⭐ (VERY IMPORTANT)
+
+| Event | Prior | Conditional | Joint | Revised |
+|------|-------|-------------|-------|---------|
+| S | 0.4 | 0.6 | 0.24 | 0.667 |
+| U | 0.6 | 0.2 | 0.12 | 0.333 |
+| **Total** | 1.0 | | **0.36** | 1.0 |
 
 ---
 
-## 7. Table Method (VERY IMPORTANT – EXAM FAVORITE)
+## 10. How to Identify the Question Type (EXAM GOLD)
 
-| Event | Prior P. | Conditional P. | Joint P. | Revised P. (Target) |
-|-------|----------|----------------|----------|---------------------|
-| Success (S)  |  P(S)=0.4  |  P(D∣S)=0.6  |  P(D∩S)=0.24  |  P(S∣D)=0.667  |
-| Unsuccessful (U)  |  P(U)=0.6  |  P(D∣U)=0.2  |  P(D∩U)=0.12  |  P(U∣D)=0.333  |
-| **Sum**  | 1.0 |  |  **0.36**  |  1.000  |
+### Conditional Probability
+- Cause known
+- Forward logic
+- Find P(B|A)
 
----
+### Bayes’ Theorem
+- Result known
+- Backward logic
+- Find P(A|B)
 
-## 8. Keywords That Mean "Use Bayes" in Exam
-- Prior probability
-- Revised probability
-- Given that
-- New information
-- Conditional probability
-
----
-
-## How to Know Which Bayes’ Formula to Use (Exam Tip)
-
-### 1. Formula Choice (Syntax)
-- **Use the 2-Event Bayes Formula**  
-  When there are **only two possibilities**  
-  (e.g. Success vs Failure, Sick vs Healthy).
-
-- **Use the Multiple-Event Bayes Formula**  
-  When there are **three or more possibilities**  
-  (e.g. Machine A, Machine B, Machine C).
+### Total Probability
+- Overall / randomly / all cases
+- Find P(A)
 
 ---
 
-### 2. Question Syntax (Clues in the Wording)
-- Look for the phrase **“Given that …”**
-- The **Prior Probability** is what you believe *before* new information  
-  Example: `P(S)` (probability of success before the test)
-
-- The **Condition** is the new information or test result  
-  Example: `D` (Detailed test result)
-
-- The **Goal** is always to **flip the probability**:
-  
-  Find:
-  ```
-  P(S | D)
-  ```
----
-### The **"Given"** Rule (Syntax)
-The key to identifying the symbols is the word "Given."
-In probability notation P(A|B), the vertical line $|$ literally means "given." 
-The Known Information: Whatever follows the word "given" is what we already know. This goes on the right side of the line.
-The Target (Unknown): Whatever the question asks "what is the probability of..." is what we are looking for. This goes on the left side of the line.
+## 11. The “GIVEN” Rule (Syntax Trick)
+In P(A | B):
+- Right side (B): **what is given / known**
+- Left side (A): **what is asked**
 
 ---
 
-### Conditional Probability vs. Bayes' Theorem
+## 12. Conditional vs Bayes (Fast Comparison)
 
-| Feature | Conditional Probability | Bayes' Theorem |
-| :--- | :--- | :--- |
-| **Logic** | **Forward:** You know the cause; you want to know the effect. | **Backward:** You saw the effect (result); you want to know the cause. |
-| **Question Style** | "Given the well is **Success**, what is the chance of a **Test**?" | "Given a **Test** happened, what is the chance it's a **Success**?" |
-| **Data Action** | You use simple, direct numbers from a table or data set. | You **revise** an old probability (0.4) into a new one (0.667). |
-| **Goal** | Finding $P(B \vert A)$ directly. | **Flipping** the information to find $P(A \vert B)$. |
+| Feature | Conditional | Bayes |
+|-------|------------|-------|
+| Logic | Cause → Effect | Effect → Cause |
+| Known | Cause | Result |
+| Goal | P(B|A) | P(A|B) |
+| Uses prior? | ❌ | ✅ |
+
 ---
- 
