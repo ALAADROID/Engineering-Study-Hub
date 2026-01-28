@@ -124,14 +124,6 @@ You must know how to:
 
 ---
 
-### 6. Chapter 7 (Beginning)
-
-* Uniform distribution (concept)
-* PDF & CDF meaning
-* No deep calculations
-
----
-
 ## Final Exam Focus Order
 
 1. Normal distribution (Chapter 6)
@@ -142,4 +134,3 @@ You must know how to:
 
 ---
 
-**This file is suitable for GitHub (.md)**
