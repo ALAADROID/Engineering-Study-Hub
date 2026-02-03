@@ -1,7 +1,7 @@
 # Graphs: Representation and Traversal
 
 ## 1. Graph Basics
-- A graph consists of:
+- A graph consists of: 
   - **Vertices (V)** → nodes
   - **Edges (E)** → connections between nodes
 - Types:
