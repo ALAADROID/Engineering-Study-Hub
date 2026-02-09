@@ -5,8 +5,27 @@
 ----
 
 ## Solve:
+### 1.
+
 <img width="706" height="449" alt="image" src="https://github.com/user-attachments/assets/5380c9cf-e2b4-48f4-9617-e007262dc6ac" />
 <img width="696" height="213" alt="image" src="https://github.com/user-attachments/assets/de0a1a83-f31c-4d1b-a165-98e4d14c10f0" />
+
+### 2.
+
+<img width="705" height="462" alt="image" src="https://github.com/user-attachments/assets/2e1f15bf-150b-4215-85c5-f264061cc1c0" />
+
+### 3.
+
+<img width="781" height="488" alt="image" src="https://github.com/user-attachments/assets/4b5d378d-8480-49f5-a621-7839709f0fdb" />
+
+### 4.
+
+<img width="777" height="200" alt="image" src="https://github.com/user-attachments/assets/ef218201-7379-459a-a7ab-a52104c66d01" />
+
+## throw & throws:
+
+<img width="704" height="241" alt="image" src="https://github.com/user-attachments/assets/8d90e616-d04b-44e5-a775-d860325f1101" />
+
 
 ----
 
