@@ -2,7 +2,13 @@
 <img width="709" height="520" alt="image" src="https://github.com/user-attachments/assets/c8e082e1-6fcd-4026-a1d4-1f30cbced9d8" />
 <img width="708" height="91" alt="image" src="https://github.com/user-attachments/assets/251b1a31-2f14-44bf-af57-ade402de5f8a" />
 
----
+----
+
+## Solve:
+<img width="706" height="449" alt="image" src="https://github.com/user-attachments/assets/5380c9cf-e2b4-48f4-9617-e007262dc6ac" />
+<img width="696" height="213" alt="image" src="https://github.com/user-attachments/assets/de0a1a83-f31c-4d1b-a165-98e4d14c10f0" />
+
+----
 
 <img width="712" height="539" alt="image" src="https://github.com/user-attachments/assets/3a42520b-be2b-424a-a8f8-c4828200e78e" />
 <img width="719" height="637" alt="image" src="https://github.com/user-attachments/assets/e250aaa4-5ea9-43d6-aaa9-4d0a551656e1" />
