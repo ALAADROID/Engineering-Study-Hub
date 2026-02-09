@@ -50,5 +50,11 @@
 
 # 🔴 Lambda:
 
-<img width="638" height="492" alt="image" src="https://github.com/user-attachments/assets/1ad00aed-c6df-4c65-98e5-2a5b447acaf3" />
+<img width="380" height="372" alt="image" src="https://github.com/user-attachments/assets/0d50eef8-d1bd-417e-8eba-e4a114cc5a5f" />
 
+- A Lambda expression can only be used with a functional interface.
+- If a lambda has no parameters, you must use empty parameters before the arrow operator.
+- If you use the return keyword inside a lambda, you must enclose the code in curly brackets.
+- In Java, -> is literally called the Arrow Operator.
+- If you use the return keyword inside a lambda, you must enclose the code in curly 'brackets'.
+- If you use a variable from "outside" the lambda, you cannot change that variable later in the code. If you try to change it, the lambda will break. So we use final to not change it in later.
