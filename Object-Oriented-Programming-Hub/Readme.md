@@ -1,10 +1,11 @@
+# 🔴 Exceptions:
 <img width="709" height="584" alt="image" src="https://github.com/user-attachments/assets/c02aee9a-4104-49d3-871f-0f8c2c1790dc" />
 <img width="709" height="520" alt="image" src="https://github.com/user-attachments/assets/c8e082e1-6fcd-4026-a1d4-1f30cbced9d8" />
 <img width="708" height="91" alt="image" src="https://github.com/user-attachments/assets/251b1a31-2f14-44bf-af57-ade402de5f8a" />
 
 ----
 
-## Solve:
+##  📝Solve:
 ### 1.
 
 <img width="706" height="449" alt="image" src="https://github.com/user-attachments/assets/5380c9cf-e2b4-48f4-9617-e007262dc6ac" />
@@ -28,6 +29,19 @@
 
 
 ----
+# 🔴 Abstract:
 
 <img width="712" height="539" alt="image" src="https://github.com/user-attachments/assets/3a42520b-be2b-424a-a8f8-c4828200e78e" />
 <img width="719" height="637" alt="image" src="https://github.com/user-attachments/assets/e250aaa4-5ea9-43d6-aaa9-4d0a551656e1" />
+
+---
+
+##  📝Solve:
+### 1.
+
+<img width="777" height="579" alt="image" src="https://github.com/user-attachments/assets/39623627-26fa-4509-82b4-d95e01570715" />
+<img width="784" height="701" alt="image" src="https://github.com/user-attachments/assets/d67fcbf8-784f-4cd0-a85f-35e95bee2c84" />
+<img width="776" height="290" alt="image" src="https://github.com/user-attachments/assets/9ef20e64-8e7e-4f7e-8a3d-66375f338a50" />
+<img width="783" height="677" alt="image" src="https://github.com/user-attachments/assets/7cdadff9-9cde-4e6b-844c-49635317dd9f" />
+
+
