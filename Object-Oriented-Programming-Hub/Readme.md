@@ -58,3 +58,9 @@
 - In Java, -> is literally called the Arrow Operator.
 - If you use the return keyword inside a lambda, you must enclose the code in curly 'brackets'.
 - If you use a variable from "outside" the lambda, you cannot change that variable later in the code. If you try to change it, the lambda will break. So we use final to not change it in later.
+
+----
+
+# 🔴 Strings, Characters and Regular Expressions:
+
+
