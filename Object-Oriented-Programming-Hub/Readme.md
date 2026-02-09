@@ -24,7 +24,7 @@
 
 ## throw & throws:
 
-<img width="704" height="241" alt="image" src="https://github.com/user-attachments/assets/8d90e616-d04b-44e5-a775-d860325f1101" />
+<img width="635" height="604" alt="image" src="https://github.com/user-attachments/assets/d162d22c-8326-4735-bd01-338141d4dd63" />
 
 
 ----
