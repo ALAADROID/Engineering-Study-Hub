@@ -63,4 +63,15 @@
 
 # 🔴 Strings, Characters and Regular Expressions:
 
+---
+
+# 🔴 The que.:
+
+## Person:
+
+<img width="520" height="689" alt="image" src="https://github.com/user-attachments/assets/a1ea2082-c4a9-4ed1-aee3-7e5baf4fd1af" />
+
+## Main:
+
+<img width="634" height="632" alt="image" src="https://github.com/user-attachments/assets/3b49da74-c8f4-4237-8386-b62b532a9594" />
 
