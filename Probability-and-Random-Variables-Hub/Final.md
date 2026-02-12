@@ -1,6 +1,23 @@
+# Chapter 5:
+
+## Expected value E(X)
+
+- 'tomorroy' or 'yesterday' means nothing, just calculate the E(X)
+- Nxt 5 days -> 5.E(X)
+- 'were 2 comp. yesterday' means that, since yesteday means nothing -> P(X=2)
+- 'at most 1 comp. tomorrow' -> P(X<=1)=P(1)+P(0)
+- 'at least 2 times tomorrow' -> P(X>=2)=P(2)+P(3)
+---
+<img width="587" height="548" alt="image" src="https://github.com/user-attachments/assets/0398771c-6843-4a97-93de-a5e8a9a971bf" />
+
+<img width="582" height="609" alt="image" src="https://github.com/user-attachments/assets/5bb3ea0b-2fa3-4218-9180-e7791e3f2e7a" />
+
+<img width="583" height="573" alt="image" src="https://github.com/user-attachments/assets/4c4ab77d-5177-45f0-bdbe-0334d59ab986" />
+
+---
+
 # Chapter 6:
 
-____
 
 ## The Normal Distribution
 - μ (Mean) = Median = Mode : location
