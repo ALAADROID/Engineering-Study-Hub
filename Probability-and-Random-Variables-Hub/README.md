@@ -4,20 +4,6 @@
 
 ## Chapter Mapping (What Comes From Where)
 
-* **Chapter 1 – Introduction and Data Collection**
-
-  * Definitions only (data, variables, population, sample)
-  * Very light theory
-
-* **Chapter 2 – Presenting Data in Tables and Charts**
-
-  * Reading tables & charts
-  * No heavy calculations
-
-* **Chapter 3 – Numerical Descriptive Measures**
-
-  * Mean, variance, standard deviation (conceptual)
-  * Knowing what each measure represents
 
 * **Chapter 4 – Basic Probability**
 
