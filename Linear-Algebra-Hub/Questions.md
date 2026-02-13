@@ -26,16 +26,23 @@
 
 
 ---
-## Que.4:
+## Que.4: (missed col.)
 
 <img width="520" height="740" alt="image" src="https://github.com/user-attachments/assets/a0131388-cfe7-4ad6-a689-9350c7d3f4fa" />
 
 <img width="520" height="644" alt="image" src="https://github.com/user-attachments/assets/25fc3ab6-5b60-409d-92b7-f0f005321269" />
 
-<img width="520" height="717" alt="image" src="https://github.com/user-attachments/assets/54f54a81-b369-4c5e-a0d2-b6ae7c110199" />
+<img width="520" height="750" alt="image" src="https://github.com/user-attachments/assets/54f54a81-b369-4c5e-a0d2-b6ae7c110199" />
 
-<img width="520" height="700" alt="image" src="https://github.com/user-attachments/assets/f2c04fe9-c1a0-4b7f-99ea-fec974b1f7b5" />
+<img width="520" height="750" alt="image" src="https://github.com/user-attachments/assets/f2c04fe9-c1a0-4b7f-99ea-fec974b1f7b5" />
 
+## Que.4: (correct one)
+
+<img width="520" height="650" alt="image" src="https://github.com/user-attachments/assets/423eb9f2-51d2-4fee-aa59-7aece1a12543" />
+
+<img width="520" height="683" alt="image" src="https://github.com/user-attachments/assets/36cc4041-9c51-4f01-89e4-ae0d6f657d89" />
+
+<img width="520" height="517" alt="image" src="https://github.com/user-attachments/assets/a4da4a17-7173-4437-91ff-1d6055e3ccdb" />
 
 
 ---
@@ -73,9 +80,9 @@
 
 
 
-<img width="250" height="629" alt="image" src="https://github.com/user-attachments/assets/3e965105-7d0e-4046-9bf7-8713155e56e4" />
+<img width="250" height="800" alt="image" src="https://github.com/user-attachments/assets/3e965105-7d0e-4046-9bf7-8713155e56e4" />
 
-<img width="520" height="145" alt="image" src="https://github.com/user-attachments/assets/a3f2d63b-3515-4d98-a188-1c4679642e38" />
+<img width="520" height="200" alt="image" src="https://github.com/user-attachments/assets/a3f2d63b-3515-4d98-a188-1c4679642e38" />
 
 
 
