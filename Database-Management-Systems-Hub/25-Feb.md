@@ -46,3 +46,69 @@
 👉 Conceptual Design phase
   </details>
 
+### Define DBMS.
+<details>
+  <summary>Show Answer</summary>
+👉 A Database Management System (DBMS) is software used to create, manage, maintain, and control access to a database.
+  
+  - Stores large amounts of data
+
+  - Allows multiple users to access data
+
+  - Ensures security and consistency
+  </details>
+
+### Explain concurrency control.
+<details>
+  <summary>Show Answer</summary>
+👉 Concurrency control is the mechanism used by a DBMS to manage simultaneous access to the same data by multiple users.
+  
+  - Prevent conflicts
+
+  - Maintain data consistency
+
+  - Avoid incorrect updates
+  </details>
+
+
+### Differentiate data and information with example.
+<details>
+  <summary>Show Answer</summary>
+👉  Data:
+    Raw, unprocessed facts.
+    Example: 1000, 20°C, StudentID: 45
+
+  Information:
+  Processed and meaningful data.
+  Example:
+  “Student 45 has a GPA of 3.2”
+  “Today’s temperature is 20°C and it is cool.”
+  </details>
+
+
+### Why are databases critical in banking systems?
+<details>
+  <summary>Show Answer</summary>
+👉 Because banks require:
+
+  - Secure storage of customer accounts
+
+  - Accurate transaction processing
+
+  - Handling millions of operations
+
+  - Preventing data loss or inconsistencies
+
+  - Multi-user access (ATMs, mobile apps, branches)
+
+  Without DBMS → financial chaos.
+  </details>
+
+
+### In which SDLC phase is ER modeling done?
+
+<details>
+  <summary>Show Answer</summary>
+👉 ER modeling is done in the Conceptual Design phase of SDLC.
+  </details>
+
