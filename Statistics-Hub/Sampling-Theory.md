@@ -4,4 +4,13 @@
 [ https://www.scribbr.com/methodology/sampling-methods/ ]
 ---
 
-Notes:
+# Notes:
+
+## Summary Table
+
+| Method        | Equal chance?          | Uses groups? | Selects              |
+| ------------- | ---------------------- | ------------ | -------------------- |
+| Simple Random | Yes                    | No           | Individuals          |
+| Stratified    | Yes (inside group)     | Yes          | Some from each group |
+| Systematic    | Almost                 | No           | Every k-th           |
+| Cluster       | No (clusters selected) | Yes          | Entire clusters      |
