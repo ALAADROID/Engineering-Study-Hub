@@ -10,3 +10,6 @@ The login-info used:
 
 The tables:
 [DDL.sql](https://github.com/user-attachments/files/26245302/DDL.sql)
+
+
+Example 1 from the book p74.
