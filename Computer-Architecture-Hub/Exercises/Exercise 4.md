@@ -2,14 +2,14 @@
 
 <img width="1175" title="The Main." height="919" alt="image" src="https://github.com/user-attachments/assets/4729dd79-77f6-4ebd-bca9-21240c090352" />
 
-<pre>
+```
 .orig x3000
 ADD R0 R0 #0
 BRnz SKIP
 ADD R0 R0 #1
 SKIP
 .end</pre>
-
+```
 
 > IF Statement.
 
