@@ -16,7 +16,11 @@ CREATE TABLE Students (
 );
 
 INSERT INTO Students 
-VALUES (102, 'Ahmet', 'tahha', 'ahmet@test.com', 'Computer Engineering');
+VALUES (102, 'FirstName', 'LastName', 'FirstNameLastName@test.com', 'Computer Engineering');
+
+INSERT INTO Students 
+VALUES (202, 'TestFirstName', 'TestLastName', 'TestFirstNameTestLastName@test.com', 'Computer Engineering');
+
 
 UPDATE Students
 SET dept = 'Software Engineering'
