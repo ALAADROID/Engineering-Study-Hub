@@ -1,6 +1,6 @@
 ## SQL Code:
 
-```
+```sql
 /*
 alter table Students add gender VARCHAR(10);
 
