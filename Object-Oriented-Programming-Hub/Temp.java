@@ -1,1 +1,2 @@
-// Java source file for OOP Hub
+// Java source file for Engineering Study Hub
+public class Setup {}
