@@ -3,7 +3,12 @@
 *.cpp linguist-detectable=true
 *.sql linguist-detectable=true
 *.sql linguist-language=SQL
+# Assembly
 *.s linguist-detectable=true
 *.asm linguist-detectable=true
 *.s linguist-language=Assembly
 *.asm linguist-language=Assembly
+# LC-3 Assembly Language
+*.asm linguist-detectable=true
+*.asm linguist-language=Assembly
+*.obj linguist-documentation=true
