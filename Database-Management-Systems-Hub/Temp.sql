@@ -1,0 +1,2 @@
+-- SQL database scripts and queries
+-- Initializing database structure
