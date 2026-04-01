@@ -244,7 +244,4 @@ company (company name, city
 
 > The login-info aint used: $$$$$$$$$$$$$$$$
 
-> The aint tables: [DDL.sql](https://github.com/user-attachments/files/26359383/DDL.sql)
-
-
 >  ~Example 1 from the book p74~ 
