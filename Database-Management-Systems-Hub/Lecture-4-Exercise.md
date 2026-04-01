@@ -240,8 +240,6 @@ company (company name, city
 
 > The Book should have be used: [Abraham.Silberschatz.Henry.Korth.and.S.Sudarshan.-.Database.System.Concepts.7-McGraw-Hill.Education.2020.pdf](https://github.com/user-attachments/files/26359309/Abraham.Silberschatz.Henry.Korth.and.S.Sudarshan.-.Database.System.Concepts.7-McGraw-Hill.Education.2020.pdf)
 
-> The file aint used: [smallRelationsInsertFile.sql](https://github.com/user-attachments/files/26359349/smallRelationsInsertFile.sql)
-
 > The login-info aint used: $$$$$$$$$$$$$$$$
 
 >  ~Example 1 from the book p74~ 
