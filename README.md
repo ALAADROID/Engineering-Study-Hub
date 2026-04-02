@@ -25,6 +25,9 @@ Explore the specific hubs below for detailed notes and exercises:
 * **[Probability & Random Variables Hub](./Probability-and-Random-Variables-Hub)** – Distribution functions and final prep.
 * **[Statistics Hub](./Statistics-Hub)** – Sampling theory and data analysis.
 * **[Physics Hub](./Physics-Hub)** – Mechanics, electromagnetism, and chapter summaries.
+<br>
+
+> 🔴 And more...
 
 ---
 
