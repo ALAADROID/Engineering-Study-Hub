@@ -126,7 +126,7 @@ BRnz END_LOOP   ; if Y ≤ 0 → stop
 ADD R1, R1, R2  ; Z<--Z+X
 ADD R0, R0, #-1 ; Y<--Y-1
 
-BRnzp LOOP      ; Unconditional
+BRp LOOP      ; 
 
 END_LOOP
 
@@ -135,4 +135,4 @@ END_LOOP
 
 </details>
 
-> LC-3
+> We assign X's value manually.
