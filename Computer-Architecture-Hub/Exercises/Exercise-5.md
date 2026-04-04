@@ -66,7 +66,7 @@ ADD R0, R0, #0   ; set CC sign(X=R0)
 BRnz ELSE        ; if x<=0 go else
 
 ADD R0, R0, #1   ; R0<--y+1 (true part)
-BRnzp END_ELSE 
+BRnzp END_ELSE   ; Unconditional
 
 ELSE
 ADD R1, R1, #1   ; else part
@@ -117,16 +117,16 @@ int main(){
 ```asm
 .orig x3000
 
-AND R2, R2, #0    ; Z = 0
+AND R1, R1, #0   ; Z = 0
 
 LOOP
-ADD R1, R1, #0    ; check Y
-BRnz END_LOOP     ; if Y ≤ 0 → stop
+ADD R0, R0, #0  ; Update CC from Y
+BRnz END_LOOP   ; if Y ≤ 0 → stop
 
-ADD R2, R2, R0    ; Z = Z + X
-ADD R1, R1, #-1   ; Y--
+ADD R1, R1, R2  ; Z<--Z+X
+ADD R0, R0, #-1 ; Y<--Y-1
 
-BRnzp LOOP        ; repeat
+BRnzp LOOP      ; Unconditional
 
 END_LOOP
 
