@@ -249,4 +249,166 @@ END_LOOP
 
 > We assign for T & Y manually some values.  
 > Z = result of division (quotient).
-> 
+
+---
+
+## Swap (if):
+
+<br>
+
+<details open>
+<summary><b>Language: C</b></summary>
+
+<br>
+
+```c
+#include <stdio.h>
+int main(){
+
+  if(x<y){
+    temp=x;
+    x=y;
+    y=temp;
+  }
+
+}
+```
+
+</details>
+
+> High-level.
+
+<br>
+
+<details open>
+<summary><b>Language: LC-3 Assembly</b></summary>
+
+<br>
+
+```asm
+.orig x3000
+
+;R0=x, R1=y, R2=temp, R3=-y
+
+NOT R3, R1
+ADD R3, R3, #1   ; R3=~y, R3'=-y
+ADD R2, R0, R3 ; sign (x-y)
+BRnz SKIP      ; if x-y>0-->x>y
+ ADD R2, R0, #0 ; temp=x
+ ADD R0, R1, #0 ; x'=y
+ ADD R1, R2, #0 ; y=temp=x
+SKIP
+
+.end
+```
+
+</details>
+
+> Compare, Branch, and Data Movement.
+
+---
+
+## AND (if):
+
+<br>
+
+<details open>
+<summary><b>Language: C</b></summary>
+
+<br>
+
+```c
+#include <stdio.h>
+int main(){
+
+  if (x > 0 && y > 0){
+      x=x+1;
+  } else {
+      y=y+1;
+  }
+  
+}
+```
+
+</details>
+
+> High-level.  
+> Both must be positive.
+
+<br>
+
+<details open>
+<summary><b>Language: LC-3 Assembly</b></summary>
+
+<br>
+
+```asm
+.orig x3000
+
+;R0=x, R1=y
+;----------
+ADD R0, R0, #0    ; CC sign(x)
+BRnz ELSE         ; if x ≤ 0 → go else
+ADD R1, R1, #0    ; CC sign(y)
+BRnz ELSE         ; if y ≤ 0 → go else
+;---TRUE PART---
+ADD R0, R0, #1    ; x=x+1;
+BRnzp END
+
+ELSE
+ADD R1, R1, #1    ; y=y+1;
+
+END
+
+.end
+```
+
+</details>
+
+> This is sequential check (fail fast).
+
+
+---
+
+## OR (if):
+
+<br>
+
+<details open>
+<summary><b>Language: C</b></summary>
+
+<br>
+
+```c
+#include <stdio.h>
+int main(){
+
+  if (x > 0 || y > 0){
+      x=x+1;
+  } else {
+      y=y+1;
+  }
+  
+}
+```
+
+</details>
+
+> High-level.  
+> at least one is positive.
+
+<br>
+
+<details open>
+<summary><b>Language: LC-3 Assembly</b></summary>
+
+<br>
+
+```asm
+.orig x3000
+.end
+```
+
+</details>
+
+> This
