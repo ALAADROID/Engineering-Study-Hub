@@ -217,7 +217,8 @@ int main(){
 
 </details>
 
-> High-level
+> High-level  
+> $$Z = \frac{X}{Y}$$
 
 <br>
 
@@ -236,15 +237,12 @@ AND R2, R2, #0        ; Z=0
 NOT R4, R1
 ADD R4, R4, #1        ; R4=-Y
 
-LOOP                  ; Loop till 
-ADD R7, R3, R4        ; T-Y
+LOOP
+ADD R7, R3, R4        ; CC sign(T-Y)
 BRn END_LOOP          ; End if T-Y<0
-
-ADD R3, R3, R4        ; T = T-Y
-ADD R2, R2, #1        ; Z++
-
-BRnzp LOOP            ; Loop 
-
+  ADD R3, R3, R4        ; T = T-Y
+  ADD R2, R2, #1        ; Z++
+  BRnzp LOOP
 END_LOOP
 
 .end
