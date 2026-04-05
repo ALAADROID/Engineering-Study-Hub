@@ -40,7 +40,7 @@ LD R1, VAR_Y   ; R1 = 7
 #include <stdio.h>
 int main(){
 
-if (X > 0)
+if (X > 0 || Y>0)
     X++;         //condition true
 else
     Y++;         //condition false
@@ -177,12 +177,9 @@ AND R2, R2, #0   ; Z=0
 LOOP
 ADD R3, R3, #0   ; sign of Y
 BRnz END_LOOP    ; if(Y>0)
-
-ADD R2, R2, R1   ; Z+=X
-ADD R3, R3, #-1  ; Y<--Y-1
-
-BRnzp LOOP
-
+    ADD R2, R2, R1   ; Z+=X
+    ADD R3, R3, #-1  ; Y<--Y-1
+    BRnzp LOOP
 END_LOOP
 
 .end
