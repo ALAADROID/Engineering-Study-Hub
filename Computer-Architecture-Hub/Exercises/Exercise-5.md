@@ -229,21 +229,21 @@ int main(){
 ```asm
 .orig x3000
 
-;R1=X, R2=Z, R3=T, R4=Y
-ADD R3, R0, #0    ; T = X
-AND R2, R2, #0    ; Z = 0
+;R0=X, R1=Y, R2=Z, R3=T, R4=-Y, R7=T-Y
+ADD R3, R0, #0        ; T=X
+AND R2, R2, #0        ; Z=0
 
 NOT R4, R1
-ADD R4, R4, #1    ; R4 = -Y
+ADD R4, R4, #1        ; R4=-Y
 
-LOOP
-ADD R7, R3, R4    ; T - Y
-BRn END_LOOP
+LOOP                  ; Loop till 
+ADD R7, R3, R4        ; T-Y
+BRn END_LOOP          ; End if T-Y<0
 
-ADD R3, R3, R4    ; T = T - Y
-ADD R2, R2, #1    ; Z++
+ADD R3, R3, R4        ; T = T-Y
+ADD R2, R2, #1        ; Z++
 
-BRnzp LOOP
+BRnzp LOOP            ; Loop 
 
 END_LOOP
 
@@ -252,4 +252,6 @@ END_LOOP
 
 </details>
 
-> We assign for T & Y manually some values.
+> We assign for T & Y manually some values.  
+> Z = result of division (quotient).
+> 
