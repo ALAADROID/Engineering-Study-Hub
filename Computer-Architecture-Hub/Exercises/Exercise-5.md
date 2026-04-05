@@ -229,7 +229,7 @@ int main(){
 ```asm
 .orig x3000
 
-;R1=X, R2=Z, R3=Y
+;R1=X, R2=Z, R3=T, R4=Y
 ADD R3, R0, #0    ; T = X
 AND R2, R2, #0    ; Z = 0
 
@@ -252,4 +252,4 @@ END_LOOP
 
 </details>
 
-> We 
+> We assign for T & Y manually some values.
