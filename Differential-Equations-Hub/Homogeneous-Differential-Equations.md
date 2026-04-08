@@ -1,4 +1,29 @@
-### How to Check if a Differential Equation is Homogeneous  
+## How to Check if a Differential Equation is Homogeneous  
+
+### The easiest way:
+
+<img width="%45" alt="image" src="https://github.com/user-attachments/assets/be72a527-0346-458b-89d4-90ca30ea6f09" />
+
+
+
+<img width="%45" alt="image" src="https://github.com/user-attachments/assets/56f78b53-caa9-4350-97e4-697e2818e339" />
+
+| Term     | Degree  |
+| -------- | ------- |
+| (x<sup>2</sup>)    | 2       |
+| (xy)     | 2 (1+1) |
+| (y<sup>2</sup>)    | 2       |
+| (x<sup>3</sup>y<sup>2</sup>) | 5 (3+2) |
+| (x)      | 1       |
+| constant | 0       |
+
+
+---
+
+
+
+### The hard way:
+
 #### 1. Standard Form  
 - You usually start with: dx/dy​=f(x,y)  
 
