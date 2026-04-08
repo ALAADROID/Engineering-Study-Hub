@@ -49,7 +49,7 @@ Follow these rules strictly:
 Goal:
 Help me fully understand lectures and prepare for exams efficiently.
 
-
+dont forgot to mention the pages number so i can see both the slide num and ur stuff.
 </details>
 
 Files:  
