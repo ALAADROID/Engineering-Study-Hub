@@ -412,3 +412,58 @@ int main(){
 </details>
 
 > This
+
+
+---
+
+## Swap + Multiply:
+
+<br>
+
+<details open>
+<summary><b>Language: C</b></summary>
+
+<br>
+
+```c
+#include <stdio.h>
+int main(){
+
+  if(x<y){
+      temp=x;
+      x=y;
+      y=temp;
+  }
+  
+  z=0;
+  
+  while(y>0){
+  z=z+x;
+  y--;
+  }
+  
+}
+```
+
+</details>
+
+> This is multiplication ``` z = x * y ```  
+> **Why swap?**  
+> Ensure: ``` x ≥ y ```
+> so loop runs fewer times → faster
+
+<br>
+
+<details open>
+<summary><b>Language: LC-3 Assembly</b></summary>
+
+<br>
+
+```asm
+.orig x3000
+.end
+```
+
+</details>
+
+> This
