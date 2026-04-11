@@ -384,6 +384,7 @@ END
 int main(){
 
   if (x > 0 || y > 0){
+  //!(x < 0 && y < 0)
       x=x+1;
   } else {
       y=y+1;
@@ -406,6 +407,23 @@ int main(){
 
 ```asm
 .orig x3000
+
+;R0=x, R1=y
+ADD R0, R0, #0 ; CC sign(x)
+BRp TRUE       ; if x>0 → x++
+
+ADD R1, R1, #0
+BRnz ELSE      ; if y≤0 → ELSE
+
+TRUE
+ADD R0, R0, #1 ; x=x+1
+BRnzp END      ; 2 skip the y increasement
+
+ELSE
+ADD R1, R1, #1 ; y=y+1
+
+END
+
 .end
 ```
 
@@ -475,7 +493,7 @@ ADD R1 R5 #0  ; y=temp
 SKIP
 ;---------Set the Z----------
 AND R4 R4 #0  ; z=0
-;---------Multiplication - while ----------
+;---------Multiplication - while----------
 LOOP
 ADD R1 R1 #0  ; CC sign(y)
 BRnz ENDLOOP
@@ -489,5 +507,3 @@ HALT          ; The Assembler software on the device reads it.
 ```
 
 </details>
-
-> This
