@@ -461,7 +461,31 @@ int main(){
 
 ```asm
 .orig x3000
-.end
+
+;R0=x, R1=y, R3=-y, R4=z, R5=temp
+;---------SWAP - if----------
+AND R6 R6 #0 ; R6=0
+NOT R5 R1    ; ~R1
+ADD R3 R5 #1 ; R3=-y
+ADD R5 R0 R3 ; CC sign(x-y)
+BRzp SKIP
+ADD R5 R0 #0  ; temp=x
+ADD R0 R1 #0  ; x=y
+ADD R1 R5 #0  ; y=temp
+SKIP
+;---------Set the Z----------
+AND R4 R4 #0  ; z=0
+;---------Multiplication - while ----------
+LOOP
+ADD R1 R1 #0  ; CC sign(y)
+BRnz ENDLOOP
+ADD R4 R4 R0  ; z=z+x
+ADD R1 R1 #-1 ; y=y-1
+BRp LOOP
+ENDLOOP
+
+HALT          ; The Assembler software on the device reads it.
+.end          ; The LC-3 Processor/Simulator reads it.
 ```
 
 </details>
