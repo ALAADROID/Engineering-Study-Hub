@@ -1,4 +1,21 @@
+> [!CAUTION]
+> **NOT DONE YET IT IS UNDER MODIFYING.**
+
+$\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
+
+---
+
+
 ## 3/Mar:
+
+<details open>
+<summary><b>Close-Open</b></summary>
+
+
+### Computational complexity of insertion sort:
+  - 
+
+</details>
 
 ## 10/Mar:
 
