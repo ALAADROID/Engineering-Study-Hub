@@ -19,6 +19,21 @@ $\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
 
 ## 10/Mar:
 
+<summary><b>Close-Open</b></summary>
+
+
+### Information theory:
+  - $$H = -\sum_{x} p(x) \log_2 p(x)$$
+
+  | Formula Visualization |
+  | :---: |
+  | <img src="https://github.com/user-attachments/assets/c4cff82c-49c3-43d4-91d9-e7a88ee308e8" width="300"> |
+  
+  - EXAMPLE:
+      - 'bout (ترميز مورس) 2<sup>5</sup>=32 covers that 28 letter.
+
+</details>
+
 ## 17/Mar:
 
 ## 24/Mar:
