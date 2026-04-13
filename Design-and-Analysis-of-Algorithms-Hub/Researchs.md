@@ -19,6 +19,7 @@ $\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
 
 ## 10/Mar:
 
+<details open>
 <summary><b>Close-Open</b></summary>
 
 
