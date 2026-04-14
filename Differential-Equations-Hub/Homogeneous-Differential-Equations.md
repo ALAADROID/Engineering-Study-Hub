@@ -1,12 +1,6 @@
-## How to Check if a Differential Equation is Homogeneous  
+# How to Check if a Differential Equation is Homogeneous:  
 
-### The easiest way:
-
-<img width="%45" alt="image" src="https://github.com/user-attachments/assets/be72a527-0346-458b-89d4-90ca30ea6f09" />
-
-
-
-<img width="%45" alt="image" src="https://github.com/user-attachments/assets/56f78b53-caa9-4350-97e4-697e2818e339" />
+## Calculate the degree:
 
 | Term     | Degree  |
 | -------- | ------- |
@@ -17,21 +11,49 @@
 | (x)      | 1       |
 | constant | 0       |
 
+> [!IMPORTANT]
+> This table shows how the degree calculated.
 
----
+
+
+## The easiest way:
+
+### 1. Look @ terms in M(x,y):
+- they must have same degree.
+
+### 2. Look @ all terms in N(x,y):
+- they must have same degree.
+
+### 3. Final check:
+- if degree of M = degree of N, equation is **homogenous**.
+
+### Exm:
+- dy/dx = (x<sup>2</sup> - xy + y<sup>2</sup>)/xy
+- Rewrite: (x<sup>2</sup> - xy + y<sup>2</sup>)dx - xydy=0
+
+#### Check M(x,y) = x<sup>2</sup> - xy + y<sup>2</sup>
+- x<sup>2</sup> -> degree 2
+- xy -> degree 2
+- y<sup>2</sup> -> degree 2
+> All same -> degree = 2
+
+#### Check N(x,y) = -xy
+- xy -> degree 2
+> degree = 2  
+> **SO IT IS HOMOGENEOUS.**
 
 
 
-### The hard way:
+## The hard way:
 
-#### 1. Standard Form  
+### 1. Standard Form  
 - You usually start with: dx/dy​=f(x,y)  
 
-#### 2. Main Idea (The Test)  
+### 2. Main Idea (The Test)  
 - The equation is homogeneous if: f(x,y)=f(y/x​)  
 > After simplification, everything depends only on y/x — not separately on x and 𝑦  
   
-#### 3. Practical Method (Step-by-Step)  
+### 3. Practical Method (Step-by-Step)  
 
 Step 1: Look at the equation
 - Try to rewrite or simplify it.  
@@ -47,6 +69,6 @@ Step 3: Check
 - If equation is in this form:  
         - M(x,y)dx+N(x,y)dy=0  
 - Check degrees:  
-        - M(x,y) → degree?  
-        - N(x,y) → degree?  
+          - M(x,y) → degree?  
+          - N(x,y) → degree?  
 - If both have the same degree → ✅ homogeneous  
