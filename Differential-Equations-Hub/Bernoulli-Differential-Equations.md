@@ -1,3 +1,10 @@
+> [!CAUTION]
+> **NOT DONE YET IT IS UNDER MODIFYING.**
+
+$\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
+
+---
+
 ## What is Bernoulli Equation?  
 - A differential equation of the form:  
   dx/dy​+P(x)y=Q(x)y<sup>n</sup>  
