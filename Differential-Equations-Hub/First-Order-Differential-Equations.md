@@ -85,7 +85,7 @@ y = 1/[[u(x)] * (∫uQ(x)+c)
 
 
 
-## Integrating-e
+## Integrating e
 
 - For e<sup>3x</sup>
 - we say u=3x , then differentiate w.r.t.x du/dx=d(3x)/dx
