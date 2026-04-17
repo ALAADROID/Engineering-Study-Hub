@@ -32,7 +32,7 @@ $\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
 
 ---
 
-## Exm:
+## Example:
 - y'+2y=e<sup>x</sup>
 
 **Step 1 - so we do compare with:**  
@@ -52,7 +52,4 @@ $\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
 
 **Step 4 - Integrate:**  
 - d/dx (e<sup>2x</sup>y) = e<sup>3x</sup>
-
-
-
 
