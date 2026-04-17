@@ -18,7 +18,8 @@ $\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
 
 ### Step 3 - Multiply whole equation:
   - Multiply EVERYTHING by u(x)  
-  > d/dx [u(x)y]
+> d/dx [u(x)y]
+  - if **Produc Rule** needed apply.
 
 ### Step 4 - Integrate:  
   - d/dx​ [μy] = μQ(x)
@@ -28,3 +29,30 @@ $\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
 
 ### Step 5 - Solve for y:  
   - y = 1/[[u(x)] * (∫uQ(x)+c)
+
+---
+
+## Exm:
+- y'+2y=e<sup>x</sup>
+
+**Step 1 - so we do compare with:**  
+  - ```y'+P(x)y=Q(x)``` == ```y'+2y=eˣ``` , so P(x)=2, Q(x)=e<sup>x</sup>
+  
+**Step 2 - Find integrating factor:**  
+  - u=e<sup>∫P(x)dx</sup> , so u = e<sup>2x+c</sup> = e<sup>2x</sup> ```eᶜ``` → constant
+  
+  > [!WARNING]
+  > We ignore the constant because multiplying by a constant does NOT change the solution.
+  
+**Step 3 - Multiply with u:**  
+  - e<sup>2x</sup> y'+2e<sup>2x</sup>y = e<sup>3x</sup>
+
+#### Product rule:
+  - ```d/d​x(uv)=uv'+u'v``` = ``` d/dx(e²ˣ)*y=e²ˣ y'+2e²ˣy```
+
+**Step 4 - Integrate:**  
+- d/dx (e<sup>2x</sup>y) = e<sup>3x</sup>
+
+
+
+
