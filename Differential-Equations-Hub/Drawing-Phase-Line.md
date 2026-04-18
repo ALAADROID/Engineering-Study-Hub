@@ -1,4 +1,4 @@
-Exm:  
+Exm:   
 ` dx/dy​=−(y−2)(y+1) `  
 
 - Step 1: Equilibrium points
