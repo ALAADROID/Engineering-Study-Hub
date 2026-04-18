@@ -8,10 +8,16 @@ $\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
 ## Separable Equations
 
 ## Example:
-- dy/dx = x<sup>2</sup> / 1-y<sup>2</sup> → 1st fun= x<sup>2</sup>
+- dy/dx = x<sup>2</sup> / 1+y<sup>2</sup> , y(0)=1  
+- 1st fun= x<sup>2</sup> , 2nd fun= 1+y<sup>2</sup>
+  2x dx = 1+y^2 dy
+  ∫2x dx = ∫ 1+y^2 dy
+  x^2 + c = y + y^3/3 -> 4/3=c
+- The solution is `Explicit`
 
+>   [how do we decide? "**Explicit or Implicit**"?](#implicit-explicit).
 
-
+---
 
 ## Integrating Factors
 
@@ -73,6 +79,28 @@ y=e<sup>x</sup>/3+e<sup>-2x</sup>c
 
 ---
 
+
+## 🔥 NOW THE IMPORTANT PART - When to use what?   
+### Use separation when:
+
+- You can write:
+
+  dx/dy=f(x)g(y)
+
+> variables can be separated
+
+
+### Use integrating factor when:
+
+- You have:
+
+  y′+P(x)y=Q(x)
+
+> NOT easily separable
+
+--- 
+
+
 ## Integrating-e
 
 - For e<sup>3x</sup>
@@ -82,8 +110,16 @@ y=e<sup>x</sup>/3+e<sup>-2x</sup>c
 
 
 
+## Implicit-Explicit
+
+### Explicit sol. (حل صريح)
+- when y=f(x)
+> fun. not mixed with x like y(0)=1
 
 
+### Implicit sol. (حل ضمني)
+- when y&ne;f(x)
+> fun. is mixed with x like y=25-x<sup>2</sup>
 
 
 
