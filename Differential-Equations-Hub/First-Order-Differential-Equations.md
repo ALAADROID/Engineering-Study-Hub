@@ -5,7 +5,18 @@ $\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
 
 ---
 
-| Steps to solve any 1st order linear equ. |
+## Separable Equations
+
+## Example:
+- dy/dx = x<sup>2</sup> / 1-y<sup>2</sup> → 1st fun= x<sup>2</sup>
+
+
+
+
+## Integrating Factors
+
+
+| Steps to solve 1st order linear equ. using Integrating factor |
 | :---: |
 | <img src="https://github.com/user-attachments/assets/76140b31-c687-4412-a680-1292d5366438" width="1000"> |
 
