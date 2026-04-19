@@ -73,3 +73,30 @@ Translate this to math, @ x=10 → P(10)=e.P<sub>i</sub>
 #### When?    
 140-40e<sup>x/10</sup>=0  
 x=10ln(3.5)  
+
+
+
+---
+
+## Q1 — Population + decay
+
+A bacteria population grows at a rate proportional to its size with constant r.  
+In the absence of external effects, it doubles in 5 hours.
+
+However, 20 bacteria die per hour due to environment.  
+Initially, there are 200 bacteria.
+
+- Tasks:  
+  Build the differential equation  
+  Find r  
+  Find P(x)  
+  Will the population die out? If yes, when?  
+
+### Sol:  
+  
+  p'-(ln2)/5 p=-20  
+  
+  v(x)=e<sup>∫(-ln<sub>2</sub>/5)dx</sup> = e<sup>-ln<sub>2</sub>/5</sup>
+
+  
+    
