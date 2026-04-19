@@ -8,3 +8,6 @@
   - Step 2:  
       M<sub>y</sub>​=6xy<sup>2</sup>−2 , N<sub>x</sub>=6xy<sup>2</sup>−2  
 > Exact ✔
+
+
+### Solving the Exact equ:
