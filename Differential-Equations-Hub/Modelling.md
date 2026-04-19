@@ -56,3 +56,20 @@ Translate this to math, @ x=10 → P(10)=e.P<sub>i</sub>
 
   - Step 4 - Integrating factor:  
   [Click here to see how](https://github.com/ALAADROID/Engineering-Study-Hub/blob/main/Differential-Equations-Hub/Integrating-Factors.md)
+
+   P=140+c<sup>x/10</sup>
+
+
+- Step 5 - Initial value condition:  
+  p(0)=100 → 140+c=100 → c=-40  
+
+  So the final sol. is P(x)=140-40e<sup>x/10</sup>  
+
+
+#### Survival?    
+- As x ↑:  
+  e<sup>x/10</sup> → P ↓  
+
+#### When?    
+140-40e<sup>x/10</sup>=0  
+x=10ln(3.5)  
