@@ -6,7 +6,7 @@
     - 𝑀, 𝑁
 
 
-2. Check exact:
+2. [Check exact:](https://github.com/ALAADROID/Engineering-Study-Hub/blob/main/Differential-Equations-Hub/Exact-or-Not-Exact-Equation.md)
 
     - If exact → solve directly
     - If NOT → continue
