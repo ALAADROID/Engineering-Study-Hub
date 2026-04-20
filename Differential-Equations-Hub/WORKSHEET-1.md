@@ -15,6 +15,7 @@
 | <img width="496" height="98" alt="image" src="https://github.com/user-attachments/assets/3062e4f2-ee2e-40a4-9b33-d273b56c4c51" /> |
 ||
 | <img width="593" height="550" alt="image" src="https://github.com/user-attachments/assets/787bee3d-e9ba-48e0-851a-0605dd2f8cdc" /> |
+| We do assume k>0 allways in logistic equ. |
 | <img width="589" height="182" alt="image" src="https://github.com/user-attachments/assets/9d968317-55fe-4d76-b05c-f2b32eb109e8" /> |
 | <img width="590" height="678" alt="image" src="https://github.com/user-attachments/assets/e82d5e7f-1adc-4883-91b9-0ff7d621a6e6" /> |
 | <img width="588" height="178" alt="image" src="https://github.com/user-attachments/assets/ce027265-7559-4724-a169-61ab034d92e5" /> |
