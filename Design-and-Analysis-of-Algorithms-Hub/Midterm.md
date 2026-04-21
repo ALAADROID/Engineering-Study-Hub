@@ -1,3 +1,6 @@
+### [Used file "complexity_analysis_rehearsal (1)" 📂 ](https://github.com/user-attachments/files/26928301/complexity_analysis_rehearsal.1.pdf)
+
+
 | Question 1 | 
 |----|
 |<img width="617" height="693" alt="image" src="https://github.com/user-attachments/assets/9e62bb90-a4bf-42b4-a39a-9af275e057af" />|
@@ -74,9 +77,18 @@
 |<img width="628" height="499" alt="image" src="https://github.com/user-attachments/assets/daa3cd38-bc7f-4f21-9fc6-531596c64913" />|
 
 ---
+
 |Summary|
+|---|
+|<img width="713" height="722" alt="image" src="https://github.com/user-attachments/assets/d62fca15-0440-44a6-9084-2c391c317004" />|
+|<img width="712" height="684" alt="image" src="https://github.com/user-attachments/assets/d5885abf-88aa-422a-a54d-d1a66fff01df" />|
+|<img width="711" height="565" alt="image" src="https://github.com/user-attachments/assets/d171c509-2ac6-4b36-943a-8f2d5fd71fe7" />|
+|<img width="706" height="545" alt="image" src="https://github.com/user-attachments/assets/042434e7-f75f-437c-9266-fe0d62241271" />|
+
+---
+
+
+|similar que.|
 |---|
 |<img width="635" height="479" alt="image" src="https://github.com/user-attachments/assets/c3e88c28-09e0-4272-a906-93aed3e0a548" />|
 
-
----
