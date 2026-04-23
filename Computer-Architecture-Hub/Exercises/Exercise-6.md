@@ -5,16 +5,18 @@ $\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
 
 ---
 
+## JSR (Jump to Subroutine):  
+- Callin' a fun.
 
 ```asm
 
 .orig x3000
 ; R0=9
-ADD R0 R0 R0; double R0
-ADD R0 R0 #1; add 1 to R0
+ADD R0 R0 R0        ; double R0
+ADD R0 R0 #1        ; add 1 to R0
 ;this point here
-JSR MYFUNC ; function call
-ADD R0 R0 R1 ; main function continues here
+JSR MYFUNC          ; function call
+ADD R0 R0 R1        ; main function continues here
 
 .fill x0
 .fill x0
@@ -23,34 +25,56 @@ ADD R0 R0 R1 ; main function continues here
 
 MYFUNC
 ADD R0 R0 #-5
-RET
+RET                ; RETURN, shortcut for JMP R7.
 
 .end
+
+```
+
+> A subroutine always ends with RET.
+
+## Vectors:
+
+### Vector(x21), 	Routine(OUT)
+
+```c
+
+print(/*smth*/);
 
 ```
 
 ```asm
 
 .orig x3000
-ADD R5 R5 R5
-TRAP x21
+ADD R0 R5 R5
+TRAP x21        ; Prints the char. currently stored in R0 to the console.
 ADD R6 R6 R6
 .end
 
 ```
 
+### Vector(x23)	Routine(IN)
+
+```c
+
+scanf(/*smth*/);
+
+```
 
 ```asm
 
 .orig x3000
-ADD R5 R5 R5
-TRAP x23
+ADD R0 R5 R5
+TRAP x23        ; Prints a prompt, waits for you to type a character, and saves it in R0.
 ADD R6 R6 R6
 .end
 
 ```
 
-### pseudocode:
+
+### Vectoer(x25),	Routine(HALT)
+
+#### pseudocode:
 
 ```c
 sum = 0
@@ -96,3 +120,53 @@ ZERO .fill #0
 
 ```
 
+
+## Printting an arr. of char: ('hello world'):
+
+```c
+
+i=0
+while(A[i] != 0){
+  print A[i]
+  i++
+}
+
+```
+
+- We run this first:
+```asm
+
+.orig x4000
+
+.STRINGZ "hello friend"   ; store the letters in term of ASCII 
+
+.end
+
+
+```
+
+- Then:
+```asm
+
+.orig x3000
+
+LD R1 ADDR       ; R1<- x4000
+LD R2 ZERO       ; R2<- 0
+
+LOOP
+ADD R3 R1 R2     ; 
+LDR R0 R3 #0     ; R0 <- A[i], CC: sign(A[i])
+BRz ENDLOOP      ; condition (its not ZERO)
+TRAP x21
+ADD R2 R2 #1
+BRnzp LOOP
+ENDLOOP
+TRAP x25
+
+ADDR .fill x4000
+ZERO .fill #0
+
+.end
+
+
+```
