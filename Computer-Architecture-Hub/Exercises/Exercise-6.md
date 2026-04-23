@@ -1,12 +1,11 @@
-> [!CAUTION]
-> **NOT DONE YET IT IS UNDER MODIFYING.**
-
-$\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
-
----
 
 ## JSR (Jump to Subroutine):  
 - Callin' a fun.
+
+<details open>
+<summary><b>Language: LC-3 Assembly</b></summary>
+
+<br>
 
 ```asm
 
@@ -31,17 +30,33 @@ RET                ; RETURN, shortcut for JMP R7.
 
 ```
 
+</details>
+
+
 > A subroutine always ends with RET.
 
 ## Vectors:
 
 ### Vector(x21), 	Routine(OUT)
 
+<details open>
+<summary><b>Language: C</b></summary>
+
+<br>
+
 ```c
 
 print(/*smth*/);
 
 ```
+
+</details>
+
+
+<details open>
+<summary><b>Language: LC-3 Assembly</b></summary>
+
+<br>
 
 ```asm
 
@@ -53,13 +68,29 @@ ADD R6 R6 R6
 
 ```
 
+</details>
+
+
 ### Vector(x23)	Routine(IN)
+
+<details open>
+<summary><b>Language: C</b></summary>
+
+<br>
 
 ```c
 
 scanf(/*smth*/);
 
 ```
+
+</details>
+
+
+<details open>
+<summary><b>Language: LC-3 Assembly</b></summary>
+
+<br>
 
 ```asm
 
@@ -76,6 +107,11 @@ ADD R6 R6 R6
 
 #### pseudocode:
 
+<details open>
+<summary><b>Language: C</b></summary>
+
+<br>
+
 ```c
 sum = 0
 i = 0
@@ -87,6 +123,14 @@ while (i < size){
 i < size
 i+(-size) < 0
 ```
+
+</details>
+
+
+<details open>
+<summary><b>Language: LC-3 Assembly</b></summary>
+
+<br>
 
 ```asm
 
@@ -120,8 +164,15 @@ ZERO .fill #0
 
 ```
 
+</details>
 
-## Printting an arr. of char: ('hello world'):
+
+## Printting an arr. of char: ('hello friend'):
+
+<details open>
+<summary><b>Language: C</b></summary>
+
+<br>
 
 ```c
 
@@ -132,6 +183,12 @@ while(A[i] != 0){
 }
 
 ```
+</details>
+
+<details open>
+<summary><b>Language: LC-3 Assembly</b></summary>
+
+<br>
 
 - We run this first:
 ```asm
@@ -145,7 +202,16 @@ while(A[i] != 0){
 
 ```
 
+</details>
+
+
 - Then:
+
+<details open>
+<summary><b>Language: LC-3 Assembly</b></summary>
+
+<br>
+
 ```asm
 
 .orig x3000
@@ -170,3 +236,5 @@ ZERO .fill #0
 
 
 ```
+
+</details>
