@@ -1,5 +1,10 @@
 ## Fibonacci:  
 
+- Computin' `fib(n)` where `fib(0)=0=Small`,  `fib(1)=1=Large` & `fib(n)=fib(n-1)+fib(n-2)`
+    - we got 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 . . . 
+- if n=2 gotta repeat the loop once, if n=3 gotta repeat it twice.
+- So repeating is `(n-1)` which is `(n-1>0)` so it's `n>1`
+
 <details open>
 <summary><b>Language: C</b></summary>
 
@@ -34,6 +39,8 @@ else {
 ```asm
 
 .orig x3000
+
+;R0<-n, R1<-small, R2<-large, R3<-nxt, R7<-result
 
 ; if (n <= 1)
 ADD R6, R0, #-1
