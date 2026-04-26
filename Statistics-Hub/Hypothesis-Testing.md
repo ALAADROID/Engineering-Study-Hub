@@ -32,7 +32,7 @@
 <br>
 
 **3️⃣ Compute Z:**  
-* $z$ = ($\overline{X}$ - $u$)/($s$/√ $n$)
+* $z$ = ($\overline{X}$ - $u$)/($s$/√ $n$) = ($\overline{X}$ - $u$)/($SE$)  
 
 <br>
 
