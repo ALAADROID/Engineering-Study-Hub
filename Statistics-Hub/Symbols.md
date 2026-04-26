@@ -12,13 +12,18 @@
 - $p$ → sample proportion:
 > percentage (like 0.34, 0.67).
 
-- $1-p$ or $q$ → remaining %
+- $α$ → significance level:  
+> $α$=1−confidence level  
+> It is the error we allow (risk of being wrong)
 
 - $Z$ → number from table
 > **Common values:**  
 > 90% - 1.64  
 > 95% - 1.96  
 > 99% - 2.33
+
+- $1-p$ or $q$ → remaining %
+
 
 <br>
 
