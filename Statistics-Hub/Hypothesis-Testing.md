@@ -36,8 +36,10 @@
 
 <br>
 
-**4️⃣ Compare with critical Z:**  
+**4️⃣ Compare Z<sub>(result we got)</sub> with critical Z<sub>(given)</sub>:**  
 * Given in question (like 1.96, 2.33…)
+
+
 
 ||
 |---|
