@@ -14,7 +14,13 @@
 **1️⃣ Write hypotheses:**  
 * H<sub>o</sub>: main claim
 * H<sub>1</sub>: what we test  
-> If que. says *H<sub>0</sub><15*, then main one becomes *H<sub>1</sub>=15* auto.
+> If que. says *H<sub>1</sub><15*, then main one becomes *H<sub>0</sub>=15* auto.
+> | Claim | H₁        | H₀        |  
+> | ----- | --------- | --------- |  
+> | <     | μ < value | μ = value |  
+> | >     | μ > value | μ = value |  
+> | ≠     | μ ≠ value | μ = value |  
+
 
 <br>
 
