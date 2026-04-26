@@ -34,6 +34,6 @@
 
 - $SE$ → standard error:  
 > for mean: $SE=s/√n$  
-> for proportion: $SE=√\overline{p(1-p)}/n$
+> for proportion: $SE$=√ ( $p$ (1- $p$ )/ $n$ )
 
 
