@@ -39,6 +39,12 @@
 **4️⃣ Compare with critical Z:**  
 * Given in question (like 1.96, 2.33…)
 
+||
+|---|
+|<img width="375" alt="image" src="https://github.com/user-attachments/assets/bb443df5-4849-4d1d-967a-20f8b145a0e9" />|
+
+
+
 <br>
 
 **5️⃣ Decision:**
