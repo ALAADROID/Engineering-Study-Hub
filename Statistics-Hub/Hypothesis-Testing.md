@@ -13,7 +13,8 @@
 
 **1️⃣ Write hypotheses:**  
 * H<sub>o</sub>: main claim
-* H<sub>1</sub>: what we test
+* H<sub>1</sub>: what we test  
+> If que. says *H<sub>0</sub><15*, then main one becomes *H<sub>1</sub>=15* auto.
 
 <br>
 
