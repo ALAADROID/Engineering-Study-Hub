@@ -31,3 +31,11 @@
 |Hypothesis|
 |---|
 |<img width="128" height="69" alt="image" src="https://github.com/user-attachments/assets/3f13aa98-64f3-4c53-8c34-73116345699d" />|
+
+## Some exm:
+
+
+|Find 95% CI|
+|---|
+|<img width="594" height="654" alt="image" src="https://github.com/user-attachments/assets/b93e620a-f107-41de-a07e-8e0bed1a460f" />|
+
