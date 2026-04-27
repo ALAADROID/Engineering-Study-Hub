@@ -12,6 +12,9 @@
 - $p$ → sample proportion:
 > percentage (like 0.34, 0.67).
 
+- $𝜎$<sup>2</sup> → variance:  
+> Standard Deviation = √Variance
+
 - $α$ → significance level:  
 > 1−confidence level = $α$    
 > With a probability of ___ = 1 - $a$   
