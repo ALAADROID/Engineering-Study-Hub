@@ -17,6 +17,16 @@
 
 <br>
 
+## How to choose formula:  
+| Case                 | Use                |
+| -------------------- | ------------------ |
+| Given p (percentage) | proportion formula |
+| Given mean (X̄)       | mean formula       |
+| Hypothesis (H0, H1)  | z-test             |
+| n > 30               | use Z (normal)     |
+
+<br>
+
 ## Ultra Short Summary (for exam)
 
 |CI (percentage)|
