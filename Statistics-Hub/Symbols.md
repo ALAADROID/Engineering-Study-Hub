@@ -13,7 +13,8 @@
 > percentage (like 0.34, 0.67).
 
 - $α$ → significance level:  
-> $α$=1−confidence level  
+> 1−confidence level = $α$    
+> With a probability of ___ = 1 - $a$   
 > It is the error we allow (risk of being wrong)
 
 - $Z$ → number from table
