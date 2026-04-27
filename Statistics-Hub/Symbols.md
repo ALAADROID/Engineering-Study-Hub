@@ -13,7 +13,8 @@
 > percentage (like 0.34, 0.67).
 
 - $𝜎$<sup>2</sup> → variance:  
-> Standard Deviation = √Variance
+> Standard Deviation = √Variance's result  
+> $𝜎$<sup>2</sup> = $s$<sup>2</sup>
 
 - $α$ → significance level:  
 > 1−confidence level = $α$    
