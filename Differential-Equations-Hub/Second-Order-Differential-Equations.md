@@ -1,3 +1,20 @@
-|The form|
-|---|
-|<img width="868" height="448" alt="Untaitled" src="https://github.com/user-attachments/assets/ee574dd9-eb64-4db7-b229-8a3de11a0045" />|
+## How 2 solve:
+
+### 1.Step:  
+- assume **y=e<sup>r.t</sup>.**  
+
+> y'=r.e<sup>r.t</sup>.  
+> y''=r<sup>2</sup>.e<sup>.r.t</sup>.
+
+### 2.Step:
+- since the equ. is homo. so we can get rid of the e<sup>r.t</sup>.
+- so now we can get the r1, r2.
+- substitute the r's value in the equation, and using giving initial values we got the c<sub>1</sub>, c<sub>2</sub>.
+> based on that we choose a **case** 
+
+
+## Cases:
+
+### 1.Two diff. roots:
+- r1≠r2
+- **y=c<sub>1</sub>.e<sup>.r1.t</sup> + c<sub>2</sub>.e<sup>.r2.t</sup>**
