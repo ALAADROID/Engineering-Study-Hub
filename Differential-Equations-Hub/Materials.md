@@ -21,4 +21,4 @@
 > [Second Order Differential Equations_week_9.pdf](https://github.com/user-attachments/files/27324450/Second.Order.Differential.Equations_week_9.pdf)
 
 ## Second Order Differential Equations week 10:
-> [Second Order Differential Equations_week_10.pdf](https://github.com/user-attachments/files/27555690/Second.Order.Differential.Equations_week_10.pdf)
+[Second Order Differential Equations_week_10.pdf](https://github.com/user-attachments/files/27708746/Second.Order.Differential.Equations_week_10.pdf)
