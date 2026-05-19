@@ -164,10 +164,19 @@ Works_On (empID, projNo, hours)
 <details>
   <summary>Show Answer</summary>  <br>
 
-    ```sql
-    
-    
-    ```
+```sql
+select student.name, course.title, takes.semester, takes.year,
+takes.grade
+from student, takes, course
+where student.ID = takes.ID and
+takes.course_id=course.course_id
+
+/*-------------------------------------------------------------*/
+
+select course_id, semester, year, count(ID) as noOfStudents
+from takes
+group by course_id, semester, year
+```
 
 	
   <br> </details>
