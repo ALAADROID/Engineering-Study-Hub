@@ -12,7 +12,8 @@
 
 
 ### 3.Complex roots:
-
+- r=α±βi
+- **y=e<sup>α.t</sup>(c<sub>1</sub>.cosβt+c<sub>2</sub>.sinβt)**
 
 
 ## Examples:
