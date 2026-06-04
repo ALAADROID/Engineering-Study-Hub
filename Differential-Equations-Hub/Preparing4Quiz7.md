@@ -1,5 +1,6 @@
 ## Decision Tree:
 - Given `ay′′+by′+cy=f(x)`
+- and y=y<sub>​c</sub>+y<sub>​p</sub>​
 
 ### Step 1:
 - Ignore the right side, solve the homogeneous part first.
