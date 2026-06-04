@@ -28,6 +28,8 @@
   - guess y<sub>p</sub>=e<sup>ax</sup>(Ax<sup>2</sup>+Bx+C).
 
 #### Case5:
+- If right side f(x)=e<sup>ax</sup>sin(bx) -or- f(x)=e<sup>ax</sup>cos(bx)
+  - guess y<sub>p</sub>=e<sup>ax</sup>(Acosbx=Bsinbx)
 
 
 ## Golden Rule:
@@ -38,3 +40,12 @@
 - If still appears
   - Multiply by x<sup>3</sup>.
 
+| RHS                  | Guess                                  |
+| -------------------- | -------------------------------------- |
+| e<sup>ax</sup>             | Ae<sup>ax</sup>                              |
+| P<sub>n</sub>(x)             | polynomial same degree                 |
+| sinbx, cosbx    | Acosbx+Bsinbx                    |
+| P<sub>n</sub>(x)e<sup>ax</sup>       | polynomial same degree X e<sup>ax</sup> |
+| sum of terms         | solve each separately and add          |
+| duplicate with y<sub>c</sub> | multiply by x                        |
+| repeated duplicate   | multiply by x<sup>2</sup>                      |
