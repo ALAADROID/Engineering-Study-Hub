@@ -13,7 +13,7 @@
 
 #### Case1:
 - If right side f(x)=e<sup>αx</sup>
-  - guess y<sub>p</sub>=Ae<sup>αx</sup>.4y=
+  - guess y<sub>p</sub>=Ae<sup>αx</sup>.
 
 #### Case2:
 - If right side f(x)=polynomial
