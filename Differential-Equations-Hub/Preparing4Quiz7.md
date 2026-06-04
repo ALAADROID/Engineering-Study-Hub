@@ -23,8 +23,10 @@
 - If right side f(x)=sin(x)
   - guess y<sub>p</sub>=Acos(ax)+Bsin(ax).
 
-
 #### Case4:
+- If right side f(x)=e<sup>ax</sup>(polynomial)
+  - guess y<sub>p</sub>=e<sup>ax</sup>(Ax<sup>2</sup>+Bx+C).
+
 #### Case5:
 
 
@@ -36,13 +38,3 @@
 - If still appears
   - Multiply by x<sup>3</sup>.
 
-## Memorizing:
-
-| RHS                    | Guess                    |
-| ---------------------- | ------------------------ |
-| (e^{ax})               | (Ae^{ax})                |
-| Polynomial             | Same degree polynomial   |
-| (\sin ax,\cos ax)      | (A\cos ax+B\sin ax)      |
-| (e^{ax}P(x))           | (e^{ax}(P\text{-type}))  |
-| Sum of functions       | Solve separately and add |
-| Guess duplicates (y_c) | Multiply by (x)          |
