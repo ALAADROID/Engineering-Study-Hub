@@ -29,3 +29,6 @@
 
 ## Second Order Differential Equations week 12:
 [Second Order Differential Equations_week_12.pdf](https://github.com/user-attachments/files/28541389/Second.Order.Differential.Equations_week_12.pdf)
+
+## Second Order Differential Equations week 13:
+[Second Order Differential Equations_week_13.pdf](https://github.com/user-attachments/files/28826276/Second.Order.Differential.Equations_week_13.pdf)
