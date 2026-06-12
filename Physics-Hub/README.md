@@ -1,4 +1,4 @@
-# Physics Hub 🚀
+# Physics I Hub 🚀
 
 Welcome to the central repository for **Physics**. This space is dedicated to academic excellence and organized learning.
 
