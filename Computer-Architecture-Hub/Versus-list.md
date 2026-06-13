@@ -43,7 +43,7 @@
 | limited range (±256) | more flexible (arrays, pointers) |
 
 ## Offset sizes:  
-| LD/ST/LDI/STI | LDR/STR |
+| LD/ST/LDI/STI | LDR/STR | 
 | :--- | :--- |
 | 9-bit (bigger range) | 6-bit (smaller but flexible with base) |
 
