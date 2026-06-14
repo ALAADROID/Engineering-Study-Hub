@@ -1,4 +1,6 @@
 
+<details open>
+<summary><b>18May-1Jun</b></summary>
 
 ## Complete cycles oredring:  
 1) Open row     -> tRCD  
@@ -13,6 +15,7 @@
 Imagine a bookshelf.
   - Opening the book = activating a row (expensive)  
   - Turning to a page = selecting a column (cheap)  
+
 After you're done with the book, you close it before opening another book.  
 You don't "close page 5" and then "close page 6".
 
@@ -26,3 +29,5 @@ You don't "close page 5" and then "close page 6".
   - Open col
   - Close col
   - Close row  
+
+</details>
