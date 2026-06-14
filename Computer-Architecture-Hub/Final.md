@@ -1,3 +1,9 @@
-|In SDRAM|
-|---|
-|<img width="661" height="377" alt="image" src="https://github.com/user-attachments/assets/19391346-865b-4434-ad76-3ee91a28de92" />|
+
+
+## Complete cycles oredring:  
+1) Open row     -> tRCD  
+2) Read column  -> tCL  
+3) Close row    -> tRP  
+> Read latency = tCL  
+> First data access = tRCD + tCL  
+> Full access cycle = tRCD + tCL + tRP
