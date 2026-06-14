@@ -3,6 +3,20 @@
 <summary><b>18May-1Jun</b></summary>
 
 ## Complete cycles oredring:  
+
+1) Activate Row  
+      ↓  
+2) Wait tRCD  
+      ↓  
+3) Read Column    
+      ↓  
+4) Wait tCL  
+      ↓  
+5) Data arrives    
+      ↓  
+6) Close row (tRP)  
+
+### In short:
 1) Open row     -> tRCD  
 2) Read column  -> tCL  
 3) Close row    -> tRP  
