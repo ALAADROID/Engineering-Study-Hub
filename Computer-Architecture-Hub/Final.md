@@ -16,6 +16,9 @@
       ↓  
 6) Close row (tRP)  
 
+
+
+
 ### In short:
 1) Open row     -> tRCD  
 2) Read column  -> tCL  
@@ -23,6 +26,26 @@
 > Read latency = tCL  
 > First data access = tRCD + tCL  
 > Full access cycle = tRCD + tCL + tRP
+
+
+
+## Big Picture:  
+Transistor  
+   ↓  
+SRAM Cell (6T)  
+   ↓  
+Cache Memory  
+
+Transistor + Capacitor  
+   ↓  
+DRAM  
+   ↓  
+SDRAM  
+   ↓  
+DDR  
+   ↓  
+Main Memory (RAM)  
+
 
 ## Analogy
 
