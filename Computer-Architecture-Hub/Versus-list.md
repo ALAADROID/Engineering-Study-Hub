@@ -103,6 +103,84 @@
 
 ---
 
+##  SRAM vs DRAM:
+| SRAM                                   | DRAM                        |
+| :------------------------------------- | :-------------------------- |
+| Static RAM                             | Dynamic RAM                 |
+| Uses flip-flops (≈ 6 transistors/cell) | Uses capacitor + transistor |
+| Fast                                   | Slower                      |
+| No refresh needed                      | Refresh needed              |
+| More expensive                         | Cheaper                     |
+| Larger cell size                       | Smaller cell size           |
+| Lower density                          | Higher density              |
+| Cache memory                           | Main memory (RAM)           |  
+> SRAM = fast, expensive, cache  
+> DRAM = slower, cheap, main memory
+
+---
+
+## SDRAM vs DRAM:
+| SDRAM              | DRAM                     |
+| :----------------- | :----------------------- |
+| Synchronous DRAM   | Asynchronous DRAM        |
+| Uses clock signal  | No clock synchronization |
+| Predictable timing | Less predictable timing  |
+| Faster             | Slower                   |  
+>  SDRAM = DRAM + Clock
+
+---
+
+## DDR vs SDRAM:
+| SDRAM                          | DDR SDRAM                       |
+| :----------------------------- | :------------------------------ |
+| Transfers once per clock cycle | Transfers twice per clock cycle |
+| Rising edge only               | Rising + Falling edges          |
+| Lower bandwidth                | Higher bandwidth                |
+
+> Example:  
+  > SDRAM @ 100 MHz → 100 million transfers/sec  
+  > DDR @ 100 MHz → 200 million transfers/sec  
+
+---
+
+## tRCD vs tCL vs tRP:
+| Timing | Meaning                       |
+| :----- | :---------------------------- |
+| tRCD   | Open row → Row Buffer ready   |
+| tCL    | Read column from Row Buffer   |
+| tRP    | Close current row (Precharge) |
+>Order:
+> Open Row → Read Column → Close Row  
+>  tRCD       tCL          tRP
+
+---
+
+## MHz vs GHz:
+| MHz                | GHz                |
+| :----------------- | :----------------- |
+| 10⁶ Hz             | 10⁹ Hz             |
+| Million cycles/sec | Billion cycles/sec |
+
+---
+
+## Cycle Time vs Frequency:
+| Frequency      | Cycle Time       |
+| :------------- | :--------------- |
+| High frequency | Small cycle time |
+| Low frequency  | Large cycle time |
+> Example:  
+> 100 MHz → 10 ns  
+> 1 GHz → 1 ns
+
+## SRAM Cell vs DRAM Cell:
+| SRAM Cell                  | DRAM Cell        |
+| :------------------------- | :--------------- |
+| 6T (6 transistors)         | 1T + 1 Capacitor |
+| Stores using feedback loop | Stores charge    |
+| Stable                     | Charge leaks     |
+| No refresh                 | Refresh required |
+
+
 > [!CAUTION]
 > **NOT DONE YET IT IS UNDER MODIFYING.**
 
