@@ -72,4 +72,24 @@ You don't "close page 5" and then "close page 6".
 ## Virtual Memory:  
 - Virtual Memory gives every process its own protected address space (isolation) and makes RAM appear larger by storing inactive pages on SSD/HDD and moving pages between them when needed.
 
+---
+
+
+## Whenever u see:
+
+- VA  
+- Page Size  
+- Page Table  
+
+
+Step 1  
+      `Page = VA / PageSize`  
+Step 2  
+      `Offset = VA % PageSize`  
+Step 3  
+      Lookup page table  
+      `Page -> Frame`  
+Step 4  
+      `PA = Frame×PageSize + Offset`  
+
 </details>
