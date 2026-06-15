@@ -188,6 +188,15 @@ $\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
 | Stable                     | Charge leaks     |
 | No refresh                 | Refresh required |
 
+---
+
+## Page Fault vs Segmentation Fault:
+| Page Fault                | Segmentation Fault |
+| ------------------------- | ------------------ |
+| Page not currently in RAM | Address is illegal |
+| OS loads page from disk   | Program crashes    |
+| Recoverable               | Fatal              |
+| Normal                    | Error              |
 
 
 
