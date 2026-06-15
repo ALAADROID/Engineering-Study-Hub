@@ -1,3 +1,9 @@
+> [!CAUTION]
+> **NOT DONE YET IT IS UNDER MODIFYING.**
+
+$\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
+
+
 # Versus list:
 
 
@@ -172,6 +178,8 @@
 > 100 MHz → 10 ns  
 > 1 GHz → 1 ns
 
+---
+
 ## SRAM Cell vs DRAM Cell:
 | SRAM Cell                  | DRAM Cell        |
 | :------------------------- | :--------------- |
@@ -181,10 +189,6 @@
 | No refresh                 | Refresh required |
 
 
-> [!CAUTION]
-> **NOT DONE YET IT IS UNDER MODIFYING.**
-
-$\color{red}{\text{READ 👆👆👆👆👆👆👆👆👆👆👆👆👆}}$
 
 
 
