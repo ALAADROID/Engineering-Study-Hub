@@ -67,4 +67,9 @@ You don't "close page 5" and then "close page 6".
   - Close col
   - Close row  
 
+---
+
+## Virtual Memory:  
+- Virtual Memory gives every process its own protected address space (isolation) and makes RAM appear larger by storing inactive pages on SSD/HDD and moving pages between them when needed.
+
 </details>
