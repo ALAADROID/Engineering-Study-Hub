@@ -1,3 +1,6 @@
+## For the 1st derivative:
+`L{f'(t)}=sL{f(t)=f(0)}`
+
 
 ## Steps to solve:
 
