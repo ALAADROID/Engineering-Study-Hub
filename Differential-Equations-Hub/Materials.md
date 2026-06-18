@@ -32,3 +32,7 @@
 
 ## Second Order Differential Equations week 13:
 [Second Order Differential Equations_week_13.pdf](https://github.com/user-attachments/files/28826276/Second.Order.Differential.Equations_week_13.pdf)
+
+
+## Laplace (diff. eqn.):
+[Laplace-method-to-solve-diff-eqn.pdf](https://github.com/user-attachments/files/29076634/Laplace-method-to-solve-diff-eqn.pdf)
