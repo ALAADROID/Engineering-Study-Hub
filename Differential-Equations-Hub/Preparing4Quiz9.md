@@ -1,3 +1,9 @@
+|The laplace table|
+|---|
+|<img width="1431" height="615" alt="image" src="https://github.com/user-attachments/assets/81444587-2514-4891-96c9-5c5049907945" />|
+
+
+
 ## For the 1st derivative:
 `L{f'(t)}=sL{f(t)=f(0)}`
 
@@ -20,7 +26,7 @@
 - Partial fractions if needed.
 
 ## Step 5:
--Inverse Laplace.
+- Inverse Laplace.
 
 |Examples|
 |---|
