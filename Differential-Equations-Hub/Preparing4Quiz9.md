@@ -11,7 +11,7 @@
 - use:
   - `L{y}=Y(s)`
   - `L{y′}=sY−y(0)`
-  - `L{y′′}=s2Y−sy(0)−y′(0)`
+  - `L{y′′}=s^2Y−sy(0)−y′(0)`
 
   ## Step 3
 - Solve for Y(s).
