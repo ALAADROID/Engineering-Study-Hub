@@ -1,3 +1,5 @@
+The prof is gonna give us a main mem and cache asking us what is the output im sure like if we ask x41 whats the answer?
+
 
 <details open>
 <summary><b>18May-1Jun</b></summary>
