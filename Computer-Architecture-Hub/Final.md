@@ -94,4 +94,28 @@ Step 3
 Step 4  
       `PA = Frame×PageSize + Offset`  
 
+---
+
+## Temporal locality:  
+- Same data used again soon.
+
+Examples:
+```
+variable a  
+loop counter i  
+function parameters x,y  
+```
+
+## Spatial locality:  
+- Nearby data used soon.
+
+Examples:
+```
+array elements  
+matrix row traversal  
+sequential instructions  
+```
+
+> Cache works because programs usually exhibit temporal locality and spatial locality.
+
 </details>
