@@ -1,5 +1,7 @@
 ## Simple Linear Regression:
 
+<details open>
+
 ### 
 |What to memorize|
 |---|
@@ -44,3 +46,5 @@ Find:
 
 - Step 6:
   Substitute X value to predict Y.
+
+</details>
