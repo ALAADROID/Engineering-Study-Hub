@@ -1,7 +1,32 @@
 ## Chi square distribution:
 
 <details open>
+
+### EXAM KEYWORDS → FORMULA:
+
+| If question says            | Use                      |
+| --------------------------- | ------------------------ |
+| estimate variance           | CI formula               |
+| estimate standard deviation | CI formula + square root |
+| confidence interval         | CI formula               |
+| it is claimed               | hypothesis test          |
+| significance level          | hypothesis test          |
+| make decision               | hypothesis test          |
+| variance is greater than    | H₁: σ² > value           |
+| variance is less than       | H₁: σ² < value           |
+| variance is different from  | H₁: σ² ≠ value           |
+
   
+### Exam shortcut:
+- Right-tailed (>)  
+Reject if:  
+    test statistic > critical value  
+- Left-tailed (<)  
+Reject if:  
+    test statistic < critical value  
+- Two-tailed (≠)  
+Reject if the statistic falls outside the two critical values.  
+
 
 </details>
   
