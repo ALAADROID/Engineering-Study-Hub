@@ -3,7 +3,7 @@
 <details open>
   
 
-<details>
+</details>
   
 ## Simple Linear Regression:
 
