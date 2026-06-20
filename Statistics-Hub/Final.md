@@ -2,6 +2,14 @@
 
 <details open>
 
+<br>
+
+|SHORT RULES|
+|---|
+|<img width="485" height="209" alt="image" src="https://github.com/user-attachments/assets/6f9dce0b-b6ae-456e-affd-279d2f0e46fe" /> <img width="469" height="203" alt="image" src="https://github.com/user-attachments/assets/9896d9a2-e018-4b64-acc5-b1cd76f11f8a" />|
+
+---
+
 ### EXAM KEYWORDS → FORMULA:
 
 | If question says            | Use                      |
@@ -34,6 +42,7 @@ Reject if the statistic falls outside the two critical values.
 
 <details open>
 
+<br>
 
 |What to memorize|
 |---|
