@@ -1,3 +1,34 @@
+## T-Distribution?
+
+<details open>
+
+<br>
+
+### When do I use T-Distribution?
+
+- Use t instead of z when:
+
+  - ✅ Population standard deviation (σ) is unknown  
+  - ✅ Sample size is small n<30
+
+---
+
+### Keywords:
+
+| Question says            | Topic         |
+| ------------------------ | ------------- |
+| Estimate average         | CI            |
+| Confidence interval      | CI            |
+| Estimate difference      | CI difference |
+| It is claimed            | Hypothesis    |
+| Make your decision       | Hypothesis    |
+| Compare two averages     | Two means     |
+| Difference between means | Two means     |
+
+
+
+</details>
+
 ## Chi square distribution:
 
 <details open>
