@@ -3,72 +3,39 @@
 
 
 
+### In the 1930s, the expansionist policies of revisionist states that ignored international arrangements prompted Turkey to act on which issue?
+`في الثلاثينيات من القرن الماضي، دفعت السياسات التوسعية للدول المراجِعة (التي تسعى لتعديل الاتفاقيات) والتي تجاهلت الترتيبات الدولية، تركيا إلى اتخاذ إجراء بشأن أي قضية؟` 
+- Calling for a change in the status of the Straits  
+- 💡 1930s / expansionist policies → status of the Straits  
+
+---
+
+### How did Turkey officially bring up the revision of the Lausanne provisions concerning the Straits?
+`كيف أثارت تركيا رسمياً مسألة مراجعة أحكام لوزان المتعلقة بالمضائق؟` 
+- By sending a note to the states that had signed the Treaty of Lausanne  
+- 💡 officially bring up / revision → sending a note  
+
+---
 
 
+### Which states or group of states supported Turkey’s demand to change the Straits regime?
+`أي من الدول أو مجموعة الدول التي دعمت مطلب تركيا بتغيير نظام المضائق؟`
+- The other great European powers, except Italy, together with Soviet Russia
+- supported Turkey's demand → except Italy / Soviet Russia
 
+---
 
+### When and where was the decision taken to convene the Montreux Conference in line with Turkey’s demand?
+`متى وأين اتُخذ القرار بعقد مؤتمر مونترو تماشياً مع مطلب تركيا؟`
+- In the town of Montreux in Switzerland on 22 June 1936
+- 💡 convene the Montreux Conference → town of Montreux / 22 June 1936
 
+---
 
-
-Question 5
-
-English: In the 1930s, the expansionist policies of revisionist states that ignored international arrangements prompted Turkey to act on which issue?
-
-Arabic: في الثلاثينيات من القرن الماضي، دفعت السياسات التوسعية للدول المراجِعة (التي تسعى لتعديل الاتفاقيات) والتي تجاهلت الترتيبات الدولية، تركيا إلى اتخاذ إجراء بشأن أي قضية؟
-
-Correct Answer: B) Calling for a change in the status of the Straits
-
-Shortcut Link:
-
-💡 Keywords: 1930s / expansionist policies → status of the Straits
-
-Question 6
-
-English: How did Turkey officially bring up the revision of the Lausanne provisions concerning the Straits?
-
-Arabic: كيف أثارت تركيا رسمياً مسألة مراجعة أحكام لوزان المتعلقة بالمضائق؟
-
-Correct Answer: C) By sending a note to the states that had signed the Treaty of Lausanne
-
-Shortcut Link:
-
-💡 Keywords: officially bring up / revision → sending a note
-
-Question 7
-
-English: Which states or group of states supported Turkey’s demand to change the Straits regime?
-
-Arabic: أي من الدول أو مجموعة الدول التي دعمت مطلب تركيا بتغيير نظام المضائق؟
-
-Correct Answer: D) The other great European powers, except Italy, together with Soviet Russia
-
-Shortcut Link:
-
-💡 Keywords: supported Turkey's demand → except Italy / Soviet Russia
-
-Question 8
-
-English: When and where was the decision taken to convene the Montreux Conference in line with Turkey’s demand?
-
-Arabic: متى وأين اتُخذ القرار بعقد مؤتمر مونترو تماشياً مع مطلب تركيا؟
-
-Correct Answer: E) In the town of Montreux in Switzerland on 22 June 1936
-
-Shortcut Link:
-
-💡 Keywords: convene the Montreux Conference → town of Montreux / 22 June 1936
-
-Question 9
-
-English: Which of the following states signed the Montreux Convention Regarding the Regime of the Straits later, on 2 May 1938?
-
-Arabic: أي من الدول التالية وقعت على اتفاقية مونترو بشأن نظام المضائق في وقت لاحق، وتحديداً في 2 مايو 1938؟
-
-Correct Answer: E) Italy
-
-Shortcut Link:
-
-💡 Keywords: signed / later, on 2 May 1938 → Italy
+### Which of the following states signed the Montreux Convention Regarding the Regime of the Straits later, on 2 May 1938?
+`أي من الدول التالية وقعت على اتفاقية مونترو بشأن نظام المضائق في وقت لاحق، وتحديداً في 2 مايو 1938؟`
+- Italy
+- 💡 signed / later, on 2 May 1938 → Italy
 
 Question 10
 
