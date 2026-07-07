@@ -111,460 +111,280 @@ Arabic: عندما تكون تركيا طرفاً محارباً في الحرب
 
 ---
 
-English: According to the Sadabad Pact, what did the member states undertake regarding their mutual relations?
-
-Arabic: وفقاً لمعاهدة ساداباد، ما الذي تعهدت به الدول الأعضاء فيما يتعلق بعلاقاتهم المتبادلة؟
-
-Correct Answer: B) To improve and continue their mutual relations
-
-Shortcut Link:
-
-💡 Keywords: undertake regarding their mutual relations → improve and continue
+### According to the Sadabad Pact, what did the member states undertake regarding their mutual relations?
+`وفقاً لمعاهدة ساداباد، ما الذي تعهدت به الدول الأعضاء فيما يتعلق بعلاقاتهم المتبادلة؟`
+- To improve and continue their mutual relations
+- 💡 undertake regarding their mutual relations → improve and continue
 
 
-
+---
 
 ## page 11-20:
 
 
 
+### According to the Sadabad Pact, how were the members expected to position themselves toward the League of Nations and international peace efforts?
+`وفقاً لمعاهدة ساداباد، كيف كان من المتوقع أن تحدد الدول الأعضاء موقفها تجاه عصبة الأمم وجهود السلام الدولية؟`
+- They agreed to remain committed to the League of Nations and peace initiatives.
+- 💡 League of Nations / peace efforts → remain committed
 
-  Question 6 (from image_fa3122.jpg)
+---
 
-English: According to the Sadabad Pact, how were the members expected to position themselves toward the League of Nations and international peace efforts?
+### Which of the following was one of the obligations assumed by the members of the Sadabad Pact?
+`أي مما يلي كان أحد الالتزامات التي تعهدت بها الدول الأعضاء في معاهدة ساداباد؟`
 
-Arabic: وفقاً لمعاهدة ساداباد، كيف كان من المتوقع أن تحدد الدول الأعضاء موقفها تجاه عصبة الأمم وجهود السلام الدولية؟
+- To refrain from interfering in one another's internal affairs and to respect each other's borders
+- 💡 obligations assumed → refrain from interfering / respect each other's borders
 
-Correct Answer: B) They agreed to remain committed to the League of Nations and peace initiatives.
+---
 
-Shortcut Link:
+### According to the Sadabad Pact, what did the members agree to do in matters concerning their common interests?
+`وفقاً لمعاهدة ساداباد، ما الذي وافقت الدول الأعضاء على فعله في الأمور المتعلقة بمصالحهم المشتركة؟`
+- Consult one another on issues concerning their common interests
+- 💡 matters concerning their common interests → Consult one another
 
-💡 Keywords: League of Nations / peace efforts → remain committed
+---
 
-Question 7 (from image_fa3122.jpg)
+### What kind of attitude did the members of the Sadabad Pact promise to adopt toward third parties?
+`ما هو نوع الموقف الذي وعدت الدول الأعضاء في معاهدة ساداباد باتخاذه تجاه الأطراف الثالثة (الدول الأخرى)؟`
+- Not to join any political formation pursuing aggression against one another
+- 💡 attitude / third parties → Not to join any political formation pursuing aggression
 
-English: Which of the following was one of the obligations assumed by the members of the Sadabad Pact?
+---
 
-Arabic: أي مما يلي كان أحد الالتزامات التي تعهدت بها الدول الأعضاء في معاهدة ساداباد؟
+### In what way did Italy’s occupation of Abyssinia affect the emergence of the Sadabad Pact?
+`كيف أثر احتلال إيطاليا للحبشة على ظهور معاهدة ساداباد؟`
 
-Correct Answer: D) To refrain from interfering in one another's internal affairs and to respect each other's borders
+- The Italian threat in the Eastern Mediterranean pushed Turkey to seek defensive measures together with Middle Eastern states.
+- 💡 Italy's occupation of Abyssinia → Italian threat / Eastern Mediterranean
 
-Shortcut Link:
+---
 
-💡 Keywords: obligations assumed → refrain from interfering / respect each other's borders
+### What was the main aim of Turkey’s friendship and cooperation policy toward Muslim countries that gained national independence after 1930?
+`ما هو الهدف الرئيسي لسياسة الصداقة والتعاون التركية تجاه الدول الإسلامية التي نالت استقلالها الوطني بعد عام 1930؟`
+- To prevent the danger of war in the Middle East and to promote peace and stability
+- 💡 friendship and cooperation policy / Muslim countries → prevent the danger of war / promote peace and stability
 
-Question 8 (from image_fa3141.jpg)
+---
 
-English: According to the Sadabad Pact, what did the members agree to do in matters concerning their common interests?
+### Who first put forward the idea of establishing a collective defense system?
+`من هو أول من طرح فكرة إنشاء نظام دفاع جماعي؟`
+- Iran
+- first put forward / collective defense system → Iran
 
-Arabic: وفقاً لمعاهدة ساداباد، ما الذي وافقت الدول الأعضاء على فعله في الأمور المتعلقة بمصالحهم المشتركة؟
+---
 
-Correct Answer: C) Consult one another on issues concerning their common interests
+### Besides Turkey and Iran, which country also supported the Sadabad Pact initiative at the beginning?
+`إلى جانب تركيا وإيران، ما هي الدولة التي دعمت أيضاً مبادرة معاهدة ساداباد في البداية؟`
+- Iraq
+- 💡 Besides Turkey and Iran / supported → Iraq
 
-Shortcut Link:
+---
 
-💡 Keywords: matters concerning their common interests → Consult one another
+### Through the Balkan Entente and the Sadabad Pact, what broader foreign policy goal was Turkey trying to achieve?
+`من خلال الوفاق البلقاني ومعاهدة ساداباد، ما هو الهدف الأوسع للسياسة الخارجية التي كانت تركيا تحاول تحقيقها؟`
+- To form security and peace belts in the west and the east in regions important to itself
+- 💡 broader foreign policy goal → security and peace belts / west and the east
 
-Question 9 (from image_fa3141.jpg)
+---
 
-English: What kind of attitude did the members of the Sadabad Pact promise to adopt toward third parties?
+### Which of the following correctly describes the fate of the Balkan Entente and the Sadabad Pact?
+`أي مما يلي يصف بشكل صحيح مصير الوفاق البلقاني ومعاهدة ساداباد؟`
 
-Arabic: ما هو نوع الموقف الذي وعدت الدول الأعضاء في معاهدة ساداباد باتخاذه تجاه الأطراف الثالثة (الدول الأخرى)؟
+- They did not become long-lasting and strong unions, and they effectively disappeared because of the political developments after 1939.
+- 💡 fate of the Balkan Entente and the Sadabad Pact → disappeared because of the political developments after 1939
 
-Correct Answer: C) Not to join any political formation pursuing aggression against one another
+---
 
-Shortcut Link:
+### After the First World War, the Sanjak of Alexandretta (Hatay) was included in the sphere of influence of which state?
+`بعد الحرب العالمية الأولى، في أي منطقة نفوذ دولة تم إدراج سنجق إسكندرون (هاتاي)؟`
 
-💡 Keywords: attitude / third parties → Not to join any political formation pursuing aggression
+- France
+-💡 Sanjak of Alexandretta (Hatay) / influence → France
 
-Question 10 (from image_fa3405.jpg)
+---
 
-English: In what way did Italy’s occupation of Abyssinia affect the emergence of the Sadabad Pact?
+### English: Which agreement granted the Sanjak of Alexandretta a special administrative status and left it within the borders of Syria?
+`أي اتفاقية منحت سنجق إسكندرون وضعاً إدارياً خاصاً وتركته داخل حدود سوريا؟`
+- The Ankara Agreement of 20 October 1921
+- 💡 special administrative status / within the borders of Syria → Ankara Agreement of 20 October 1921
 
-Arabic: كيف أثر احتلال إيطاليا للحبشة على ظهور معاهدة ساداباد؟
+---
 
-Correct Answer: C) The Italian threat in the Eastern Mediterranean pushed Turkey to seek defensive measures together with Middle Eastern states.
+### What was the main reason why the Hatay Question re-emerged in 1936?
+`ما هو السبب الرئيسي وراء ظهور قضية هاتاي مجدداً في عام 1936؟`
 
-Shortcut Link:
+- France made an agreement to grant independence to Syria, and Hatay was located within Syrian borders.
+- 💡 main reason / re-emerged in 1936 → France made an agreement to grant independence to Syria
 
-💡 Keywords: Italy's occupation of Abyssinia → Italian threat / Eastern Mediterranean
+---
 
-Question 11 (from image_fa3405.jpg & image_fa3408.jpg)
+### In which year did Turkey send a note to France demanding that Hatay, like Syria, should also be granted independence?
+`في أي عام أرسلت تركيا مذكرة إلى فرنسا تطالب فيها بمنح هاتاي الاستقلال أيضاً أسوة بسوريا؟`
+- 1936
+- 💡 send a note to France / demand independence → 1936
 
-English: What was the main aim of Turkey’s friendship and cooperation policy toward Muslim countries that gained national independence after 1930?
+---
 
-Arabic: ما هو الهدف الرئيسي لسياسة الصداقة والتعاون التركية تجاه الدول الإسلامية التي نالت استقلالها الوطني بعد عام 1930؟
 
-Correct Answer: B) To prevent the danger of war in the Middle East and to promote peace and stability
+### At France’s suggestion, to which institution was the Hatay Question referred?
+`بناءً على اقتراح فرنسا، إلى أي مؤسسة أُحيلت قضية هاتاي؟`
+- The League of Nations
+- 💡 France’s suggestion / referred → The League of Nations
 
-Shortcut Link:
+---
 
-💡 Keywords: friendship and cooperation policy / Muslim countries → prevent the danger of war / promote peace and stability
 
-Question 12 (from image_fa3408.jpg)
+### How many observers were appointed by the League of Nations to examine the Hatay Question?
+`كم عدد المراقبين الذين عينتهم عصبة الأمم لفحص دراسة قضية هاتاي؟`
+- 3
+- 💡 How many observers → 3
 
-English: Who first put forward the idea of establishing a collective defense system?
+---
 
-Arabic: من هو أول من طرح فكرة إنشاء نظام دفاع جماعي؟
+### According to the status created for Hatay by the League of Nations, which of the following is correct?
+`وفقاً للوضع الذي وضعته عصبة الأمم لهاتاي، أي مما يلي صحيح؟`
+- Hatay was recognized as an entity autonomous in internal affairs but connected to Syria in external affairs, with its own constitution and Turkish as its official language.
+- 💡 status created for Hatay → autonomous in internal affairs / connected to Syria in external affairs / Turkish as its official language
 
-Correct Answer: D) Iran
 
-Shortcut Link:
 
-💡 Keywords: first put forward / collective defense system → Iran
-
-Question 13 (from image_fa3424.png)
-
-English: Besides Turkey and Iran, which country also supported the Sadabad Pact initiative at the beginning?
-
-Arabic: إلى جانب تركيا وإيران، ما هي الدولة التي دعمت أيضاً مبادرة معاهدة ساداباد في البداية؟
-
-Correct Answer: E) Iraq
-
-Shortcut Link:
-
-💡 Keywords: Besides Turkey and Iran / supported → Iraq
-
-Question 14 (from image_fa3429.jpg)
-
-English: Through the Balkan Entente and the Sadabad Pact, what broader foreign policy goal was Turkey trying to achieve?
-
-Arabic: من خلال الوفاق البلقاني ومعاهدة ساداباد، ما هو الهدف الأوسع للسياسة الخارجية التي كانت تركيا تحاول تحقيقها؟
-
-Correct Answer: A) To form security and peace belts in the west and the east in regions important to itself
-
-Shortcut Link:
-
-💡 Keywords: broader foreign policy goal → security and peace belts / west and the east
-
-Question 15 (from image_fa3443.jpg)
-
-English: Which of the following correctly describes the fate of the Balkan Entente and the Sadabad Pact?
-
-Arabic: أي مما يلي يصف بشكل صحيح مصير الوفاق البلقاني ومعاهدة ساداباد؟
-
-Correct Answer: E) They did not become long-lasting and strong unions, and they effectively disappeared because of the political developments after 1939.
-
-Shortcut Link:
-
-💡 Keywords: fate of the Balkan Entente and the Sadabad Pact → disappeared because of the political developments after 1939
-
-Section 3: The Hatay Question (Sanjak of Alexandretta)
-Question 1 (from image_fa3443.jpg)
-
-English: After the First World War, the Sanjak of Alexandretta (Hatay) was included in the sphere of influence of which state?
-
-Arabic: بعد الحرب العالمية الأولى، في أي منطقة نفوذ دولة تم إدراج سنجق إسكندرون (هاتاي)؟
-
-Correct Answer: A) France
-
-Shortcut Link:
-
-💡 Keywords: Sanjak of Alexandretta (Hatay) / influence → France
-
-Question 2 (from image_fa344b.jpg)
-
-English: Which agreement granted the Sanjak of Alexandretta a special administrative status and left it within the borders of Syria?
-
-Arabic: أي اتفاقية منحت سنجق إسكندرون وضعاً إدارياً خاصاً وتركته داخل حدود سوريا؟
-
-Correct Answer: B) The Ankara Agreement of 20 October 1921
-
-Shortcut Link:
-
-💡 Keywords: special administrative status / within the borders of Syria → Ankara Agreement of 20 October 1921
-
-Question 3 (from image_fa344b.jpg & image_fa3480.jpg)
-
-English: What was the main reason why the Hatay Question re-emerged in 1936?
-
-Arabic: ما هو السبب الرئيسي وراء ظهور قضية هاتاي مجدداً في عام 1936؟
-
-Correct Answer: C) France made an agreement to grant independence to Syria, and Hatay was located within Syrian borders.
-
-Shortcut Link:
-
-💡 Keywords: main reason / re-emerged in 1936 → France made an agreement to grant independence to Syria
-
-Question 4 (from image_fa3480.jpg)
-
-English: In which year did Turkey send a note to France demanding that Hatay, like Syria, should also be granted independence?
-
-Arabic: في أي عام أرسلت تركيا مذكرة إلى فرنسا تطالب فيها بمنح هاتاي الاستقلال أيضاً أسوة بسوريا؟
-
-Correct Answer: B) 1936
-
-Shortcut Link:
-
-💡 Keywords: send a note to France / demand independence → 1936
-
-Question 5 (from image_fa3480.jpg)
-
-English: At France’s suggestion, to which institution was the Hatay Question referred?
-
-Arabic: بناءً على اقتراح فرنسا، إلى أي مؤسسة أُحيلت قضية هاتاي؟
-
-Correct Answer: A) The League of Nations
-
-Shortcut Link:
-
-💡 Keywords: France’s suggestion / referred → The League of Nations
-
-Question 6 (from image_fa3484.jpg)
-
-English: How many observers were appointed by the League of Nations to examine the Hatay Question?
-
-Arabic: كم عدد المراقبين الذين عينتهم عصبة الأمم لفحص دراسة قضية هاتاي؟
-
-Correct Answer: B) 3
-
-Shortcut Link:
-
-💡 Keywords: How many observers → 3
-
-Question 7 (from image_fa3484.jpg)
-
-English: According to the status created for Hatay by the League of Nations, which of the following is correct?
-
-Arabic: وفقاً للوضع الذي وضعته عصبة الأمم لهاتاي، أي مما يلي صحيح؟
-
-Correct Answer: C) Hatay was recognized as an entity autonomous in internal affairs but connected to Syria in external affairs, with its own constitution and Turkish as its official language.
-
-Shortcut Link:
-
-💡 Keywords: status created for Hatay → autonomous in internal affairs / connected to Syria in external affairs / Turkish as its official language
-
-
-
-
+---
 
 
 ## page 21-29:
 
 
 
+### On what date was the arrangement establishing Hatay’s special status concluded?
+`في أي تاريخ تم إبرام الترتيب الذي يحدد الوضع الخاص لهاتاي؟`
+- 29 May 1937
+- 💡 special status concluded → 29 May 1937
 
-Question 8
+---
 
-English: On what date was the arrangement establishing Hatay’s special status concluded?
+### How did Germany’s annexation of Austria in 1938 affect France’s view of the Hatay Question?
+`كيف أثر ضم ألمانيا للنمسا عام 1938 على نظرة فرنسا لقضية هاتاي؟`
 
-Arabic: في أي تاريخ تم إبرام الترتيب الذي يحدد الوضع الخاص لهاتاي؟
+- It led France to recognize more clearly Turkey’s strategic importance in the Eastern Mediterranean and to adopt a softer policy toward Turkey.
+- 💡 Germany’s annexation of Austria → recognize Turkey’s strategic importance / softer policy
 
-Correct Answer: A) 29 May 1937
+---
 
-Shortcut Link:
 
-💡 Keywords: special status concluded → 29 May 1937
+### What was the main purpose of the military agreement signed between Turkey and France on 3 June 1938 in relation to Hatay?
+`ما هو الهدف الرئيسي للاتفاقية العسكرية الموقعة بين تركيا وفرنسا في 3 يونيو 1938 فيما يتعلق بهاتاي؟`
+- To preserve the Sanjak’s status
+- 💡 military agreement / 3 June 1938 → preserve the Sanjak’s status
 
-Question 9
+---
 
-English: How did Germany’s annexation of Austria in 1938 affect France’s view of the Hatay Question?
+### What was the significance of the friendship agreement / joint declaration signed between Turkey and France on 4 July 1938 for the Hatay Question?
+`ما هي أهمية اتفاقية الصداقة / الإعلان المشترك الموقع بين تركيا وفرنسا في 4 يوليو 1938 بالنسبة لقضية هاتاي؟`
+- It marked an important step toward the peaceful settlement of the Sanjak Question.
+- 💡 friendship agreement / 4 July 1938 → peaceful settlement of the Sanjak Question
 
-Arabic: كيف أثر ضم ألمانيا للنمسا عام 1938 على نظرة فرنسا لقضية هاتاي؟
+---
 
-Correct Answer: A) It led France to recognize more clearly Turkey’s strategic importance in the Eastern Mediterranean and to adopt a softer policy toward Turkey.
+### In the 1938 elections held in Hatay, how many of the 40 deputies were of Turkish origin?
+`في انتخابات عام 1938 التي جرت في هاتاي، كم كان عدد النواب من أصل تركي من بين 40 نائباً؟`
+- 22
+- 💡 1938 elections / 40 deputies → 22
 
-Shortcut Link:
+---
 
-💡 Keywords: Germany’s annexation of Austria → recognize Turkey’s strategic importance / softer policy
+### Which important decision did the Hatay Assembly take on 2 September 1938?
+`ما هو القرار الهام الذي اتخذه برلمان هاتاي في 2 سبتمبر 1938؟`
+- It renamed the territory the State of Hatay.
+- 💡 Hatay Assembly / 2 September 1938 → renamed the territory the State of Hatay
 
-Question 10
+---
 
-English: What was the main purpose of the military agreement signed between Turkey and France on 3 June 1938 in relation to Hatay?
+### On what date did the Hatay Assembly unanimously decide to join Turkey?
+`في أي تاريخ قرر برلمان هاتاي بالإجماع الانضمام إلى تركيا؟`
+- 29 June 1939
+- 💡 unanimously decide to join Turkey → 29 June 1939
 
-Arabic: ما هو الهدف الرئيسي للاتفاقية العسكرية الموقعة بين تركيا وفرنسا في 3 يونيو 1938 فيما يتعلق بهاتاي؟
+---
+### Which of the following best summarizes the settlement of the Hatay Question?
+`أي مما يلي يلخص بشكل أفضل تسوية قضية هاتاي؟`
+- It was resolved through diplomacy, League of Nations decisions, and the gradual softening of Turkish-French relations, leading to Hatay’s incorporation into Turkey.
+- 💡 best summarizes the settlement → resolved through diplomacy / gradual softening of Turkish-French relations
 
-Correct Answer: D) To preserve the Sanjak’s status
+---
 
-Shortcut Link:
+### Which of the following was one of the general causes of the Second World War?
+`أي مما يلي كان أحد الأسباب العامة للحرب العالمية الثانية؟`
+- The conclusion of very harsh peace treaties with the defeated powers after the First World War
+- 💡 general causes of the Second World War → harsh peace treaties with the defeated powers
 
-💡 Keywords: military agreement / 3 June 1938 → preserve the Sanjak’s status
+---
 
-Question 11
+### Which development shook the traditional system of European diplomacy and the balance of power at its foundations?
+`أي تطور هز النظام التقليدي للدبلوماسية الأوروبية وتوازن القوى من جذوره؟`
+- The collapse of four great empires after the First World War
+- 💡 shook the traditional system → collapse of four great empires
 
-English: What was the significance of the friendship agreement / joint declaration signed between Turkey and France on 4 July 1938 for the Hatay Question?
+---
 
-Arabic: ما هي أهمية اتفاقية الصداقة / الإعلان المشترك الموقع بين تركيا وفرنسا في 4 يوليو 1938 بالنسبة لقضية هاتاي؟
+### Which statement about the disarmament attempts before the Second World War is correct?
+`أي عبارة بشأن محاولات نزع السلاح قبل الحرب العالمية الثانية صحيحة؟`
+- The Disarmament Conferences produced no concrete results, which increased the danger of war.
+- 💡 disarmament attempts → produced no concrete results / increased the danger of war
 
-Correct Answer: B) It marked an important step toward the peaceful settlement of the Sanjak Question.
+---
 
-Shortcut Link:
+### Which policy best reflects the attitude of Germany and Italy before the Second World War?
+`أي سياسة تعكس بشكل أفضل موقف ألمانيا وإيطاليا قبل الحرب العالمية الثانية؟`
+- An expansionist and aggressive foreign policy
+- 💡 attitude of Germany and Italy → expansionist and aggressive foreign policy
 
-💡 Keywords: friendship agreement / 4 July 1938 → peaceful settlement of the Sanjak Question
+---
 
-Question 12
+### Which of the following correctly describes Japan’s policy before the Second World War?
+`أي مما يلي يصف بشكل صحيح سياسة اليابان قبل الحرب العالمية الثانية؟`
+- It wanted to drive the European powers out of Asia and dominate the region.
+- 💡 Japan’s policy → drive the European powers out of Asia / dominate
 
-English: In the 1938 elections held in Hatay, how many of the 40 deputies were of Turkish origin?
+---
 
-Arabic: في انتخابات عام 1938 التي جرت في هاتاي، كم كان عدد النواب من أصل تركي من بين 40 نائباً؟
+### Which statement about Germany’s annexation of Austria in 1938 (Anschluss) is correct?
+`أي عبارة بشأن ضم ألمانيا للنمسا عام 1938 (الأنشلوس) صحيحة؟`
+- It was contrary to the Treaty of Versailles and increased tensions in Europe.
+- 💡 annexation of Austria / Anschluss → contrary to the Treaty of Versailles / increased tensions
 
-Correct Answer: C) 22
+---
 
-Shortcut Link:
+### Which type of regime began in Germany when Hitler came to power in 1933?
+`أي نوع من الأنظمة بدأ في ألمانيا عندما وصل هتلر إلى السلطة عام 1933؟`
+- National Socialism (Nazism)
+- 💡 Hitler came to power in 1933 → National Socialism (Nazism)
 
-💡 Keywords: 1938 elections / 40 deputies → 22
+---
 
-Question 13
+### Which of the following does not belong to the worldview of National Socialism?
+`أي مما يلي لا ينتمي إلى الأيديولوجية الفكرية للاشتراكية الوطنية (النازية)؟`
+- It promoted international equality and multiculturalism.
+- 💡 does not belong to National Socialism → promoted international equality and multiculturalism
 
-English: Which important decision did the Hatay Assembly take on 2 September 1938?
-
-Arabic: ما هو القرار الهام الذي اتخذه برلمان هاتاي في 2 سبتمبر 1938؟
-
-Correct Answer: A) It renamed the territory the State of Hatay.
-
-Shortcut Link:
-
-💡 Keywords: Hatay Assembly / 2 September 1938 → renamed the territory the State of Hatay
-
-Question 14
-
-English: On what date did the Hatay Assembly unanimously decide to join Turkey?
-
-Arabic: في أي تاريخ قرر برلمان هاتاي بالإجماع الانضمام إلى تركيا؟
-
-Correct Answer: D) 29 June 1939
-
-Shortcut Link:
-
-💡 Keywords: unanimously decide to join Turkey → 29 June 1939
-
-Question 15
-
-English: Which of the following best summarizes the settlement of the Hatay Question?
-
-Arabic: أي مما يلي يلخص بشكل أفضل تسوية قضية هاتاي؟
-
-Correct Answer: E) It was resolved through diplomacy, League of Nations decisions, and the gradual softening of Turkish-French relations, leading to Hatay’s incorporation into Turkey.
-
-Shortcut Link:
-
-💡 Keywords: best summarizes the settlement → resolved through diplomacy / gradual softening of Turkish-French relations
-
-Section 4: Second World War & Turkey
-Question 1
-
-English: Which of the following was one of the general causes of the Second World War?
-
-Arabic: أي مما يلي كان أحد الأسباب العامة للحرب العالمية الثانية؟
-
-Correct Answer: A) The conclusion of very harsh peace treaties with the defeated powers after the First World War
-
-Shortcut Link:
-
-💡 Keywords: general causes of the Second World War → harsh peace treaties with the defeated powers
-
-Question 2
-
-English: Which development shook the traditional system of European diplomacy and the balance of power at its foundations?
-
-Arabic: أي تطور هز النظام التقليدي للدبلوماسية الأوروبية وتوازن القوى من جذوره؟
-
-Correct Answer: B) The collapse of four great empires after the First World War
-
-Shortcut Link:
-
-💡 Keywords: shook the traditional system → collapse of four great empires
-
-Question 3
-
-English: Which statement about the disarmament attempts before the Second World War is correct?
-
-Arabic: أي عبارة بشأن محاولات نزع السلاح قبل الحرب العالمية الثانية صحيحة؟
-
-Correct Answer: B) The Disarmament Conferences produced no concrete results, which increased the danger of war.
-
-Shortcut Link:
-
-💡 Keywords: disarmament attempts → produced no concrete results / increased the danger of war
-
-Question 5
-
-English: Which policy best reflects the attitude of Germany and Italy before the Second World War?
-
-Arabic: أي سياسة تعكس بشكل أفضل موقف ألمانيا وإيطاليا قبل الحرب العالمية الثانية؟
-
-Correct Answer: B) An expansionist and aggressive foreign policy
-
-Shortcut Link:
-
-💡 Keywords: attitude of Germany and Italy → expansionist and aggressive foreign policy
-
-Question 6 (Page 5)
-
-English: Which of the following correctly describes Japan’s policy before the Second World War?
-
-Arabic: أي مما يلي يصف بشكل صحيح سياسة اليابان قبل الحرب العالمية الثانية؟
-
-Correct Answer: C) It wanted to drive the European powers out of Asia and dominate the region.
-
-Shortcut Link:
-
-💡 Keywords: Japan’s policy → drive the European powers out of Asia / dominate
-
-Question 7 (Page 5)
-
-English: Which statement about Germany’s annexation of Austria in 1938 (Anschluss) is correct?
-
-Arabic: أي عبارة بشأن ضم ألمانيا للنمسا عام 1938 (الأنشلوس) صحيحة؟
-
-Correct Answer: B) It was contrary to the Treaty of Versailles and increased tensions in Europe.
-
-Shortcut Link:
-
-💡 Keywords: annexation of Austria / Anschluss → contrary to the Treaty of Versailles / increased tensions
-
-Question 8 (from image_fa43c3.jpg)
-
-English: Which type of regime began in Germany when Hitler came to power in 1933?
-
-Arabic: أي نوع من الأنظمة بدأ في ألمانيا عندما وصل هتلر إلى السلطة عام 1933؟
-
-Correct Answer: C) National Socialism (Nazism)
-
-Shortcut Link:
-
-💡 Keywords: Hitler came to power in 1933 → National Socialism (Nazism)
-
-Question 9 (from image_fa43c3.jpg)
-
-English: Which of the following does not belong to the worldview of National Socialism?
-
-Arabic: أي مما يلي لا ينتمي إلى الأيديولوجية الفكرية للاشتراكية الوطنية (النازية)؟
-
-Correct Answer: E) It promoted international equality and multiculturalism.
-
-Shortcut Link:
-
-💡 Keywords: does not belong to National Socialism → promoted international equality and multiculturalism
-
+---
 
 ## page 30-40:
 
 
+### What was Germany’s main objective regarding the Treaty of Versailles in its foreign policy?
+`ما هو الهدف الرئيسي لألمانيا في سياستها الخارجية تجاه معاهدة فرساي؟`
+- To get rid of the Treaty of Versailles completely
+- 💡 Germany's main objective / Treaty of Versailles → get rid of the Treaty of Versailles completely
 
-Question 10 (from image_fa43e4.jpg)
+---
 
-English: What was Germany’s main objective regarding the Treaty of Versailles in its foreign policy?
+### What was one important consequence of Germany’s decision to send troops into the Rhineland, which was supposed to be demilitarized under the Treaty of Versailles?
+`ما هي إحدى النتائج المهمة لقرار ألمانيا بإرسال قوات إلى راينلاند (إقليم الراين)، والتي كان من المفترض أن تكون منزوعة السلاح بموجب معاهدة فرساي؟`
+- An increase in tension and the danger of war in Europe
+- 💡 troops into the Rhineland → increase in tension and the danger of war
 
-Arabic: ما هو الهدف الرئيسي لألمانيا في سياستها الخارجية تجاه معاهدة فرساي؟
-
-Correct Answer: D) To get rid of the Treaty of Versailles completely
-
-Shortcut Link:
-
-💡 Keywords: Germany's main objective / Treaty of Versailles → get rid of the Treaty of Versailles completely
-
-Question 11 (from image_fa43e8.jpg)
-
-English: What was one important consequence of Germany’s decision to send troops into the Rhineland, which was supposed to be demilitarized under the Treaty of Versailles?
-
-Arabic: ما هي إحدى النتائج المهمة لقرار ألمانيا بإرسال قوات إلى راينلاند (إقليم الراين)، والتي كان من المفترض أن تكون منزوعة السلاح بموجب معاهدة فرساي؟
-
-Correct Answer: D) An increase in tension and the danger of war in Europe
-
-Shortcut Link:
-
-💡 Keywords: troops into the Rhineland → increase in tension and the danger of war
+---
 
 Question 12 (from image_fa43e8.jpg)
 
