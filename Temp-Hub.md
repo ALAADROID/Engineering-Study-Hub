@@ -37,128 +37,79 @@
 - Italy
 - 💡 signed / later, on 2 May 1938 → Italy
 
-Question 10
+---
 
-English: Under the Montreux Convention, what was the main change concerning demilitarization and the International Straits Commission?
+### Under the Montreux Convention, what was the main change concerning demilitarization and the International Straits Commission?
+`بموجب اتفاقية مونترو، ما هو التغيير الرئيسي المتعلق بنزع السلاح واللجنة الدولية للمضائق؟`
+- Demilitarization was completely abolished and the International Straits Commission was dissolved.
+-💡 main change concerning demilitarization → completely abolished / dissolved
 
-Arabic: بموجب اتفاقية مونترو، ما هو التغيير الرئيسي المتعلق بنزع السلاح واللجنة الدولية للمضائق؟
+---
 
-Correct Answer: B) Demilitarization was completely abolished and the International Straits Commission was dissolved.
+According to Montreux, what is the regime for the passage of merchant vessels through the Straits when Turkey is not a belligerent in a war?
+`وفقاً لاتفاقية مونترو، ما هو نظام مرور السفن التجارية عبر المضائق عندما لا تكون تركيا طرفاً محارباً في الحرب؟`
+- Merchant vessels may pass freely through the Straits.  
+- 💡 merchant vessels / Turkey NOT a belligerent → pass freely
 
-Shortcut Link:
+---
 
-💡 Keywords: main change concerning demilitarization → completely abolished / dissolved
-
-Question 11
-
-English: According to Montreux, what is the regime for the passage of merchant vessels through the Straits when Turkey is not a belligerent in a war?
-
-Arabic: وفقاً لاتفاقية مونترو، ما هو نظام مرور السفن التجارية عبر المضائق عندما لا تكون تركيا طرفاً محارباً في الحرب؟
-
-Correct Answer: D) Merchant vessels may pass freely through the Straits.
-
-Shortcut Link:
-
-💡 Keywords: merchant vessels / Turkey NOT a belligerent → pass freely
-
-Question 12
-
-English: When Turkey is a belligerent in a war, what authority does Montreux give Turkey regarding merchant vessels of states not at war?
+### When Turkey is a belligerent in a war, what authority does Montreux give Turkey regarding merchant vessels of states not at war?
 
 Arabic: عندما تكون تركيا طرفاً محارباً في الحرب، ما هي السلطة التي تمنحها اتفاقية مونترو لتركيا فيما يتعلق بالسفن التجارية للدول التي ليست في حالة حرب؟
+- It may grant merchant vessels of non-belligerent states the right of passage under certain conditions.
+- 💡 Turkey IS a belligerent / merchant vessels → under certain conditions
 
-Correct Answer: D) It may grant merchant vessels of non-belligerent states the right of passage under certain conditions.
+---
 
-Shortcut Link:
+### In the case of the passage of warships belonging to belligerent states, what rule applies when Turkey is neutral and not at war?
+`في حالة مرور السفن الحربية التابعة للدول المحاربة، ما هي القاعدة التي تنطبق عندما تكون تركيا محايدة وليست في حالة حرب؟`
+- Warships of belligerent states may not pass through the Straits.
+- 💡 warships / Turkey is neutral → may not pass
 
-💡 Keywords: Turkey IS a belligerent / merchant vessels → under certain conditions
+---
 
-Question 13
+### According to Montreux, when Turkey is at war, who has the authority to decide on the passage of foreign warships through the Straits?
+`وفقاً لاتفاقية مونترو، عندما تكون تركيا في حالة حرب، من يملك سلطة القرار بشأن مرور السفن الحربية الأجنبية عبر المضائق؟`
+- Turkey itself, at its full discretion
+- 💡 Turkey is at war / foreign warships → Turkey itself
 
-English: In the case of the passage of warships belonging to belligerent states, what rule applies when Turkey is neutral and not at war?
+---
 
-Arabic: في حالة مرور السفن الحربية التابعة للدول المحاربة، ما هي القاعدة التي تنطبق عندما تكون تركيا محايدة وليست في حالة حرب؟
+### Which of the following correctly describes the duration and current status of the Montreux Convention Regarding the Regime of the Straits?
+`أي مما يلي يصف بشكل صحيح مدة والوضع الحالي لاتفاقية مونترو المتعلقة بنظام المضائق؟`
+- It was concluded for twenty years, but since none of the contracting parties has denounced it, it still remains in force today.
+- 💡 duration and current status → concluded for twenty years / remains in force today
 
-Correct Answer: D) Warships of belligerent states may not pass through the Straits.
+---
 
-Shortcut Link:
+### Which of the following statements about the Sadabad Pact is correct?
+`أي من العبارات التالية حول معاهدة ساداباد صحيحة؟`
+- It was the first pact of cooperation and non-aggression signed among neighboring Muslim states in the Middle East.
+- 💡 Sadabad Pact is correct → first pact / neighboring Muslim states
 
-💡 Keywords: warships / Turkey is neutral → may not pass
+---
 
-Question 14
+### When and where was the Sadabad Pact signed?
+`متى وأين تم التوقيع على معاهدة ساداباد؟`
+- At the Sadabad Palace in Tehran on 8 July 1937
+- 💡 Keywords:* When and where / signed → Sadabad Palace in Tehran / 8 July 1937
 
-English: According to Montreux, when Turkey is at war, who has the authority to decide on the passage of foreign warships through the Straits?
+---
 
-Arabic: وفقاً لاتفاقية مونترو، عندما تكون تركيا في حالة حرب، من يملك سلطة القرار بشأن مرور السفن الحربية الأجنبية عبر المضائق؟
+### Which of the following was one of the member states of the Sadabad Pact?
+`أي مما يلي كان من الدول الأعضاء في معاهدة ساداباد؟`
 
-Correct Answer: E) Turkey itself, at its full discretion
+- Afghanistan
+- 💡 member states of the Sadabad Pact → Afghanistan
 
-Shortcut Link:
+---
 
-💡 Keywords: Turkey is at war / foreign warships → Turkey itself
+### Which provision regarding duration was accepted by the member states of the Sadabad Pact?
+`أي شرط يتعلق بالمدة تم قبوله من قبل الدول الأعضاء في معاهدة ساداباد؟`
+- It was valid only in times of war. (Note: Based on the checkmark in your image).
+- 💡 provision regarding duration → valid only in times of war
 
-Question 15
-
-English: Which of the following correctly describes the duration and current status of the Montreux Convention Regarding the Regime of the Straits?
-
-Arabic: أي مما يلي يصف بشكل صحيح مدة والوضع الحالي لاتفاقية مونترو المتعلقة بنظام المضائق؟
-
-Correct Answer: C) It was concluded for twenty years, but since none of the contracting parties has denounced it, it still remains in force today.
-
-Shortcut Link:
-
-💡 Keywords: duration and current status → concluded for twenty years / remains in force today
-
-Section 2: The Sadabad Pact
-Question 1
-
-English: Which of the following statements about the Sadabad Pact is correct?
-
-Arabic: أي من العبارات التالية حول معاهدة ساداباد صحيحة؟
-
-Correct Answer: A) It was the first pact of cooperation and non-aggression signed among neighboring Muslim states in the Middle East.
-
-Shortcut Link:
-
-💡 Keywords: Sadabad Pact is correct → first pact / neighboring Muslim states
-
-Question 2
-
-English: When and where was the Sadabad Pact signed?
-
-Arabic: متى وأين تم التوقيع على معاهدة ساداباد؟
-
-Correct Answer: C) At the Sadabad Palace in Tehran on 8 July 1937
-
-Shortcut Link:
-
-💡 Keywords:* When and where / signed → Sadabad Palace in Tehran / 8 July 1937
-
-Question 3
-
-English: Which of the following was one of the member states of the Sadabad Pact?
-
-Arabic: أي مما يلي كان من الدول الأعضاء في معاهدة ساداباد؟
-
-Correct Answer: D) Afghanistan
-
-Shortcut Link:
-
-💡 Keywords: member states of the Sadabad Pact → Afghanistan
-
-Question 4
-
-English: Which provision regarding duration was accepted by the member states of the Sadabad Pact?
-
-Arabic: أي شرط يتعلق بالمدة تم قبوله من قبل الدول الأعضاء في معاهدة ساداباد؟
-
-Correct Answer: E) It was valid only in times of war. (Note: Based on the checkmark in your image).
-
-Shortcut Link:
-
-💡 Keywords: provision regarding duration → valid only in times of war
-
-Question 5
+---
 
 English: According to the Sadabad Pact, what did the member states undertake regarding their mutual relations?
 
