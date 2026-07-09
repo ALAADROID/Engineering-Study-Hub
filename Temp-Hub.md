@@ -386,554 +386,271 @@ Arabic: عندما تكون تركيا طرفاً محارباً في الحرب
 
 ---
 
-Question 12 (from image_fa43e8.jpg)
+### Which development shaped Italy’s internal political structure before the Second World War?
 
-English: Which development shaped Italy’s internal political structure before the Second World War?
+`أي تطور شكل البنية السياسية الداخلية لإيطاليا قبل الحرب العالمية الثانية؟`
+- Mussolini’s coming to power on 30 October 1922 and establishing a fascist regime
+- 💡 Italy’s internal political structure → Mussolini / 30 October 1922 / fascist regime
 
-Arabic: أي تطور شكل البنية السياسية الداخلية لإيطاليا قبل الحرب العالمية الثانية؟
+---
 
-Correct Answer: B) Mussolini’s coming to power on 30 October 1922 and establishing a fascist regime
+### Which statement about Italy’s foreign policy goals under Mussolini is correct?
 
-Shortcut Link:
+`أي عبارة عن أهداف السياسة الخارجية لإيطاليا في عهد موسوليني صحيحة؟`
+- It turned its colonial ambitions into a national ideal under the slogan of “re-establishing the Roman Empire.”
+- 💡 Italy’s foreign policy goals under Mussolini → re-establishing the Roman Empire
 
-💡 Keywords: Italy’s internal political structure → Mussolini / 30 October 1922 / fascist regime
+---
 
-Question 13 (from image_fa4400.jpg)
+### Which of the following was one of Italy’s expansionist steps in 1924 under Mussolini?
+`أي مما يلي كان أحد خطوات التوسع الإيطالي عام 1924 في عهد موسوليني؟`
+- Occupying the Greek island of Corfu
+-💡 Keywords: Italy’s expansionist steps in 1924 → Occupying the Greek island of Corfu
 
-English: Which statement about Italy’s foreign policy goals under Mussolini is correct?
+---
 
-Arabic: أي عبارة عن أهداف السياسة الخارجية لإيطاليا في عهد موسوليني صحيحة؟
+### Which statement correctly reflects Mussolini’s attitude toward the Eastern Mediterranean and Anatolia in his expansion plans?
 
-Correct Answer: B) It turned its colonial ambitions into a national ideal under the slogan of “re-establishing the Roman Empire.”
+`أي عبارة تعكس بشكل صحيح موقف موسوليني تجاه شرق البحر الأبيض المتوسط والأناضول في خططه التوسعية؟`
+- He regarded both the Eastern Mediterranean and Anatolia as potential areas of Italian expansion.
+- 💡Mussolini / Eastern Mediterranean and Anatolia → potential areas of Italian expansion
 
-Shortcut Link:
+---
 
-💡 Keywords: Italy’s foreign policy goals under Mussolini → re-establishing the Roman Empire
+### After İsmet İnönü was elected President, what was Turkey’s main foreign policy goal during the Second World War years?
 
-Question 14 (from image_fa4400.jpg & image_fa4403.jpg)
+`بعد انتخاب عصمت إينونو رئيساً للجمهورية، ما هو الهدف الرئيسي للسياسة الخارجية لتركيا خلال سنوات الحرب العالمية الثانية؟`
 
-English: Which of the following was one of Italy’s expansionist steps in 1924 under Mussolini?
+- To stay out of the war at all costs
+- 💡 Turkey’s main foreign policy goal / War years → stay out of the war at all costs
 
-Arabic: أي مما يلي كان أحد خطوات التوسع الإيطالي عام 1924 في عهد موسوليني؟
+---
 
-Correct Answer: C) Occupying the Greek island of Corfu
+### Successfully implementing the policy of “staying out of the war” is regarded as which of the following in İsmet İnönü’s political career?
 
-Shortcut Link:
+`يُعد النجاح في تنفيذ سياسة "البقاء خارج الحرب" بمثابة أي مما يلي في المسيرة السياسية لعصمت إينونو؟`
+- One of the greatest achievements of his political life
+- 💡 successfully implementing “staying out of the war” → One of the greatest achievements of his political life
 
-💡 Keywords: Italy’s expansionist steps in 1924 → Occupying the Greek island of Corfu
+---
 
-Question 15 (from image_fa4403.jpg)
+### Which of the following shows that Turkey was indirectly affected by the Second World War?
+`أي مما يلي يظهر أن تركيا تأثرت بشكل غير مباشر بالحرب العالمية الثانية؟`
 
-English: Which statement correctly reflects Mussolini’s attitude toward the Eastern Mediterranean and Anatolia in his expansion plans?
+- Feeling the effects of the war deeply during and after the war years
+- 💡 Keywords: Turkey / indirectly affected → Feeling the effects of the war deeply
 
-Arabic: أي عبارة تعكس بشكل صحيح موقف موسوليني تجاه شرق البحر الأبيض المتوسط والأناضول في خططه التوسعية؟
+---
 
-Correct Answer: D) He regarded both the Eastern Mediterranean and Anatolia as potential areas of Italian expansion.
+### As Germany annexed Austria and then took over Czechoslovakia, and Italy occupied Albania, in which direction did Turkey’s foreign policy begin to shift?
+`مع ضم ألمانيا للنمسا ومن ثم استيلائها على تشيكوسلوفاكيا، واحتلال إيطاليا لألبانيا، في أي اتجاه بدأت السياسة الخارجية لتركيا في التحول؟1`
 
-Shortcut Link:
+- Towards the British and French bloc
+- 💡 Germany annexed Austria / Italy occupied Albania → Towards the British and French bloc
 
-💡 Keywords: Mussolini / Eastern Mediterranean and Anatolia → potential areas of Italian expansion
+---
 
-Section 5: Turkey’s War-Time Policy & Post-War Alignments
-Question 1 (from image_fa4403.jpg)
+### On which date was the Turkish–British–French Alliance signed?
+`في أي تاريخ تم توقيع التحالف التركي البريطاني الفرنسي؟`
+- 19 October 1939
+- 💡 Turkish–British–French Alliance signed → 19 October 1939
 
-English: After İsmet İnönü was elected President, what was Turkey’s main foreign policy goal during the Second World War years?
+---
 
-Arabic: بعد انتخاب عصمت إينونو رئيساً للجمهورية، ما هو الهدف الرئيسي للسياسة الخارجية لتركيا خلال سنوات الحرب العالمية الثانية؟
+### According to the Turkish–British–French Alliance, in which case was Turkey expected to enter the war?
 
-Correct Answer: A) To stay out of the war at all costs
+`وفقاً للتحالف التركي البريطاني الفرنسي، في أي حالة كان يُتوقع من تركيا دخول الحرب؟`
 
-Shortcut Link:
+- When the war spread to the Mediterranean
+- 💡 Turkish–British–French Alliance / enter the war → When the war spread to the Mediterranean
 
-💡 Keywords: Turkey’s main foreign policy goal / War years → stay out of the war at all costs
+---
 
-Question 2 (from image_fa4406.jpg)
+### After France signed an armistice with Germany on 22 June 1940 and withdrew from the war, what stance did Turkey take?
+`بعد توقيع فرنسا هدنة مع ألمانيا في 22 يونيو 1940 وانسحابها من الحرب، ما هو الموقف الذي اتخذته تركيا؟`
+- It stated that joining the war for a state that had already withdrawn made no sense and did not enter the war.
+- 💡 France signed an armistice / what stance did Turkey take → joining the war for a state that had already withdrawn made no sense
 
-English: Successfully implementing the policy of “staying out of the war” is regarded as which of the following in İsmet İnönü’s political career?
+---
 
-Arabic: يُعد النجاح في تنفيذ سياسة "البقاء خارج الحرب" بمثابة أي مما يلي في المسيرة السياسية لعصمت إينونو؟
+### After German forces eliminated France and advanced eastwards, what was the nature of the agreement signed between Turkey and Germany on 18 June 1941?
+`بعد أن قضت القوات الألمانية على فرنسا وتقدمت شرقاً، ما هي طبيعة الاتفاقية الموقعة بين تركيا وألمانيا في 18 يونيو 1941؟`
+- A ten-year Treaty of Friendship and Non-Aggression
+- 💡 agreement signed between Turkey and Germany on 18 June 1941 → Treaty of Friendship and Non-Aggression
 
-Correct Answer: B) One of the greatest achievements of his political life
+---
 
-Shortcut Link:
+### What happened after the German pressure on Turkey eased towards the end of 1942?
+`ماذا حدث بعد خروج تركيا من دائرة الضغط الألماني وتراجع حدته تجاهها أواخر عام 1942؟`
 
-💡 Keywords: successfully implementing “staying out of the war” → One of the greatest achievements of his political life
+- Allied pressure on Turkey increased, and Turkish–Soviet relations entered a new negative phase.
+- 💡 Keywords: German pressure on Turkey eased / end of 1942 → Allied pressure on Turkey increased / Turkish–Soviet relations entered a new negative phase
 
-Question 3 (from image_fa46aa.png)
+---
 
-English: Which of the following shows that Turkey was indirectly affected by the Second World War?
+### What was the main decision concerning Turkey at the Casablanca Conference held in 1943 between Roosevelt and Churchill?
 
-Arabic: أي مما يلي يظهر أن تركيا تأثرت بشكل غير مباشر بالحرب العالمية الثانية؟
+`ما هو القرار الرئيسي المتعلق بتركيا في مؤتمر الدار البيضاء (كازابلانكا) الذي عُقد عام 1943 بين روزفلت وتشرشل؟`
 
-Correct Answer: C) Feeling the effects of the war deeply during and after the war years
+- That a Balkan Front should be opened by bringing Turkey into the war
+- 💡 decision concerning Turkey at the Casablanca Conference → Balkan Front should be opened by bringing Turkey into the war
 
-Shortcut Link:
+---
 
-💡 Keywords: Turkey / indirectly affected → Feeling the effects of the war deeply
+### During the 1943 Adana meetings between Churchill and İnönü, which two points did Turkey especially emphasize in response to Allied demands for Turkish participation in the war?
 
-Question 4 (from image_fa474b.jpg)
+`خلال اجتماعات أضنة عام 1943 بين تشرشل وإينونو، ما هما النقطتان اللتان ركزت عليهما تركيا بشكل خاص رداً على مطالب الحلفاء بمشاركتها في الحرب؟`
+- Concern about the Soviet Union and the fear that the Soviets would become dominant in Europe
+- 💡 1943 Adana meetings / Turkey especially emphasize → Concern about the Soviet Union and the fear that the Soviets would become dominant
 
-English: As Germany annexed Austria and then took over Czechoslovakia, and Italy occupied Albania, in which direction did Turkey’s foreign policy begin to shift?
 
-Arabic: مع ضم ألمانيا للنمسا ومن ثم استيلائها على تشيكوسلوفاكيا، واحتلال إيطاليا لألبانيا، في أي اتجاه بدأت السياسة الخارجية لتركيا في التحول؟
-
-Correct Answer: A) Towards the British and French bloc
-
-Shortcut Link:
-
-💡 Keywords: Germany annexed Austria / Italy occupied Albania → Towards the British and French bloc
-
-Question 5 (from image_fa474b.jpg)
-
-English: On which date was the Turkish–British–French Alliance signed?
-
-Arabic: في أي تاريخ تم توقيع التحالف التركي البريطاني الفرنسي؟
-
-Correct Answer: B) 19 October 1939
-
-Shortcut Link:
-
-💡 Keywords: Turkish–British–French Alliance signed → 19 October 1939
-
-Question 6 (from image_fa474e.png)
-
-English: According to the Turkish–British–French Alliance, in which case was Turkey expected to enter the war?
-
-Arabic: وفقاً للتحالف التركي البريطاني الفرنسي، في أي حالة كان يُتوقع من تركيا دخول الحرب؟
-
-Correct Answer: C) When the war spread to the Mediterranean
-
-Shortcut Link:
-
-💡 Keywords: Turkish–British–French Alliance / enter the war → When the war spread to the Mediterranean
-
-Question 7 (from image_fa474e.png)
-
-English: After France signed an armistice with Germany on 22 June 1940 and withdrew from the war, what stance did Turkey take?
-
-Arabic: بعد توقيع فرنسا هدنة مع ألمانيا في 22 يونيو 1940 وانسحابها من الحرب، ما هو الموقف الذي اتخذته تركيا؟
-
-Correct Answer: C) It stated that joining the war for a state that had already withdrawn made no sense and did not enter the war.
-
-Shortcut Link:
-
-💡 Keywords: France signed an armistice / what stance did Turkey take → joining the war for a state that had already withdrawn made no sense
-
-Question 8 (from image_fa999e.jpg)
-
-English: After German forces eliminated France and advanced eastwards, what was the nature of the agreement signed between Turkey and Germany on 18 June 1941?
-
-Arabic: بعد أن قضت القوات الألمانية على فرنسا وتقدمت شرقاً، ما هي طبيعة الاتفاقية الموقعة بين تركيا وألمانيا في 18 يونيو 1941؟
-
-Correct Answer: A) A ten-year Treaty of Friendship and Non-Aggression
-
-Shortcut Link:
-
-💡 Keywords: agreement signed between Turkey and Germany on 18 June 1941 → Treaty of Friendship and Non-Aggression
-
-Question 9 (from image_fa999e.jpg)
-
-English: What happened after the German pressure on Turkey eased towards the end of 1942?
-
-Arabic: ماذا حدث بعد خروج تركيا من دائرة الضغط الألماني وتراجع حدته تجاهها أواخر عام 1942؟
-
-Correct Answer: C) Allied pressure on Turkey increased, and Turkish–Soviet relations entered a new negative phase.
-
-Shortcut Link:
-
-💡 Keywords: German pressure on Turkey eased / end of 1942 → Allied pressure on Turkey increased / Turkish–Soviet relations entered a new negative phase
-
-Question 10 (from image_fa99a1.png)
-
-English: What was the main decision concerning Turkey at the Casablanca Conference held in 1943 between Roosevelt and Churchill?
-
-Arabic: ما هو القرار الرئيسي المتعلق بتركيا في مؤتمر الدار البيضاء (كازابلانكا) الذي عُقد عام 1943 بين روزفلت وتشرشل؟
-
-Correct Answer: C) That a Balkan Front should be opened by bringing Turkey into the war
-
-Shortcut Link:
-
-💡 Keywords: decision concerning Turkey at the Casablanca Conference → Balkan Front should be opened by bringing Turkey into the war
-
-Question 11 (from image_fa99a5.jpg)
-
-English: During the 1943 Adana meetings between Churchill and İnönü, which two points did Turkey especially emphasize in response to Allied demands for Turkish participation in the war?
-
-Arabic: خلال اجتماعات أضنة عام 1943 بين تشرشل وإينونو، ما هما النقطتان اللتان ركزت عليهما تركيا بشكل خاص رداً على مطالب الحلفاء بمشاركتها في الحرب؟
-
-Correct Answer: C) Concern about the Soviet Union and the fear that the Soviets would become dominant in Europe
-
-Shortcut Link:
-
-💡 Keywords: 1943 Adana meetings / Turkey especially emphasize → Concern about the Soviet Union and the fear that the Soviets would become dominant
-
-
-
+---
 
 ## page 41-49:
 
 
-Question 12 (from image_fa99bd.jpg)
+### How can the Soviet attitude towards Turkey at the 1943 Moscow Conference be best described?
+`كيف يمكن وصف الموقف السوفيتي تجاه تركيا في مؤتمر موسكو عام 1943 بأفضل شكل؟`
+- A view that Turkey should be asked to enter the war in the form of an “order,” and if necessary forced into the war
+- 💡 Soviet attitude / 1943 Moscow Conference → enter the war in the form of an “order,” and if necessary forced
 
-English: How can the Soviet attitude towards Turkey at the 1943 Moscow Conference be best described?
+---
 
-Arabic: كيف يمكن وصف الموقف السوفيتي تجاه تركيا في مؤتمر موسكو عام 1943 بأفضل شكل؟
+### At the Cairo meetings of 4–6 December 1943, when Allied pressure increased, what stance did İnönü adopt?
+`في اجتماعات القاهرة في 4-6 ديسمبر 1943، عندما زاد ضغط الحلفاء، ما هو الموقف الذي اتخذه إينونو؟`
 
-Correct Answer: C) A view that Turkey should be asked to enter the war in the form of an “order,” and if necessary forced into the war
+- He accepted, in principle, that Turkey would join the war, but made it clear that Turkey would definitely not enter without the necessary weapons and equipment.
+-💡 Cairo meetings of 4–6 December 1943 / stance did İnönü adopt → accepted, in principle / definitely not enter without the necessary weapons and equipment
 
-Shortcut Link:
+---
 
-💡 Keywords: Soviet attitude / 1943 Moscow Conference → enter the war in the form of an “order,” and if necessary forced
+### Which of the following refers to the date on which Turkey broke off diplomatic relations with Germany?
+`أي مما يلي يشير إلى التاريخ الذي قطعت فيه تركيا علاقاتها الدبلوماسية مع ألمانيا؟`
+- 2 August 1944
+- 💡 Turkey broke off diplomatic relations with Germany → 2 August 1944
 
-Question 13 (from image_fa99bd.jpg)
+---
 
-English: At the Cairo meetings of 4–6 December 1943, when Allied pressure increased, what stance did İnönü adopt?
+### Which step did Turkey take in order to become one of the founding members of the United Nations?
 
-Arabic: في اجتماعات القاهرة في 4-6 ديسمبر 1943، عندما زاد ضغط الحلفاء، ما هو الموقف الذي اتخذه إينونو؟
+`ما هي الخطوة التي اتخذتها تركيا لتصبح أحد الأعضاء المؤسسين للأمم المتحدة؟`
 
-Correct Answer: D) He accepted, in principle, that Turkey would join the war, but made it clear that Turkey would definitely not enter without the necessary weapons and equipment.
+- Declaring war on Germany and Japan on 23 February 1945 and then signing the United Nations Declaration
+- 💡 Turkey / founding members of the United Nations → Declaring war on Germany and Japan on 23 February 1945
 
-Shortcut Link:
+---
 
-💡 Keywords: Cairo meetings of 4–6 December 1943 / stance did İnönü adopt → accepted, in principle / definitely not enter without the necessary weapons and equipment
+### After the Second World War, which two states emerged as “superpowers” in world politics?
+`بعد الحرب العالمية الثانية، ما هما الدولتان اللتان برزتا كـ "قوى عظمى" في السياسة العالمية؟`
+- United States and Soviet Russia
+- 💡 emerged as “superpowers” → United States and Soviet Russia
 
-Question 14 (from image_fa9982.jpg)
+---
 
-English: Which of the following refers to the date on which Turkey broke off diplomatic relations with Germany?
+### The new alignments formed around the superpowers after the Second World War paved the way for which development?  
+`مهدت التحالفات الجديدة التي تشكلت حول القوى العظمى بعد الحرب العالمية الثانية الطريق لأي تطور؟`
+- The beginning of the Cold War
+- 💡 new alignments / superpowers → The beginning of the Cold War
 
-Arabic: أي مما يلي يشير إلى التاريخ الذي قطعت فيه تركيا علاقاتها الدبلوماسية مع ألمانيا؟
+---
 
-Correct Answer: D) 2 August 1944
+### Which of the following was an important result of the heavy weakening of the colonial powers after the Second World War?  
+`أي مما يلي كان نتيجة مهمة للإضعاف الشديد للقوى الاستعمارية بعد الحرب العالمية الثانية؟`
+- The age of colonialism began to come to an end.
+- 💡 weakening of colonial powers → The age of colonialism began to come to an end
 
-Shortcut Link:
+---
 
-💡 Keywords: Turkey broke off diplomatic relations with Germany → 2 August 1944
+### In their struggle for independence, many colonised peoples took inspiration from which historical experience?  
+`في نضالهم من أجل الاستقلال، استلهمت العديد من الشعوب المستعمرة الإلهام من أي تجربة تاريخية؟`
+- The Turkish War of Independence
+-💡 colonised peoples / inspiration → The Turkish War of Independence
 
-Question 15 (from image_fa9982.jpg)
+---
 
-English: Which step did Turkey take in order to become one of the founding members of the United Nations?
 
-Arabic: ما هي الخطوة التي اتخذتها تركيا لتصبح أحد الأعضاء المؤسسين للأمم المتحدة؟
+### Which group of countries correctly lists some of the states that gained independence after the Second World War?  
+`أي مجموعة من الدول تسرد بشكل صحيح بعض الدول التي نالت استقلالها بعد الحرب العالمية الثانية؟`
 
-Correct Answer: E) Declaring war on Germany and Japan on 23 February 1945 and then signing the United Nations Declaration
+- India, Pakistan, Libya, Algeria, Tunisia
+-💡 gained independence / after Second World War → India, Pakistan, Libya, Algeria, Tunisia
 
-Shortcut Link:
+---
 
-💡 Keywords: Turkey / founding members of the United Nations → Declaring war on Germany and Japan on 23 February 1945
+### Which organisation was founded after the Second World War, replacing the League of Nations and aiming to ensure international security and cooperation?
+`أي منظمة تأسست بعد الحرب العالمية الثانية لتحل محل عصبة الأمم وتهدف إلى ضمان الأمن والتعاون الدوليين؟`
+- United Nations (United Nations Organisation)
+-💡 replacing League of Nations / international security → United Nations
 
-Section 5: Turkey’s War-Time Policy & Post-War Alignments
-Question 1 (from image_fa99c0.png)
+---
 
-English: After the Second World War, which two states emerged as “superpowers” in world politics?
+### Under which two main headings are the effects of the Second World War on Turkey examined?
+`تحت أي عنوانين رئيسيين يتم فحص آثار الحرب العالمية الثانية على تركيا؟`
 
-Arabic: بعد الحرب العالمية الثانية، ما هما الدولتان اللتان برزتا كـ "قوى عظمى" في السياسة العالمية؟
+- Effects on foreign policy and domestic policy
+- 💡 Stwo main headings / effects → Effects on foreign policy and domestic policy
 
-Correct Answer: E) United States and Soviet Russia
+---
 
-Shortcut Link:
+### Which of the following is one of the foreign policy effects of the Second World War on Turkey?
+`أي مما يلي يعد من آثار الحرب العالمية الثانية على السياسة الخارجية لتركيا؟`
 
-💡 Keywords: emerged as “superpowers” → United States and Soviet Russia
+- The emergence of the Soviet threat and Turkey's accession to NATO
+- 💡 foreign policy effects → The emergence of the Soviet threat and Turkey's accession to NATO
 
-Question 2
-English: The new alignments formed around the superpowers after the Second World War paved the way for which development?  
-PDF
+---
 
-A) The collapse of the Ottoman Empire
+### Which of the following is a domestic policy effect of the Second World War on Turkey?
+`أي مما يلي يعد من آثار الحرب العالمية الثانية على السياسة الداخلية في تركيا؟`
 
-✓ B) The beginning of the Cold War
+- An increase in economic and social distortions and the beginning of the transition to multi-party politics
 
+
+- 💡 domestic policy effect → distortions and the beginning of the transition to multi-party politics
+
+---
+
+### Which step did the Soviet Union take towards Turkey on 19 March 1945?
+`ما هي الخطوة التي اتخذها الاتحاد السوفيتي تجاه تركيا في 19 مارس 1945؟`
+
+- It cancelled the 1925 Turkish–Soviet Non-Aggression Pact.
+- 💡 Soviet Union / 19 March 1945 → cancelled the 1925 Turkish–Soviet Non-Aggression Pact
+
+---
   
-PDF
+  ### Which of the following was among the demands made by the Soviet Union to Turkey in June 1945?  
+`أي مما يلي كان من بين المطالب التي قدمها الاتحاد السوفيتي لتركيا في يونيو 1945؟`
 
-C) The outbreak of the First World War
+- That Turkey’s eastern borders be revised and that bases be granted to the Soviets in the Straits
+-💡 demands / Soviet Union / June 1945 → eastern borders be revised and bases granted in the Straits
 
-D) The creation of an Italian colonial empire
+---
 
-E) The withdrawal of Japan from Europe
+### In Turkish–American relations, what did the arrival of the battleship Missouri in Turkey in April 1946 symbolise?  
+`في العلاقات التركية الأمريكية، ماذا رمزت زيارة البارجة الحربية "ميسوري" إلى تركيا في أبريل 1946؟`
+- An important symbol of friendship and rapprochement in the developing relations between Turkey and the United States
+-💡 arrival of the battleship Missouri → symbol of friendship and rapprochement
 
-Arabic: مهدت التحالفات الجديدة التي تشكلت حول القوى العظمى بعد الحرب العالمية الثانية الطريق لأي تطور؟
+---
 
-💡 Shortcut:
+### Which statement correctly reflects the main aim of the Truman Doctrine?  
+`أي عبارة تعكس بشكل صحيح الهدف الرئيسي لمبدأ ترومان؟`
+- To strengthen especially Greece and Turkey against the Soviet threat
+-💡 aim of the Truman Doctrine → strengthen especially Greece and Turkey against the Soviet threat
 
-Keywords: new alignments / superpowers → The beginning of the Cold War
+---
 
-Question 3
-English: Which of the following was an important result of the heavy weakening of the colonial powers after the Second World War?  
-PDF
+### Which of the following statements about the Marshall Plan is correct?  
+`أي من العبارات التالية المتعلقة بخطة مارشال صحيحة؟`
 
-A) The colonial system became even stronger.
+- It aimed at the economic reconstruction of European countries affected by the war, and Turkey was included in this plan.
+-💡 Marshall Plan → economic reconstruction of European countries / Turkey was included
 
-B) New colonies were created only in Asia.
+---
 
-C) Colonial peoples did not resist at all.
+### Which of the following statements about the transition to multi-party politics in Turkey after the Second World War is correct?  
+`أي من العبارات التالية حول التحول إلى التعددية الحزبية في تركيا بعد الحرب العالمية الثانية صحيحة؟`
+- From 1945 onwards, İsmet İnönü initiated the process of founding more than one party within the constitutional framework; after the “Dörtlü Takrir” was rejected, Celal Bayar, Adnan Menderes, Refik Koraltan and Fuat Köprülü left the CHP and founded the Democratic Party on 7 January 1946.
+-💡 transition to multi-party politics → "Dörtlü Takrir" rejected / left CHP and founded Democratic Party on 7 January 1946
 
-✓ D) The age of colonialism began to come to an end.
 
-  
-PDF
-
-E) Colonies were completely transferred to Europe.
-
-Arabic: أي مما يلي كان نتيجة مهمة للإضعاف الشديد للقوى الاستعمارية بعد الحرب العالمية الثانية؟
-
-💡 Shortcut:
-
-Keywords: weakening of colonial powers → The age of colonialism began to come to an end
-
-Question 4
-English: In their struggle for independence, many colonised peoples took inspiration from which historical experience?  
-PDF
-
-A) The American Civil War
-
-B) The Industrial Revolution in Britain
-
-C) The Russian Revolution
-
-D) The French Revolution
-
-✓ E) The Turkish War of Independence
-
-  
-PDF
-
-Arabic: في نضالهم من أجل الاستقلال، استلهمت العديد من الشعوب المستعمرة الإلهام من أي تجربة تاريخية؟
-
-💡 Shortcut:
-
-Keywords: colonised peoples / inspiration → The Turkish War of Independence
-
-Question 5
-English: Which group of countries correctly lists some of the states that gained independence after the Second World War?  
-PDF
-
-A) Germany, Italy, Japan, Austria
-
-B) Egypt, Iran, Iraq, Syria, Lebanon
-
-C) Greece, Bulgaria, Romania, Hungary
-
-✓ D) India, Pakistan, Libya, Algeria, Tunisia
-
-  
-PDF
-
-E) Spain, Portugal, Belgium, the Netherlands
-
-Arabic: أي مجموعة من الدول تسرد بشكل صحيح بعض الدول التي نالت استقلالها بعد الحرب العالمية الثانية؟
-
-💡 Shortcut:
-
-Keywords: gained independence / after Second World War → India, Pakistan, Libya, Algeria, Tunisia
-
-Question 6
-English: Which organisation was founded after the Second World War, replacing the League of Nations and aiming to ensure international security and cooperation?
-
-A) Warsaw Pact
-
-B) Council of Europe
-
-C) Baghdad Pact
-
-D) NATO
-
-✓ E) United Nations (United Nations Organisation)
-
-Arabic: أي منظمة تأسست بعد الحرب العالمية الثانية لتحل محل عصبة الأمم وتهدف إلى ضمان الأمن والتعاون الدوليين؟
-
-💡 Shortcut:
-
-Keywords: replacing League of Nations / international security → United Nations
-
-Question 7
-English: Under which two main headings are the effects of the Second World War on Turkey examined?
-
-A) Military and economic effects
-
-B) Legal and cultural effects
-
-C) Effects in the fields of education and health
-
-✓ D) Effects on foreign policy and domestic policy
-
-E) Only effects on foreign policy
-
-Arabic: تحت أي عنوانين رئيسيين يتم فحص آثار الحرب العالمية الثانية على تركيا؟
-
-💡 Shortcut:
-
-Keywords: two main headings / effects → Effects on foreign policy and domestic policy
-
-Question 8
-English: Which of the following is one of the foreign policy effects of the Second World War on Turkey?
-
-A) Turkey's membership of the European Union
-
-B) Turkey's entry into the war on the side of Germany
-
-C) Turkey's establishment of a colonial empire
-
-✓ D) The emergence of the Soviet threat and Turkey's accession to NATO
-
-E) Turkey's expulsion from the League of Nations
-
-Arabic: أي مما يلي يعد من آثار الحرب العالمية الثانية على السياسة الخارجية لتركيا؟
-
-💡 Shortcut:
-
-Keywords: foreign policy effects → The emergence of the Soviet threat and Turkey's accession to NATO
-
-Question 9
-English: Which of the following is a domestic policy effect of the Second World War on Turkey?
-
-A) An increase in economic prosperity and stronger support for the single party
-
-B) A rapid rise in the rate of urbanisation among the rural population
-
-C) A record increase in production because of the war
-
-✓ B) An increase in economic and social distortions and the beginning of the transition to multi-party politics
-
-E) The Democratic Party coming to power before the war
-
-Arabic: أي مما يلي يعد من آثار الحرب العالمية الثانية على السياسة الداخلية في تركيا؟
-
-💡 Shortcut:
-
-Keywords: domestic policy effect → distortions and the beginning of the transition to multi-party politics
-
-Question 10
-English: Which step did the Soviet Union take towards Turkey on 19 March 1945?
-
-A) It signed a defence pact with Turkey.
-
-B) It invited Turkey to join NATO.
-
-C) It supported Turkey's membership in the United Nations.
-
-✓ D) It cancelled the 1925 Turkish–Soviet Non-Aggression Pact.
-
-E) It unilaterally abrogated the Montreux Straits Convention.
-
-Arabic: ما هي الخطوة التي اتخذها الاتحاد السوفيتي تجاه تركيا في 19 مارس 1945؟
-
-💡 Shortcut:
-
-Keywords: Soviet Union / 19 March 1945 → cancelled the 1925 Turkish–Soviet Non-Aggression Pact
-
-Question 11
-English: Which of the following was among the demands made by the Soviet Union to Turkey in June 1945?  
-PDF
-
-A) That Turkey join the European Union
-
-B) That Turkey maintain the single-party regime
-
-C) That the Soviets be given the right to intervene in Turkey's internal affairs
-
-✓ D) That Turkey’s eastern borders be revised and that bases be granted to the Soviets in the Straits
-
-  
-PDF
-
-E) That Turkey withdraw from NATO
-
-Arabic: أي مما يلي كان من بين المطالب التي قدمها الاتحاد السوفيتي لتركيا في يونيو 1945؟
-
-💡 Shortcut:
-
-Keywords: demands / Soviet Union / June 1945 → eastern borders be revised and bases granted in the Straits
-
-Question 12
-English: In Turkish–American relations, what did the arrival of the battleship Missouri in Turkey in April 1946 symbolise?  
-PDF
-
-A) A complete break in relations between the two countries
-
-B) Turkey's declaration of war on the United States
-
-C) Turkey's distancing itself from the United States
-
-D) A sharp rise in anti-American feeling in Turkey
-
-✓ E) An important symbol of friendship and rapprochement in the developing relations between Turkey and the United States
-
-  
-PDF
-
-Arabic: في العلاقات التركية الأمريكية، ماذا رمزت زيارة البارجة الحربية "ميسوري" إلى تركيا في أبريل 1946؟
-
-💡 Shortcut:
-
-Keywords: arrival of the battleship Missouri → symbol of friendship and rapprochement
-
-Question 13
-English: Which statement correctly reflects the main aim of the Truman Doctrine?  
-PDF
-
-A) To ensure industrialisation only in Western European countries
-
-B) To strengthen the colonial system once again
-
-C) To bring Turkey closer to the Soviet Union
-
-✓ D) To strengthen especially Greece and Turkey against the Soviet threat
-
-  
-PDF
-
-E) To leave Turkey completely alone during the war
-
-Arabic: أي عبارة تعكس بشكل صحيح الهدف الرئيسي لمبدأ ترومان؟
-
-💡 Shortcut:
-
-Keywords: aim of the Truman Doctrine → strengthen especially Greece and Turkey against the Soviet threat
-
-Question 14
-English: Which of the following statements about the Marshall Plan is correct?  
-PDF
-
-A) It was a military aid plan directed only at Turkey.
-
-B) It was prepared solely for Eastern European countries.
-
-C) Turkey was completely excluded from this plan.
-
-✓ D) It aimed at the economic reconstruction of European countries affected by the war, and Turkey was included in this plan.
-
-  
-PDF
-
-E) It was designed only to promote the development of the Soviet Union.
-
-Arabic: أي من العبارات التالية المتعلقة بخطة مارشال صحيحة؟
-
-💡 Shortcut:
-
-Keywords: Marshall Plan → economic reconstruction of European countries / Turkey was included
-
-Question 15
-English: Which of the following statements about the transition to multi-party politics in Turkey after the Second World War is correct?  
-PDF
-
-A) Single-party regimes gained prestige and no opposition was allowed.
-
-B) The Democratic Party came to power as the single party before the war.
-
-C) The transition to multi-party politics took place only because of Soviet pressure.
-
-D) The “Dörtlü Takrir” (Motion of the Four) was immediately accepted and the CHP changed its name to the Democratic Party.
-
-✓ E) From 1945 onwards, İsmet İnönü initiated the process of founding more than one party within the constitutional framework; after the “Dörtlü Takrir” was rejected, Celal Bayar, Adnan Menderes, Refik Koraltan and Fuat Köprülü left the CHP and founded the Democratic Party on 7 January 1946.
-
-  
-PDF
-
-Arabic: أي من العبارات التالية حول التحول إلى التعددية الحزبية في تركيا بعد الحرب العالمية الثانية صحيحة؟
-
-💡 Shortcut:
-
-Keywords: transition to multi-party politics → "Dörtlü Takrir" rejected / left CHP and founded Democratic Party on 7 January 1946
-
-Are there any other questions or sections you want to format next?
