@@ -535,35 +535,35 @@ Arabic: عندما تكون تركيا طرفاً محارباً في الحرب
 
 `ما هي الخطوة التي اتخذتها تركيا لتصبح أحد الأعضاء المؤسسين للأمم المتحدة؟`
 
-- Declaring war on Germany and Japan on 23 February 1945 and then signing the United Nations Declaration
+- Declaring war on Germany and Japan on 23 February 1945 and then signing the United Nations Declaration  
 - 💡 Turkey / founding members of the United Nations → Declaring war on Germany and Japan on 23 February 1945
 
 ---
 
 ### After the Second World War, which two states emerged as “superpowers” in world politics?
 `بعد الحرب العالمية الثانية، ما هما الدولتان اللتان برزتا كـ "قوى عظمى" في السياسة العالمية؟`
-- United States and Soviet Russia
+- United States and Soviet Russia  
 - 💡 emerged as “superpowers” → United States and Soviet Russia
 
 ---
 
 ### The new alignments formed around the superpowers after the Second World War paved the way for which development?  
 `مهدت التحالفات الجديدة التي تشكلت حول القوى العظمى بعد الحرب العالمية الثانية الطريق لأي تطور؟`
-- The beginning of the Cold War
+- The beginning of the Cold War  
 - 💡 new alignments / superpowers → The beginning of the Cold War
 
 ---
 
 ### Which of the following was an important result of the heavy weakening of the colonial powers after the Second World War?  
 `أي مما يلي كان نتيجة مهمة للإضعاف الشديد للقوى الاستعمارية بعد الحرب العالمية الثانية؟`
-- The age of colonialism began to come to an end.
+- The age of colonialism began to come to an end.  
 - 💡 weakening of colonial powers → The age of colonialism began to come to an end
 
 ---
 
 ### In their struggle for independence, many colonised peoples took inspiration from which historical experience?  
 `في نضالهم من أجل الاستقلال، استلهمت العديد من الشعوب المستعمرة الإلهام من أي تجربة تاريخية؟`
-- The Turkish War of Independence
+- The Turkish War of Independence  
 -💡 colonised peoples / inspiration → The Turkish War of Independence
 
 ---
@@ -572,14 +572,14 @@ Arabic: عندما تكون تركيا طرفاً محارباً في الحرب
 ### Which group of countries correctly lists some of the states that gained independence after the Second World War?  
 `أي مجموعة من الدول تسرد بشكل صحيح بعض الدول التي نالت استقلالها بعد الحرب العالمية الثانية؟`
 
-- India, Pakistan, Libya, Algeria, Tunisia
+- India, Pakistan, Libya, Algeria, Tunisia  
 -💡 gained independence / after Second World War → India, Pakistan, Libya, Algeria, Tunisia
 
 ---
 
 ### Which organisation was founded after the Second World War, replacing the League of Nations and aiming to ensure international security and cooperation?
 `أي منظمة تأسست بعد الحرب العالمية الثانية لتحل محل عصبة الأمم وتهدف إلى ضمان الأمن والتعاون الدوليين؟`
-- United Nations (United Nations Organisation)
+- United Nations (United Nations Organisation)  
 -💡 replacing League of Nations / international security → United Nations
 
 ---
@@ -587,7 +587,7 @@ Arabic: عندما تكون تركيا طرفاً محارباً في الحرب
 ### Under which two main headings are the effects of the Second World War on Turkey examined?
 `تحت أي عنوانين رئيسيين يتم فحص آثار الحرب العالمية الثانية على تركيا؟`
 
-- Effects on foreign policy and domestic policy
+- Effects on foreign policy and domestic policy  
 - 💡 Stwo main headings / effects → Effects on foreign policy and domestic policy
 
 ---
@@ -595,7 +595,7 @@ Arabic: عندما تكون تركيا طرفاً محارباً في الحرب
 ### Which of the following is one of the foreign policy effects of the Second World War on Turkey?
 `أي مما يلي يعد من آثار الحرب العالمية الثانية على السياسة الخارجية لتركيا؟`
 
-- The emergence of the Soviet threat and Turkey's accession to NATO
+- The emergence of the Soviet threat and Turkey's accession to NATO  
 - 💡 foreign policy effects → The emergence of the Soviet threat and Turkey's accession to NATO
 
 ---
@@ -603,9 +603,7 @@ Arabic: عندما تكون تركيا طرفاً محارباً في الحرب
 ### Which of the following is a domestic policy effect of the Second World War on Turkey?
 `أي مما يلي يعد من آثار الحرب العالمية الثانية على السياسة الداخلية في تركيا؟`
 
-- An increase in economic and social distortions and the beginning of the transition to multi-party politics
-
-
+- An increase in economic and social distortions and the beginning of the transition to multi-party politics  
 - 💡 domestic policy effect → distortions and the beginning of the transition to multi-party politics
 
 ---
@@ -613,7 +611,7 @@ Arabic: عندما تكون تركيا طرفاً محارباً في الحرب
 ### Which step did the Soviet Union take towards Turkey on 19 March 1945?
 `ما هي الخطوة التي اتخذها الاتحاد السوفيتي تجاه تركيا في 19 مارس 1945؟`
 
-- It cancelled the 1925 Turkish–Soviet Non-Aggression Pact.
+- It cancelled the 1925 Turkish–Soviet Non-Aggression Pact.  
 - 💡 Soviet Union / 19 March 1945 → cancelled the 1925 Turkish–Soviet Non-Aggression Pact
 
 ---
@@ -621,21 +619,21 @@ Arabic: عندما تكون تركيا طرفاً محارباً في الحرب
   ### Which of the following was among the demands made by the Soviet Union to Turkey in June 1945?  
 `أي مما يلي كان من بين المطالب التي قدمها الاتحاد السوفيتي لتركيا في يونيو 1945؟`
 
-- That Turkey’s eastern borders be revised and that bases be granted to the Soviets in the Straits
+- That Turkey’s eastern borders be revised and that bases be granted to the Soviets in the Straits  
 -💡 demands / Soviet Union / June 1945 → eastern borders be revised and bases granted in the Straits
 
 ---
 
 ### In Turkish–American relations, what did the arrival of the battleship Missouri in Turkey in April 1946 symbolise?  
 `في العلاقات التركية الأمريكية، ماذا رمزت زيارة البارجة الحربية "ميسوري" إلى تركيا في أبريل 1946؟`
-- An important symbol of friendship and rapprochement in the developing relations between Turkey and the United States
+- An important symbol of friendship and rapprochement in the developing relations between Turkey and the United States  
 -💡 arrival of the battleship Missouri → symbol of friendship and rapprochement
 
 ---
 
 ### Which statement correctly reflects the main aim of the Truman Doctrine?  
 `أي عبارة تعكس بشكل صحيح الهدف الرئيسي لمبدأ ترومان؟`
-- To strengthen especially Greece and Turkey against the Soviet threat
+- To strengthen especially Greece and Turkey against the Soviet threat  
 -💡 aim of the Truman Doctrine → strengthen especially Greece and Turkey against the Soviet threat
 
 ---
@@ -643,14 +641,14 @@ Arabic: عندما تكون تركيا طرفاً محارباً في الحرب
 ### Which of the following statements about the Marshall Plan is correct?  
 `أي من العبارات التالية المتعلقة بخطة مارشال صحيحة؟`
 
-- It aimed at the economic reconstruction of European countries affected by the war, and Turkey was included in this plan.
+- It aimed at the economic reconstruction of European countries affected by the war, and Turkey was included in this plan.  
 -💡 Marshall Plan → economic reconstruction of European countries / Turkey was included
 
 ---
 
 ### Which of the following statements about the transition to multi-party politics in Turkey after the Second World War is correct?  
 `أي من العبارات التالية حول التحول إلى التعددية الحزبية في تركيا بعد الحرب العالمية الثانية صحيحة؟`
-- From 1945 onwards, İsmet İnönü initiated the process of founding more than one party within the constitutional framework; after the “Dörtlü Takrir” was rejected, Celal Bayar, Adnan Menderes, Refik Koraltan and Fuat Köprülü left the CHP and founded the Democratic Party on 7 January 1946.
+- From 1945 onwards, İsmet İnönü initiated the process of founding more than one party within the constitutional framework; after the “Dörtlü Takrir” was rejected, Celal Bayar, Adnan Menderes, Refik Koraltan and Fuat Köprülü left the CHP and founded the Democratic Party on 7 January 1946.  
 -💡 transition to multi-party politics → "Dörtlü Takrir" rejected / left CHP and founded Democratic Party on 7 January 1946
 
 
