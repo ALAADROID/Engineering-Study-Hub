@@ -41,7 +41,7 @@
 
 ### Under the Montreux Convention, what was the main change concerning demilitarization and the International Straits Commission?
 `بموجب اتفاقية مونترو، ما هو التغيير الرئيسي المتعلق بنزع السلاح واللجنة الدولية للمضائق؟`
-- Demilitarization was completely abolished and the International Straits Commission was dissolved.
+- Demilitarization was completely abolished and the International Straits Commission was dissolved.  
 -💡 main change concerning demilitarization → completely abolished / dissolved
 
 ---
