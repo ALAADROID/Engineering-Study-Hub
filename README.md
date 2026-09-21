@@ -38,7 +38,7 @@ Explore the specific hubs below for detailed notes and exercises:
 
 ### 🦺 Engineering & Professional Foundations
 
-* **[Occupational Health and Safety](./Occupational-Health-and-Safety)** – Workplace safety principles, risk assessment, hazards, and occupational health and safety practices.
+* **[Occupational Health and Safety Hub](./Occupational-Health-and-Safety-Hub)** – Workplace safety principles, risk assessment, hazards, and occupational health and safety practices.
 
 <br>
 
