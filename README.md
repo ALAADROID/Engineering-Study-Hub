@@ -34,7 +34,7 @@ Explore the specific hubs below for detailed notes and exercises:
 * **[Linear Algebra Hub](./Linear-Algebra-Hub)** – Matrices, vector spaces, and solved questions.
 * **[Probability & Random Variables Hub](./Probability-and-Random-Variables-Hub)** – Distribution functions and final prep.
 * **[Statistics Hub](./Statistics-Hub)** – Sampling theory and data analysis.
-* **[Physics Hub](./Physics-Hub)** – Mechanics, electromagnetism, and chapter summaries.
+* **[Physics I Hub](./Physics-I-Hub)** – Mechanics, electromagnetism, and chapter summaries.
 
 ### 🦺 Engineering & Professional Foundations
 
