@@ -1,6 +1,6 @@
 # Engineering Study Hub 📘
 
-A collaborative and organized space for engineering knowledge. This hub provides clear notes, diagrams, and resources to support learning, teaching, and future expansion across multiple engineering fields.
+A collaborative and organized space for engineering knowledge. This hub provides clear notes, diagrams, exercises, and resources to support learning, teaching, and future expansion across multiple engineering fields.
 
 > [!NOTE]
 > This repository is actively maintained. New lectures, exercises, and subjects are added regularly to support ongoing engineering coursework.
@@ -9,32 +9,36 @@ A collaborative and organized space for engineering knowledge. This hub provides
 
 ## 📂 Repository Directory
 
-Explore the specific hubs below for detailed notes and exercises:
+Explore the specific hubs below for detailed notes, exercises, reviews, and learning resources:
 
 ### 💻 Computer Engineering & Programming
 
-* **[Computer Architecture Hub](./Computer-Architecture-Hub)** – LC-3 instructions, CPU design, and exercises.
-* **[Data Structures Hub](./Data-Structures-Hub)** – Trees, graphs, stacks, and algorithmic foundations.
-* **[Database Management Systems Hub](./Database-Management-Systems-Hub)** – SQL queries, normalization, and relational algebra.
-* **[Design and Analysis of Algorithms](./Design-and-Analysis-of-Algorithms)** – Complexity analysis and optimization strategies.
-* **[Logic Design Hub](./Logic-Design-Hub)** – Boolean algebra, circuit design, and final reviews.
-* **[Object-Oriented Programming Hub](./Object-Oriented-Programming-Hub)** – OOP principles, classes, and design patterns.
-* **[System Programming Hub](./System-Programming-Hub)** – System-level programming concepts, processes, memory, and low-level software development.
-* **[Artificial Intelligence Hub](./Artificial-Intelligence-Hub)** – Artificial intelligence concepts, algorithms, and learning materials.
+* **[Algorithms and Programming I Hub](./Algorithms-and-Programming-I-Hub)** – Fundamental programming concepts, algorithms, problem-solving, and programming exercises.
+* **[Algorithms and Programming II Hub](./Algorithms-and-Programming-II-Hub)** – Advanced programming concepts, algorithms, data structures, and programming exercises.
+* **[Artificial Intelligence Hub](./Artificial-Intelligence-Hub)** – Artificial intelligence concepts, algorithms, models, and learning materials.
+* **[Computer Architecture Hub](./Computer-Architecture-Hub)** – LC-3 instructions, CPU design, computer organization, and exercises.
 * **[Data Mining Hub](./Data-Mining-Hub)** – Data preprocessing, pattern discovery, classification, and data analysis.
+* **[Data Structures Hub](./Data-Structures-Hub)** – Trees, graphs, stacks, queues, and algorithmic foundations.
+* **[Database Management Systems Hub](./Database-Management-Systems-Hub)** – SQL queries, normalization, relational algebra, and database concepts.
+* **[Design and Analysis of Algorithms Hub](./Design-and-Analysis-of-Algorithms-Hub)** – Complexity analysis, algorithm design, and optimization strategies.
+* **[Logic Design Hub](./Logic-Design-Hub)** – Boolean algebra, logic gates, circuit design, and final reviews.
+* **[Object-Oriented Programming Hub](./Object-Oriented-Programming-Hub)** – OOP principles, classes, objects, inheritance, and design concepts.
+* **[System Programming Hub](./System-Programming-Hub)** – System-level programming concepts, processes, memory, and low-level software development.
 
 ### ⚡ Electrical Engineering & Electronics
 
-* **[Signals and Systems Hub](./Signals-and-Systems-Hub)** – Signals, systems, transformations, and fundamental analysis.
 * **[Fundamentals of Circuit Analysis Hub](./Fundamentals-of-Circuit-Analysis-Hub)** – Basic circuit concepts, circuit laws, analysis methods, and exercises.
+* **[Signals and Systems Hub](./Signals-and-Systems-Hub)** – Signals, systems, transformations, and fundamental analysis.
 
 ### 🔢 Mathematics & Sciences
 
+* **[Calculus I Hub](./Calculus-I-Hub)** – Fundamental calculus concepts, differentiation, integration, and related exercises.
 * **[Differential Equations Hub](./Differential-Equations-Hub)** – First-order, second-order, and Laplace transforms.
-* **[Linear Algebra Hub](./Linear-Algebra-Hub)** – Matrices, vector spaces, and solved questions.
-* **[Probability & Random Variables Hub](./Probability-and-Random-Variables-Hub)** – Distribution functions and final prep.
-* **[Statistics Hub](./Statistics-Hub)** – Sampling theory and data analysis.
+* **[Linear Algebra Hub](./Linear-Algebra-Hub)** – Matrices, vector spaces, linear transformations, and solved questions.
+* **[Probability & Random Variables Hub](./Probability-and-Random-Variables-Hub)** – Probability concepts, random variables, distribution functions, and final preparation.
+* **[Statistics Hub](./Statistics-Hub)** – Statistical concepts, sampling theory, data analysis, and final preparation.
 * **[Physics I Hub](./Physics-I-Hub)** – Mechanics, electromagnetism, and chapter summaries.
+* **[Physics II Hub](./Physics-II-Hub)** – Physics concepts, chapter materials, and exercises.
 
 ### 🦺 Engineering & Professional Foundations
 
