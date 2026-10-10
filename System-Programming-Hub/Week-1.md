@@ -11,7 +11,7 @@
 ### Essential APT Commands
 
 | command | stands for | purpose of usage | info |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | `sudo su` | SuperUser Do / Switch User | Grants administrator (root) rights to execute system-level commands | Requires root/sudo password |
 | `apt-get update` | Advanced Package Tool - Get Update | Compares the local system's current software packages with the latest available versions in repositories | Refreshes local package index list, does not actually update apps yet |
 | `apt-get upgrade` | Advanced Package Tool - Get Upgrade | Installs the newer versions of the packages currently installed on your system | Upgrades all upgradable packages to their latest versions |
