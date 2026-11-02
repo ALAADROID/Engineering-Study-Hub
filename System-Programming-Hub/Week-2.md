@@ -80,17 +80,10 @@
 
 ## 1. Systemd Services & `systemctl` Commands
 
-* **What is a process?** The Linux operating system calls a running program a process, which can run in the foreground or background under kernel management[cite: 1].
-* **What is the init process?** The kernel creates the first process, called the init process (`systemd`), to start all other processes[cite: 1].
-* **What is `systemctl`?** The main command used to manage `systemd` services and system state[cite: 1].
+* **What is `systemctl`?** The main command used to manage `systemd` services and system state.
 
 
 ---
-
-## 2. Terminal Types: TTY vs. PTY
-
-* **Virtual Console (TTY):** A terminal session running directly in system memory, independent of the graphical desktop, created by the Linux Kernel (accessed via `Ctrl + Alt + F1` through `F6`, used for recovery and server maintenance)[cite: 1].
-* **Terminal Emulator (PTS / Pseudo Terminal Slave):** A software program that emulates a terminal inside the graphical desktop environment for daily command-line work[cite: 1].
 
 | Command / Feature | TTY (Virtual Console) | PTY (Terminal Emulator) |
 | :--- | :--- | :--- |
@@ -102,8 +95,7 @@
 
 ## 4. Navigation, Filesystem, and Text Viewing Commands
 
-* **Absolute Path:** Full path starting from the root directory `/` (e.g., `/home/osman/data`)[cite: 1].
-* **Relative Path:** Path relative to your current working directory (e.g., `./data` or `../var`)[cite: 1].
+
 * **Hard Link:** Shares the exact same inode as the original file; if the original is deleted, data remains accessible through the link[cite: 1].
 * **Symbolic Link (Symlink):** A shortcut pointer to the original file path; if the original file is deleted, the symlink breaks[cite: 1].
 
