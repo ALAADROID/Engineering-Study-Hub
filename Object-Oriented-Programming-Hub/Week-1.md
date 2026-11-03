@@ -1,4 +1,4 @@
-# CENG201 — Week 01: Java Fundamentals
+# Week 01: Java Fundamentals
 
 ## 1. Java Environment
 - JVM (Java Virtual Machine): Executes Java bytecode.
