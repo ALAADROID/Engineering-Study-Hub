@@ -49,3 +49,19 @@
 - LCV: Choose the value that eliminates the fewest options for others.
 - Forward Checking: Remove incompatible neighboring values after an assignment.
 - Arc Consistency: Every remaining value must have compatible support in the connected variable's domain.
+
+---
+
+## Exam trap: Is A optimal with an admissible but inconsistent heuristic?
+
+### The correct answer needs a qualification:
+- Tree search: Yes, an admissible heuristic can guarantee optimality under the standard assumptions.
+- Graph search: It can still be optimal if the algorithm correctly reopens states when a cheaper path is found.
+- A graph-search implementation that permanently closes nodes and never reopens them may lose the optimality guarantee with an inconsistent heuristic.
+
+### Quick algorithm selection
+- Equal step costs and shortest number of steps? → BFS.
+- Low memory and depth exploration? → DFS, but watch completeness and optimality.
+- Different path costs? → UCS.
+- Want to use only estimated distance? → Greedy.
+- Want actual cost plus estimated remaining cost? → A*.
