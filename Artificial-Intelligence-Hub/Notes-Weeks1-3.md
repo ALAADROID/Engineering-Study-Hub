@@ -65,3 +65,9 @@
 - Different path costs? → UCS.
 - Want to use only estimated distance? → Greedy.
 - Want actual cost plus estimated remaining cost? → A*.
+
+
+Memory trick:
+- MRV: Which variable has the fewest choices?
+- Degree: Which variable affects the most others?
+- LCV: Which value leaves the most freedom?
