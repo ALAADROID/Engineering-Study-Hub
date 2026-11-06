@@ -1,4 +1,5 @@
-Week 4 — Fuzzy Logic
+# Week 4 — Fuzzy Logic
+
 1. Fuzzy Logic
 - Handles gradual concepts rather than only True/False.
 - Membership degree ranges from 0 to 1.
