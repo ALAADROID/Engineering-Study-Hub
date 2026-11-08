@@ -55,8 +55,9 @@
 // OVERLOADING
 void print(int x) {}
 void print(String x) {}
+// Same name, different parameters.
 ```
-Same name, different parameters.
+
 
 ```java
 // OVERRIDING
@@ -72,9 +73,8 @@ class Dog extends Animal {
         System.out.println("Woof");
     }
 }
-
+// Same inherited method, different implementation.
 ```
-Same inherited method, different implementation.
 
 > Overloading → compile-time method selection.
 > Overriding → runtime dynamic dispatch for instance methods.
