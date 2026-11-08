@@ -55,6 +55,7 @@
 // OVERLOADING
 void print(int x) {}
 void print(String x) {}
+
 // Same name, different parameters.
 ```
 
@@ -73,6 +74,7 @@ class Dog extends Animal {
         System.out.println("Woof");
     }
 }
+
 // Same inherited method, different implementation.
 ```
 
