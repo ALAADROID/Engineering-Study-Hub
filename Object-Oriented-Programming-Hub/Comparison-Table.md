@@ -50,7 +50,18 @@
 | `toString()` | `getClass()` | Text representation vs runtime class information. |
 | `HashSet` | ArrayList | Unique elements vs allows duplicate elements. |
 
-## Overloading vs overriding
+
+## E. Fields, Methods, and Instances:
+| Term | Meaning |
+|---|---|
+| Field | A variable declared inside a class, outside methods. |
+| Method | A function belonging to a class. |
+| Instance | An individual object created from a class. |
+| Instance variable | A non-static field belonging to each object. |
+| Instance method | A non-static method called on an object. |
+
+
+## F. Overloading vs overriding
 ```java
 // OVERLOADING
 void print(int x) {}
