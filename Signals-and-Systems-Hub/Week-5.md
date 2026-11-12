@@ -1,4 +1,4 @@
-### Complex Exponentials and LTI Systems
+## Complex Exponentials and LTI Systems
 
 **Euler's formula:**
 
@@ -23,3 +23,24 @@ y(t) = H(jω) · e^(jωt)
 H(jω) = ∫ h(τ)e^(−jωτ)dτ
 
 It describes how an LTI system responds to different frequencies.
+
+--- 
+
+## Complex Exponential Fourier Series
+
+A periodic signal can be represented as a sum of complex exponentials.
+
+### Synthesis Equation
+
+x(t) = &sum;<sub>k=-&infin;</sub><sup>&infin;</sup> A<sub>k</sub> e<sup>j k &omega;<sub>0</sub> t</sup>
+
+### Definitions
+
+- **x(t)**: Original periodic signal.
+- **A<sub>k</sub>**: Complex Fourier coefficient (amplitude and phase information).
+- **&omega;<sub>0</sub>**: Fundamental angular frequency.
+- **k**: Harmonic index.
+
+### Description
+
+**Synthesis:** Reconstructing the signal using its Fourier coefficients.
