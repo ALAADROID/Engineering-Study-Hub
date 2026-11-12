@@ -5,4 +5,4 @@
 > [EE307_HW1.pdf](https://github.com/user-attachments/files/34247063/EE307_HW1.pdf)
 
 ## The homework solutions:
-> [EE307_HW1_Solutions.pdf](https://github.com/user-attachments/files/34247066/EE307_HW1_Solutions.pdf)
+> [EE307_HW1_Solutions.pdf](https://github.com/user-attachments/files/34768129/EE307_HW1_Solutions.pdf)
