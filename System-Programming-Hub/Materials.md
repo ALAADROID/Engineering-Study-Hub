@@ -19,8 +19,8 @@
 > [Week 7 Lab Practices.docx](https://github.com/user-attachments/files/35504287/Week.7.Lab.Practices.docx)
 
 
-## 
-> 
+## Week 8 - Midterm week:
+> EMPTY
 
 
 ## Week 9 - Fundamentals of Container Technology (Namespaces, cgroups, and OverlayFS):
