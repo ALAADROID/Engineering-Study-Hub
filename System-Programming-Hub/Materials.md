@@ -13,3 +13,21 @@
 
 ## Week 6 - Git Fundamentals (Snapshots, Hashes, Three Areas, and .gitignore):
 > [Week 6 Lab Practices.docx](https://github.com/user-attachments/files/34182617/Week.6.Lab.Practices.docx)
+
+
+## Week 7 - GitHub Fundamentals:
+> [Week 7 Lab Practices.docx](https://github.com/user-attachments/files/35504287/Week.7.Lab.Practices.docx)
+
+
+## 
+> 
+
+
+## Week 9 - Fundamentals of Container Technology (Namespaces, cgroups, and OverlayFS):
+> [Week-9 Lab Practices.docx](https://github.com/user-attachments/files/35504283/Week-9.Lab.Practices.docx)
+
+
+## Week 10 - Container Images, Dockerfiles, and Containerizing Applications:
+> [Week-10 Lab Practices.odt](https://github.com/user-attachments/files/35504289/Week-10.Lab.Practices.odt)
+
+
